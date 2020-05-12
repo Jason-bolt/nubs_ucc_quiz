@@ -42,7 +42,7 @@ $full_name = $_SESSION['fullname'];
 // checking to see if user exists
 $checkquery = "SELECT * FROM users WHERE full_name = '$full_name' LIMIT 1";
 $check = mysqli_query($connection, $checkquery);
-if ($check) {
+if (mysqli_num_rows($check) > 0) {
 	$full_name = $full_name . "/";
 }
 
