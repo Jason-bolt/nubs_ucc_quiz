@@ -1,3 +1,3 @@
 <?php
-	header("Location: public/soon.php");
+	header("Location: public/index.php");
 ?>
