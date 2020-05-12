@@ -39,15 +39,6 @@ $_SESSION['score'] = $score;
 
 $full_name = $_SESSION['fullname'];
 
-// checking to see if user exists
-$checkquery = "SELECT * FROM users WHERE full_name = '$full_name' LIMIT 1";
-$check = mysqli_query($connection, $checkquery);
-if (mysqli_num_rows($check) > 0) {
-	$full_name = $full_name . "/";
-}else{
-	$full_name = $_SESSION['fullname'];
-}
-
 
 // insert name and score into users table
 $sql = "INSERT INTO users(full_name, score) VALUES('$full_name', $score)";
