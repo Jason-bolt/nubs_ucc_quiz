@@ -36,11 +36,13 @@ for ($i=1; $i <= 33; $i++) {
 
 $_SESSION['score'] = $score;
 
-$full_name = $_SESSION['fullname'];
+$fullname = $_SESSION['fullname'];
+
+// $full_name = $_SESSION['fullname'];
 
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, score) VALUES('$full_name', $score)";
+$sql = "INSERT INTO users(full_name, score) VALUES('$fullname', $score)";
 mysqli_query($connection, $sql);
 
 header("Location: result.php");
