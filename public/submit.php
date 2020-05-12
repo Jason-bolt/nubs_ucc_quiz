@@ -44,6 +44,8 @@ $checkquery = "SELECT * FROM users WHERE full_name = '$full_name' LIMIT 1";
 $check = mysqli_query($connection, $checkquery);
 if (mysqli_num_rows($check) > 0) {
 	$full_name = $full_name . "/";
+}else{
+	$full_name = $_SESSION['fullname'];
 }
 
 
