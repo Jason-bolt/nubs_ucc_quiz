@@ -36,7 +36,6 @@ for ($i=1; $i <= 33; $i++) {
 
 $_SESSION['score'] = $score;
 
-
 $full_name = $_SESSION['fullname'];
 
 
