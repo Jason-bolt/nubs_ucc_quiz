@@ -51,7 +51,7 @@
 		    ?>
 		    <tr>
 		    <td ><?php echo $result['full_name']; ?></td>
-		    <td ><?php echo $result['score'] . "(" . $percentage = ($score / 33) * 100 . ")"; ?></td>
+		    <td ><?php echo $result['score'] . "(" . $percentage = ($result['score'] / 33) * 100 . ")"; ?></td>
 		    </tr>
 		    <?php
 		  }
