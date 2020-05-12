@@ -18,8 +18,6 @@ for ($i=1; $i <= 33; $i++) {
 
 	// keeping user answers
 	$user_answers[$i] = $_POST[$index];
-	// putting the valuse in the session
-	$_SESSION['user_answers'] = $user_answers;
 	
 	// now compare answer result with database answers
 	$query = "SELECT * from answers WHERE id = {$i} LIMIT 1";
@@ -34,15 +32,29 @@ for ($i=1; $i <= 33; $i++) {
 	}
 }
 
+// putting the valuse in the session
+$_SESSION['user_answers'] = $user_answers;
+
 $_SESSION['score'] = $score;
 
-$fullname = $_SESSION['fullname'];
+$percentage = round((($score / 39) * 100), 1);
 
-// $full_name = $_SESSION['fullname'];
+$_SESSION['percentage'] = $percentage;
+
+$full_name = $_SESSION['full_name'];
+
+// checking the number of attempts
+$checkQuery = "SELECT * FROM users_2 WHERE full_name LIKE '$full_name%'";
+$check = mysqli_query($connection, $checkQuery);
+if (mysqli_num_rows($check) > 0) {
+	foreach ($check as $num) {
+		$full_name = $full_name . "/";
+	}
+}
 
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, score) VALUES('$fullname', $score)";
+$sql = "INSERT INTO users_2(full_name, raw_score, percentage) VALUES('$full_name', $score, $percentage)";
 mysqli_query($connection, $sql);
 
 header("Location: result.php");

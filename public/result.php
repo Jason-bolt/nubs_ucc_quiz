@@ -24,9 +24,10 @@
 		// getting user's input array from session;
 		$user_answers = $_SESSION['user_answers'];
 		$score = $_SESSION['score'];
+		$percentage = $_SESSION['percentage'];
 
 		// questions query
-		$query = "SELECT * FROM questions";
+		$query = "SELECT * FROM questions_2";
 		$questions = mysqli_query($connection, $query);
 
 	?>
@@ -44,13 +45,9 @@
 		</div>
 		<div class="card-body">
 
-<?php
-	// calculating score in percentage
-	$percentage = ($score / 33) * 100;
-?>
 
 			<!-- displaying score -->
-			<h6 class="text-center">Score: <?php echo $score . " (" . round($percentage, 1) . "%)"; ?></h6>
+			<h6 class="text-center">Score: <?php echo $score . " (" . $percentage . "%)"; ?></h6>
 			
 			<?php
 			$count = 0;
@@ -75,7 +72,7 @@
 						if ($answer['answer'] == 'A') {
 					?>
 						<div class="radio">
-							<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+							<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 						</div>
 
 					<?php
@@ -83,33 +80,33 @@
 						if ($user_answers[$id] == 'B') {
 					?>
 						<div class="radio">
-							<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 						</div>
 					<?php
 						// turning option C to red
 						}elseif ($user_answers[$id] == 'C'){
 					?>
 						<div class="radio">
-							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label  style="color: red;"	><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+							<label  style="color: red;"	><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 						</div>
 					<?php			
 						// if answer is correct leave as is			
 						}else{
 					?>
 						<div class="radio">
-							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+							<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 						</div>
 					<?php
 						}
@@ -129,45 +126,45 @@
 							if ($user_answers[$id] == 'A') {
 						?>
 							<div class="radio">
-								<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+								<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 							</div>
 						<?php
 						// turning option C to red
 							}elseif($user_answers[$id] == 'C'){
 						?>
 							<div class="radio">
-								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+								<label style="color: red;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 							</div>
 						<?php
 						// if answer is correct leave as is
 							}else{
 						?>
 							<div class="radio">
-								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+								<label style="color: green;"><input required type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 							</div>
 
 							<div class="radio">
-								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+								<label><input required type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 							</div>
 						<?php
 							}
@@ -184,40 +181,40 @@
 							if ($user_answers[$id] == 'A') {
 					?>
 						<div class="radio">
-							<label style="color: red;"><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+							<label style="color: red;"><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 					<?php
 					// turning option B to red
 							}elseif($user_answers[$id] == 'B'){
 					?>
 						<div class="radio">
-							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label style="color: red;"><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label style="color: red;"><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 					<?php
 							}else{
 								// if answer is correct leave as is
 					?>
 						<div class="radio">
-							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 						</div>
 
 						<div class="radio">
-							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+							<label><input type="radio" disabled name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 						</div>
 					<?php
 							}
 					?>
 					
 						<div class="radio">
-							<label style="color: green;"><input type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+							<label style="color: green;"><input type="radio" disabled name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 						</div>
 
 					<?php

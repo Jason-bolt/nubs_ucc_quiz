@@ -19,7 +19,7 @@
 <?php 
 	include_once('db.php'); 
 	
-	$query = "SELECT * FROM questions";
+	$query = "SELECT * FROM questions_2";
 	$questions = mysqli_query($connection, $query);
 ?>
 
@@ -42,7 +42,7 @@
 			</div>
 			<div class="card-body">
 				<form action="index.php" method="POST">
-					<input required type="text" name="fullname" placeholder="John Doe">
+					<input required type="text" name="full_name" placeholder="John Doe">
 					<button type="submit" name="submit" class="btn btn-primary">Start quiz</button>
 				</form>	
 			</div>
@@ -54,7 +54,7 @@
 <?php
 	}else{
 		// name is inputted so show quiz
-		$_SESSION['fullname'] = $_POST['fullname'];
+		$_SESSION['full_name'] = $_POST['full_name'];
 ?>
 	<section class="container">
 	
@@ -71,13 +71,13 @@
 				<!-- answers -->
 				<div class="container">
 					<div class="radio">
-						<label><input required type="radio" name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
+						<label><input required type="radio" name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
 					</div>
 					<div class="radio">
-						<label><input type="radio" name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
+						<label><input type="radio" name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
 					</div>
 					<div class="radio">
-						<label><input type="radio" name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
+						<label><input type="radio" name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
 					</div>
 				</div>
 			</div>
@@ -109,170 +109,239 @@
 
 
 <!-- 
-	PROVERBS CHAPTER 11
 
-Dishonest scales are what to the Lord?
-(A) wise
-(B) an abomination
+PROVERBS CHAPTER 12
+1. Who is said to love knowledge?
+(A) the way of righteousness
+(B) whoever loves instruction
 (C) a foolish son
 
-2. What comes with pride?
-(A) death
+2. What is one who hates correction called?
+(A) wicked ones
 (B) righteousness
-(C) shame
+(C) stupid
 
-3. The perversity of the unfaithful is contrasted with what?
-(A) integrity of the upright
-(B) his own wickedness
+3. If grace means `favor`, who obtains it from the Lord?
+(A) good man
+(B) the righteous
 (C) the righteous soul
 
-4. Riches cannot buy deliverance from what?
-(A) his own wickedness
+4. What kind of intentions are condemned by God?
+(A) excellent wife
 (B) the hand of the diligent
-(C) death
+(C) wicked ones
 
-5. What causes the wicked to fall?
-(A) his own wickedness
-(B) when a wicked man dies
+5. What root cannot be moved?
+(A) the righteous
+(B) she who causes shame
 (C) blessings
 
-6. What `catches` the unfaithful?
-(A) his own wickedness
-(B) an abomination
-(C) enemies near the door of her house
+6. Where is the crown of the husband?
+(A) excellent wife
+(B) whoever loves instruction
+(C) near the door of her house
 
-7. Hope and expectation for the wicked and unjust stops at what time?
-(A) your labors go to a foreigner
-(B) wise
-(C) when a wicked man dies
+7. What wife is like rottenness in one`s bones?
+(A) will deliver
+(B) labors going to a foreigner
+(C) she who causes shame
 
-8. Being righteous delivers one from what?
-(A) when it goes well
-(B) obeying the voice
-(C) trouble
+8. What type of advice is deceitful?
+(A) house of the righteous
+(B) the ones we do not obey
+(C) counsels of the wicked
 
-9. By what means will the righteous be delivered?
-(A) through knowledge
-(B) the mouth of the wicked
-(C) consuming the body
+9. The mouth of the upright will do what?
+(A) will deliver
+(B) his wisdom
+(C) consume
 
-10. What happens to the righteous that makes a happy ending for the city?
-(A) his peace
-(B) when it goes well
-(C) drinking from his own cistern
+10. Whose house will stand?
+(A) the one who is slighted but has a servant
+(B) house of the righteous
+(C) your own
 
-11. What overthrows a city?
-(A) a faithful one
-(B) the mouth of the wicked
+11. What commends a person?
+(A) righteous man
+(B) his wisdom
 (C) love
 
-12. With what should a man of understanding hold his neighbor?
-(A) in the multitude of counselors
-(B) rod
-(C) his peace
+12. Which is better, the one with a servant but is slighted, or the one honoring himself who lacks bread?
+(A) the wicked
+(B) one who lacks bread
+(C) the one who is slighted but has a servant
 
-13. What spirit conceals secrets?
-(A) being surety
-(B) a faithful one
-(C) hatred
+13. Which regards the welfare of his animal?
+(A) frivolity
+(B) righteous man
+(C) a heart of hate
 
-14. Where is the source of safety?
-(A) in the multitude of counselors
-(B) honor
+14. Who lacks tender mercies?
+(A) the wicked
+(B) that of the righteous
 (C) wise people
 
-15. One way of being safe is if one hates what?
-(A) riches
+15. Which is devoid of understanding?
+(A) the catch of evil men
 (B) wisdom
-(C) being surety
+(C) frivolity
 
-16. What does a gracious woman retain?
-(A) the labor of the righteous
-(B) honor
-(C) death
+16. Which root yields fruit?
+(A) the labor of the diligent
+(B) that of the righteous
+(C) wicked ones
 
-17. The object of ruthless men is to retain what?
-(A) a fool
-(B) riches
-(C) integrity of the upright
+17. What does the wicked covet?
+(A) nearby
+(B) the catch of evil men
+(C) good man
 
-18. A merciful man does good to whom?
-(A) shame
+18. What ensnares the wicked?
+(A) stupid
 (B) the foolish
-(C) his own soul
+(C) his lips
 
-19. Who troubles his own flesh?
-(A) an abomination
-(B) he who is cruel
-(C) righteous one
+19. Who comes through trouble?
+(A) whoever loves instruction
+(B) the righteous
+(C) one with multitude of words
 
-20. Who has a certain reward?
-(A) evil
-(B) shame
-(C) sower of righteousness
+20. By what means does good satisfy one?
+(A) to do evil
+(B) stupid
+(C) by the fruit of his mouth
 
-21. Whose work is deceptive?
-(A) wicked man
-(B) an abomination
-(C) diligence
+21. What good does it do for one to work with his own hands?
+(A) recompense of it will be rendered to him
+(B) whoever loves instruction
+(C) little
 
-22. What leads to life?
-(A) sower of righteousness
+22. The way of a fool seems right to whom?
+(A) by the fruit of his mouth
 (B) the blessing of the LORD
-(C) righteousness
+(C) a fool
 
-23. Who in their ways are the Lord`s delight?
-(A) the weary
-(B) the blameless
-(C) the righteous
+23. When does a fool show his wrath?
+(A) righteousness
+(B) at once
+(C) in due time
 
-24. The posterity of whom shall be delivered?
-(A) the strong
-(B) vinegar and smoke
-(C) the righteous
+24. What does the prudent man do when shamed?
+(A) the righteous soul
+(B) vinegar is taken
+(C) covers it
 
-25. A lovely woman without discretion is compared to a ring of gold in what?
-(A) a swine's snout
-(B) an abomination
-(C) clothes of purple
+25. What does he who speaks the truth declare?
+(A) righteousness
+(B) whoever loves instruction
+(C) prolonging of days
 
-26. What is the desire of the righteous?
+26. What does the tongue of the wise promote?
 (A) destruction
-(B) only good
-(C) integrity of the upright
+(B) health
+(C) good man
 
-27. The one who scatters does what?
-(A) shame
-(B) promotes the way of the Lord
-(C) increases more
+27. Which is established forever?
+(A) stupid
+(B) the way of anxiety
+(C) truthful lip
 
-28. He who waters will be what?
-(A) an abomination
-(B) watered himself
-(C) wicked
+28. Who has joy?
+(A) whoever loves instruction
+(B) counselors of peace
+(C) the wicked
 
-29. Which is blessed if he has grain?
+29. What kind of trouble will NOT overtake the righteous?
 (A) a perverse one
-(B) shame
-(C) he who sells it
+(B) stupid
+(C) grave one
 
-30. Which seeker finds favor?
-(A) he who earnestly seeks good
-(B) an abomination
-(C) ambitious to succeed
+30. With what will the wicked be filled?
+(A) evil
+(B) whoever loves instruction
+(C) success
 
-31. He who trusts in his riches will what?
-(A) he who sells it
-(B) shepherd
-(C) fall
+31. The Lord's delight is in whom?
+(A) grave one
+(B) a shepherd
+(C) those who deal truthfully
 
-32. Who inherits the wind?
-(A) righteous one
-(B) he who troubles his own house
-(C) investor in prime stock
+32. What does the heart of fools proclaim?
+(A) righteousness
+(B) foolishness
+(C) the latest news
 
-33. He who wins souls is what?
-(A) a hard worker
+33. Whose hand will rule?
+(A) the righteous soul
 (B) clamorous
-(C) wise
+(C) hand of the diligent
+
+34. What is the future of the lazy person?
+(A) foolishness
+(B) a life of thievery
+(C) forced labor
+
+35. What can cause depression?
+(A) righteousness
+(B) anxiety
+(C) the depths of hell
+
+36. What will make the heart glad?
+(A) the righteous soul
+(A) still water
+(C) a good word
+
+37. What kind of friend will even lead the righteous astray?
+(A) anxiety
+(B) a just man
+(C) the wicked
+
+38. What is a man`s precious possession?
+(A) righteousness
+(B) diligence
+(C) fear of the LORD
+
+39. In what road is no death?
+(A) bearing it alone
+(B) understanding
+(C) the way of righteousness
+1. B
+2. C
+3. A
+4. C
+5. A
+6. A
+7. C
+8. C
+9. A
+10. B
+11. B
+12. C
+13. B
+14. A
+15. A
+16. B
+17. B
+18. C
+19. B
+20. C
+21. A
+22. C
+23. B
+24. C
+25. A
+26. B
+27. C
+28. B
+29. C
+30. A
+31. C
+32. B
+33. C
+34. C
+35. B
+36. C
+37. C
+38. B
+39. C
  -->
