@@ -41,6 +41,7 @@
 			      <th class="text-center">Full name</th>
 			      <th class="text-center">Score</th>
 			      <th class="text-center">Percentage</th>
+			      <th class="text-center">Time</th>
 		      </tr>
 		    </thead>
 		  <tbody>
@@ -54,6 +55,7 @@
 			    <td ><?php echo $result['full_name']; ?></td>
 			    <td ><?php echo $result['raw_score']; ?></td>
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
+			    <td><?php date("h:i:s"); ?></td>
 		    </tr>
 		    <?php
 		  }
