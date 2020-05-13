@@ -12,7 +12,7 @@ $user_answers = []; // to hold correct answers
 $score = 0;
 
 // fetcing results of user
-for ($i=1; $i <= 33; $i++) { 
+for ($i=1; $i <= 39; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
 
