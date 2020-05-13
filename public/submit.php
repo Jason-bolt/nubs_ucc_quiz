@@ -20,7 +20,7 @@ for ($i=1; $i <= 39; $i++) {
 	$user_answers[$i] = $_POST[$index];
 	
 	// now compare answer result with database answers
-	$query = "SELECT * from answers WHERE id = {$i} LIMIT 1";
+	$query = "SELECT * from answers_2 WHERE id = {$i} LIMIT 1";
 	$results = mysqli_query($connection, $query);
 
 	
