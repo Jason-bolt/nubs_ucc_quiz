@@ -68,7 +68,7 @@
 	<br />
 	<br />
 
-	<h6>In order of submission</h6>
+	<h6 class="container">In order of submission</h6>
 
 		<section class="container">
 		<table class="text-center table table-bordered">
