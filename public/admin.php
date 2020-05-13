@@ -33,6 +33,9 @@
 
 		$query = "SELECT * FROM users_2 ORDER BY percentage DESC";
 		$results = mysqli_query($connection, $query);
+
+		$query1 = "SELECT * FROM users_2";
+		$results1 = mysqli_query($connection, $query1);
 ?>
 	<section class="container">
 		<table class="text-center table table-bordered">
@@ -41,7 +44,6 @@
 			      <th class="text-center">Full name</th>
 			      <th class="text-center">Score</th>
 			      <th class="text-center">Percentage</th>
-			      <th class="text-center">Time</th>
 		      </tr>
 		    </thead>
 		  <tbody>
@@ -55,7 +57,39 @@
 			    <td ><?php echo $result['full_name']; ?></td>
 			    <td ><?php echo $result['raw_score']; ?></td>
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
-			    <td><?php echo date("h:i:s"); ?></td>
+		    </tr>
+		    <?php
+		  }
+		    ?>
+		  </tbody>
+	  </table>
+	</section>
+
+	<br />
+	<br />
+
+	<h6>In order of submission</h6>
+
+		<section class="container">
+		<table class="text-center table table-bordered">
+		    <thead>
+		      <tr>
+			      <th class="text-center">Full name</th>
+			      <th class="text-center">Score</th>
+			      <th class="text-center">Percentage</th>
+		      </tr>
+		    </thead>
+		  <tbody>
+		  
+		  <?php
+		  // perform query to get users and their scores
+		    while($result1 = mysqli_fetch_assoc($results1))
+		  {
+		    ?>
+		    <tr>
+			    <td ><?php echo $result1['full_name']; ?></td>
+			    <td ><?php echo $result1['raw_score']; ?></td>
+			    <td ><?php echo $result1['percentage'] . '%'; ?></td>
 		    </tr>
 		    <?php
 		  }
