@@ -55,7 +55,7 @@
 			    <td ><?php echo $result['full_name']; ?></td>
 			    <td ><?php echo $result['raw_score']; ?></td>
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
-			    <td><?php date("h:i:s"); ?></td>
+			    <td><?php echo date("h:i:s"); ?></td>
 		    </tr>
 		    <?php
 		  }
