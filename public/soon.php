@@ -18,13 +18,13 @@
 
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<h6><u>PROVERBS CHAPTER 11</u></h6>
+	<h6><u>PROVERBS CHAPTER 14</u></h6>
 </section>
 
 
 <section class="container py-5 text-center">
 	<div class="card py-4">
-		<h5>Quiz on Proverbs chapter 13 will start at 10am</h5>
+		<h5>Quiz on Proverbs chapter 14 will start at 10am</h5>
 	</div>
 </section>
 
