@@ -31,13 +31,14 @@
 	if (isset($_POST['submit']) && $_POST['password'] === "Administrators Only") {
 		// password correct, admin logged in so display users and scores
 
-		$query = "SELECT * FROM users_2 ORDER BY percentage DESC";
+		$query = "SELECT * FROM users ORDER BY percentage DESC";
 		$results = mysqli_query($connection, $query);
 
-		$query1 = "SELECT * FROM users_2";
+		$query1 = "SELECT * FROM users";
 		$results1 = mysqli_query($connection, $query1);
 ?>
 	<section class="container">
+		<h6>In order of highest score</h6>
 		<table class="text-center table table-bordered">
 		    <thead>
 		      <tr>

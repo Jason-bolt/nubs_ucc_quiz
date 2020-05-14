@@ -21,7 +21,7 @@
 <?php 
 	include_once('db.php'); 
 	
-	$query = "SELECT * FROM questions_2";
+	$query = "SELECT * FROM questions";
 	$questions = mysqli_query($connection, $query);
 ?>
 
@@ -74,13 +74,13 @@
 				<!-- answers -->
 				<div class="container">
 					<div class="radio">
-						<label><input required type="radio" name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option_1']; ?></label>
+						<label><input required type="radio" name="question<?php echo $count; ?>" value="A"> A. <?php echo $question['option1']; ?></label>
 					</div>
 					<div class="radio">
-						<label><input type="radio" name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option_2']; ?></label>
+						<label><input type="radio" name="question<?php echo $count; ?>" value="B"> B. <?php echo $question['option2']; ?></label>
 					</div>
 					<div class="radio">
-						<label><input type="radio" name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option_3']; ?></label>
+						<label><input type="radio" name="question<?php echo $count; ?>" value="C"> C. <?php echo $question['option3']; ?></label>
 					</div>
 				</div>
 			</div>
@@ -113,238 +113,166 @@
 
 <!-- 
 
-PROVERBS CHAPTER 12
-1. Who is said to love knowledge?
-(A) the way of righteousness
-(B) whoever loves instruction
-(C) a foolish son
+PROVERBS CHAPTER 13
 
-2. What is one who hates correction called?
-(A) wicked ones
-(B) righteousness
-(C) stupid
+1. Who heeds the father's instruction?
+(A) the righteous
+(B) a wise son
+(C) the blameless
 
-3. If grace means `favor`, who obtains it from the Lord?
-(A) good man
-(B) the righteous
+2. What is the food of the unfaithful?
+(A) destruction
+(B) complains
+(C) violence
+
+3. Who preserves his life?
+(A) the one who guards his mouth
+(B) the good shepherd
 (C) the righteous soul
 
-4. What kind of intentions are condemned by God?
-(A) excellent wife
+4. If one opens wide his lips, what will he have?
+(A) rich
 (B) the hand of the diligent
-(C) wicked ones
+(C) destruction
 
-5. What root cannot be moved?
-(A) the righteous
-(B) she who causes shame
-(C) blessings
+5. What does the soul of the lazy man have?
+(A) nothing
+(B) shame
+(C) anger
 
-6. Where is the crown of the husband?
-(A) excellent wife
-(B) whoever loves instruction
-(C) near the door of her house
+6. What will the soul of the diligent be made?
+(A) rich
+(B) spirit
+(C) cold
 
-7. What wife is like rottenness in one`s bones?
-(A) will deliver
-(B) labors going to a foreigner
-(C) she who causes shame
+7. A righteous man hates lying while a wicked man comes to what?
+(A) nothing
+(B) a sinner
+(C) shame
 
-8. What type of advice is deceitful?
-(A) house of the righteous
-(B) the ones we do not obey
-(C) counsels of the wicked
+8. What guards him whose way is blameless?
+(A) great riches
+(B) men of valour
+(C) righteousness
 
-9. The mouth of the upright will do what?
-(A) will deliver
-(B) his wisdom
-(C) consume
+9. When some make themselves rich, they have what?
+(A) nothing
+(B) great riches
+(C) many proverbs
 
-10. Whose house will stand?
-(A) the one who is slighted but has a servant
-(B) house of the righteous
-(C) your own
+10. Some who make themselves poor have what?
+(A) wisdom
+(B) great riches
+(C) many neighbours
 
-11. What commends a person?
-(A) righteous man
-(B) his wisdom
+11. The ransom of a man`s life is what?
+(A) wisdom
+(B) his riches
 (C) love
 
-12. Which is better, the one with a servant but is slighted, or the one honoring himself who lacks bread?
-(A) the wicked
+12. Whose lamp will be put out?
+(A) the foolish virgin
 (B) one who lacks bread
-(C) the one who is slighted but has a servant
+(C) the wicked
 
-13. Which regards the welfare of his animal?
-(A) frivolity
-(B) righteous man
-(C) a heart of hate
-
-14. Who lacks tender mercies?
-(A) the wicked
-(B) that of the righteous
-(C) wise people
-
-15. Which is devoid of understanding?
-(A) the catch of evil men
+13. What comes to the well-advised?
+(A) desire 
 (B) wisdom
-(C) frivolity
+(C) passion
 
-16. Which root yields fruit?
-(A) the labor of the diligent
-(B) that of the righteous
-(C) wicked ones
+14. What will happen to wealth that`s gained by dishonesty?
+(A) diminished
+(B) rewarded
+(C) accounted for
 
-17. What does the wicked covet?
-(A) nearby
-(B) the catch of evil men
-(C) good man
+15. What is as a tree of life?
+(A) the law of the wise
+(B) wisdom
+(C) when the desire comes
 
-18. What ensnares the wicked?
-(A) stupid
+16. The one who fears the commandment will be what?
+(A) diligent
+(B) rewarded
+(C) command multitudes
+
+17. What is a `fountain of life`?
+(A) baptism
+(B) the law of the wise
+(C) the one who guards his mouth
+
+18. The law of the wise turns one away from what?
+(A) violence
 (B) the foolish
-(C) his lips
+(C) the snares of death.
 
-19. Who comes through trouble?
-(A) whoever loves instruction
-(B) the righteous
+19. What gains favor?
+(A) a wise son
+(B) good understanding
 (C) one with multitude of words
 
-20. By what means does good satisfy one?
-(A) to do evil
-(B) stupid
-(C) by the fruit of his mouth
+20. The way of the unfaithful is what?
+(A) full of spectators
+(B) violence
+(C) hard
 
-21. What good does it do for one to work with his own hands?
-(A) recompense of it will be rendered to him
-(B) whoever loves instruction
-(C) little
+21. With what does a prudent man act?
+(A) with knowledge
+(B) with a wise son
+(C) with no excuses
 
-22. The way of a fool seems right to whom?
-(A) by the fruit of his mouth
-(B) the blessing of the LORD
-(C) a fool
+22. What brings health?
+(A) the Word
+(B) natural and organic
+(C) a faithful ambassador
 
-23. When does a fool show his wrath?
-(A) righteousness
-(B) at once
-(C) in due time
+23. Who will be honored?
+(A) the one who laughs
+(B) he who regards a rebuke
+(C) the one who likes himself
 
-24. What does the prudent man do when shamed?
-(A) the righteous soul
-(B) vinegar is taken
-(C) covers it
+24. What is sweet to the soul?
+(A) confusion that is resolved
+(B) vinegar that is taken
+(C) a desire accomplished
 
-25. What does he who speaks the truth declare?
-(A) righteousness
-(B) whoever loves instruction
-(C) prolonging of days
+25. Who will be wise?
+(A) he who walks with wise men
+(B) one who learns from others mistakes
+(C) the one who hate lies
 
-26. What does the tongue of the wise promote?
-(A) destruction
-(B) health
-(C) good man
+26. Who will be destroyed?
+(A) followers of debtors
+(B) the companion of fools
+(C) the one who shouts
 
-27. Which is established forever?
-(A) stupid
-(B) the way of anxiety
-(C) truthful lip
+27. To whom is good repaid?
+(A) the hard worker
+(B) the passionate ones
+(C) the righteous
 
-28. Who has joy?
-(A) whoever loves instruction
-(B) counselors of peace
-(C) the wicked
+28. To whom does a good man leave an interitance?
+(A) to the government
+(B) to his children's children
+(C) to holy men
 
-29. What kind of trouble will NOT overtake the righteous?
-(A) a perverse one
-(B) stupid
-(C) grave one
+29. For whom is the wealth of the sinner stored?
+(A) for a sinner
+(B) for the one who saves
+(C) for the righteous
 
-30. With what will the wicked be filled?
-(A) evil
-(B) whoever loves instruction
-(C) success
+30. Where is much food?
+(A) in the fallow ground of the poor
+(B) in success
+(C) in the fallow ground of the rich
 
-31. The Lord's delight is in whom?
-(A) grave one
-(B) a shepherd
-(C) those who deal truthfully
+31. He who loves his son does what?
+(A) gives him his desire
+(B) disciplines him promptly
+(C) makes him apologize
 
-32. What does the heart of fools proclaim?
-(A) righteousness
-(B) foolishness
-(C) the latest news
+32. Who eats to the satisfying of his soul?
+(A) the hungry as a lion
+(B) the righteous
+(C) the soul pleaser
 
-33. Whose hand will rule?
-(A) the righteous soul
-(B) clamorous
-(C) hand of the diligent
-
-34. What is the future of the lazy person?
-(A) foolishness
-(B) a life of thievery
-(C) forced labor
-
-35. What can cause depression?
-(A) righteousness
-(B) anxiety
-(C) the depths of hell
-
-36. What will make the heart glad?
-(A) the righteous soul
-(A) still water
-(C) a good word
-
-37. What kind of friend will even lead the righteous astray?
-(A) anxiety
-(B) a just man
-(C) the wicked
-
-38. What is a man`s precious possession?
-(A) righteousness
-(B) diligence
-(C) fear of the LORD
-
-39. In what road is no death?
-(A) bearing it alone
-(B) understanding
-(C) the way of righteousness
-1. B
-2. C
-3. A
-4. C
-5. A
-6. A
-7. C
-8. C
-9. A
-10. B
-11. B
-12. C
-13. B
-14. A
-15. A
-16. B
-17. B
-18. C
-19. B
-20. C
-21. A
-22. C
-23. B
-24. C
-25. A
-26. B
-27. C
-28. B
-29. C
-30. A
-31. C
-32. B
-33. C
-34. C
-35. B
-36. C
-37. C
-38. B
-39. C
  -->

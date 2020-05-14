@@ -12,7 +12,7 @@ $user_answers = []; // to hold correct answers
 $score = 0;
 
 // fetcing results of user
-for ($i=1; $i <= 39; $i++) { 
+for ($i=1; $i <= 32; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
 
@@ -20,7 +20,7 @@ for ($i=1; $i <= 39; $i++) {
 	$user_answers[$i] = $_POST[$index];
 	
 	// now compare answer result with database answers
-	$query = "SELECT * from answers_2 WHERE id = {$i} LIMIT 1";
+	$query = "SELECT * from answers WHERE id = {$i} LIMIT 1";
 	$results = mysqli_query($connection, $query);
 
 	
@@ -37,24 +37,26 @@ $_SESSION['user_answers'] = $user_answers;
 
 $_SESSION['score'] = $score;
 
-$percentage = round((($score / 39) * 100), 1);
+$per = ($score / 32) * 100;
+
+$percentage = round($per, 1);
 
 $_SESSION['percentage'] = $percentage;
 
 $full_name = $_SESSION['full_name'];
 
 // checking the number of attempts
-$checkQuery = "SELECT * FROM users_2 WHERE full_name LIKE '$full_name%'";
-$check = mysqli_query($connection, $checkQuery);
-if (mysqli_num_rows($check) > 0) {
-	foreach ($check as $num) {
-		$full_name = $full_name . "/";
-	}
-}
+// $checkQuery = "SELECT * FROM users_2 WHERE full_name LIKE '$full_name%'";
+// $check = mysqli_query($connection, $checkQuery);
+// if (mysqli_num_rows($check) > 0) {
+// 	foreach ($check as $num) {
+// 		$full_name = $full_name . "/";
+// 	}
+// }
 
 
 // insert name and score into users table
-$sql = "INSERT INTO users_2(full_name, raw_score, percentage) VALUES('$full_name', $score, $percentage)";
+$sql = "INSERT INTO users(full_name, raw_score, percentage) VALUES('$full_name', $score, $percentage)";
 mysqli_query($connection, $sql);
 
 header("Location: result.php");
