@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,7 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<h6><u>PROVERBS CHAPTER 12</u></h6>
+	<h6><u>PROVERBS CHAPTER 13</u></h6>
 </section>
 
 <!-- name not inputted so display form -->
