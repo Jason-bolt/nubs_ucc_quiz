@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,7 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<h6><u>PROVERBS CHAPTER 13</u></h6>
+	<h6><u>PROVERBS CHAPTER 14</u></h6>
 </section>
 
 <!-- name not inputted so display form -->
@@ -113,166 +113,186 @@
 
 <!-- 
 
-PROVERBS CHAPTER 13
+CHAPTER 14
 
-1. Who heeds the father's instruction?
-(A) the righteous
-(B) a wise son
-(C) the blameless
+1. Who is the one that builds her house?
+(A) a wise servant
+(B) the wise woman
+(C) the wise son
 
-2. What is the food of the unfaithful?
-(A) destruction
-(B) complains
-(C) violence
+2. Who despises God?
+(A) the one who eats lies
+(B) one who does not know truth
+(C) he who is perverse in his ways
 
-3. Who preserves his life?
-(A) the one who guards his mouth
-(B) the good shepherd
-(C) the righteous soul
+3. What is in the mouth of a fool?
+(A) a rod of pride
+(B) a twig of wood
+(C) book of insolence
 
-4. If one opens wide his lips, what will he have?
-(A) rich
-(B) the hand of the diligent
-(C) destruction
+4. What comes by the strength of an ox?
+(A) little more
+(B) many employees
+(C) much increase
 
-5. What does the soul of the lazy man have?
-(A) nothing
-(B) shame
-(C) anger
+5. Who does not lie?
+(A) a faithful witness
+(B) a watchman
+(C) perjured person
 
-6. What will the soul of the diligent be made?
-(A) rich
-(B) spirit
-(C) cold
+6. Who does not find wisdom?
+(A) a scoffer
+(B) one who bullies
+(C) a poor person
 
-7. A righteous man hates lying while a wicked man comes to what?
-(A) nothing
-(B) a sinner
-(C) shame
+7. What do you do when you perceive a foolish man talking?
+(A) shut him up
+(B) listen and rebuke him
+(C) go from the presence
 
-8. What guards him whose way is blameless?
-(A) great riches
-(B) men of valour
+8. What is the wisdom of the prudent?
+(A) leads in all things
+(B) to forfeit all returns
+(C) to understand his way
+
+9. Who mock at sin?
+(A) fools
+(B) the misinformed
+(C) rebels
+
+10. A heart knows its own what?
+(A) its gladness
+(B) its own bitterness
+(C) its own life
+
+11. The tent of whom will flourish?
+(A) the forlorn
+(B) the upright
+(C) the loving
+
+12. The way that seems right to a man can end in what?
+(A) eternity
+(B) lack of bread
+(C) death
+
+13. Even in laughter the heart may do what?
+(A) joy in occasions
+(B) may sorrow
+(C) bloom in youth
+
+14. From whence is the good man`s satisfaction?
+(A) from above
+(B) into the mist
+(C) within oneself
+
+15. Who believes just any word?
+(A)  the heartless
+(B) the smartest of them
+(C) the simple
+
+16. Who fears and departs from evil?
+(A) diligent person
+(B) a wise man
+(C) married man
+
+17. How does a quick-tempered man act?
+(A) with people of equal temper
+(B) foolishly
+(C) soberly
+
+18. What is the prudent's crown?
+(A) gold
+(B) polished crown
+(C)knowledge
+
+19. Who will eventually lose to the good?
+(A) the good
+(B) the evil
+(C) the gallant
+
+20. Who has many friends?
+(A) man of influence
+(B) the good hearted
+(C) the rich
+
+21. Who is the happy one?
+(A) he who has mercy on the poor
+(B) the poor who return profits
+(C) people who trust
+
+22. What is the result of devising good?
+(A) guidance into the aftermath
+(B) judgments of the past
+(C) mercy and truth will belong to them
+
+23. Where is profit?
+(A) in the garden of the rich
+(B) in all labor
+(C) in calmness
+
+24. What is the riches of the wise?
+(A) gold from one's feet
+(B) the garments of humility
+(C) a crown
+
+25. Who delivers souls?
+(A) a true witness
+(B) one who is versed in the apologies
+(C) a humble servant
+
+26. There will be a place of refuge in the children of those that have what?
+(A) justice for one and all
+(B) the fear of the LORD
+(C) a rod of fortunes
+
+27. The fear of the Lord is a fountain of life because it does what?
+(A) directs into the freedom
+(B) delivers the merciful
+(C) turns one away from the snares of death
+
+28. The king's honor is in whose support?
+(A) a older servants
+(B) a multitude of people
+(C) young advisers
+
+29. What does the impulsive exalt?
+(A) clever acts
+(B) endearment
+(C) folly
+
+30. What is rottenness to the bones?
+(A) envy
+(B) fornication
+(C) death
+
+31. When one has mercy on the needy, he honors whom?
+(A) his mother
+(B) his good deeds
+(C) his Maker
+
+32. Where does the righteous have refuge?
+(A) in success
+(B) in his death
+(C) in his life
+
+33. Where does wisdom rest in the one who has understanding?
+(A) in the blood
+(B) in bowels of mercy
+(C) in the heart
+
+34. What exalts a nation?
+(A) Strong men
+(B) resisting harm
 (C) righteousness
 
-9. When some make themselves rich, they have what?
-(A) nothing
-(B) great riches
-(C) many proverbs
+35. Sin is a reproach to whom?
+(A) to the depths of Gehenna
+(B) to any people
+(C) to the lonely
 
-10. Some who make themselves poor have what?
-(A) wisdom
-(B) great riches
-(C) many neighbours
-
-11. The ransom of a man`s life is what?
-(A) wisdom
-(B) his riches
-(C) love
-
-12. Whose lamp will be put out?
-(A) the foolish virgin
-(B) one who lacks bread
-(C) the wicked
-
-13. What comes to the well-advised?
-(A) desire 
-(B) wisdom
-(C) passion
-
-14. What will happen to wealth that`s gained by dishonesty?
-(A) diminished
-(B) rewarded
-(C) accounted for
-
-15. What is as a tree of life?
-(A) the law of the wise
-(B) wisdom
-(C) when the desire comes
-
-16. The one who fears the commandment will be what?
-(A) diligent
-(B) rewarded
-(C) command multitudes
-
-17. What is a `fountain of life`?
-(A) baptism
-(B) the law of the wise
-(C) the one who guards his mouth
-
-18. The law of the wise turns one away from what?
-(A) violence
-(B) the foolish
-(C) the snares of death.
-
-19. What gains favor?
-(A) a wise son
-(B) good understanding
-(C) one with multitude of words
-
-20. The way of the unfaithful is what?
-(A) full of spectators
-(B) violence
-(C) hard
-
-21. With what does a prudent man act?
-(A) with knowledge
-(B) with a wise son
-(C) with no excuses
-
-22. What brings health?
-(A) the Word
-(B) natural and organic
-(C) a faithful ambassador
-
-23. Who will be honored?
-(A) the one who laughs
-(B) he who regards a rebuke
-(C) the one who likes himself
-
-24. What is sweet to the soul?
-(A) confusion that is resolved
-(B) vinegar that is taken
-(C) a desire accomplished
-
-25. Who will be wise?
-(A) he who walks with wise men
-(B) one who learns from others mistakes
-(C) the one who hate lies
-
-26. Who will be destroyed?
-(A) followers of debtors
-(B) the companion of fools
-(C) the one who shouts
-
-27. To whom is good repaid?
-(A) the hard worker
-(B) the passionate ones
-(C) the righteous
-
-28. To whom does a good man leave an interitance?
-(A) to the government
-(B) to his children's children
-(C) to holy men
-
-29. For whom is the wealth of the sinner stored?
-(A) for a sinner
-(B) for the one who saves
-(C) for the righteous
-
-30. Where is much food?
-(A) in the fallow ground of the poor
-(B) in success
-(C) in the fallow ground of the rich
-
-31. He who loves his son does what?
-(A) gives him his desire
-(B) disciplines him promptly
-(C) makes him apologize
-
-32. Who eats to the satisfying of his soul?
-(A) the hungry as a lion
-(B) the righteous
-(C) the soul pleaser
+36. The king's favor is toward whom?
+(A) his visitor
+(B) a just man
+(C) a wise servant
 
  -->
