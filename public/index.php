@@ -46,6 +46,14 @@
 			<div class="card-body">
 				<form action="index.php" method="POST">
 					<input required type="text" name="full_name" placeholder="John Doe">
+
+					<br />
+						<label><input required type="radio" name="gender" value="M"> Male</label>
+					
+
+						<label><input type="radio" name="gender" value="F"> Female</label>
+					
+					<br />
 					<button type="submit" name="submit" class="btn btn-primary">Start quiz</button>
 				</form>	
 			</div>
@@ -56,8 +64,9 @@
 
 <?php
 	}else{
-		// name is inputted so show quiz
+		// name and gender is inputted, so show quiz
 		$_SESSION['full_name'] = $_POST['full_name'];
+		$_SESSION['gender'] = $_POST['gender'];
 ?>
 	<section class="container">
 	

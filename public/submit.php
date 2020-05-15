@@ -44,7 +44,7 @@ $percentage = round($per, 1);
 
 $_SESSION['percentage'] = $percentage;
 
-$full_name = $_SESSION['full_name'];
+$full_name = $_SESSION['full_name'] . " (" . $_SESSION['gender'] . ")";
 
 // echo $score;
 
