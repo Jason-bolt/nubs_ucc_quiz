@@ -12,7 +12,7 @@ $user_answers = []; // to hold correct answers
 $score = 0;
 
 // // fetcing results of user
-for ($i=1; $i <= 36; $i++) { 
+for ($i=1; $i <= 31; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
 
@@ -38,7 +38,7 @@ $_SESSION['user_answers'] = $user_answers;
 
 $_SESSION['score'] = $score;
 
-$per = ($score / 36) * 100;
+$per = ($score / 31) * 100;
 
 $percentage = round($per, 1);
 

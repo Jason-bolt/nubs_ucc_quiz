@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,7 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<h6><u>PROVERBS CHAPTER 14</u></h6>
+	<h6><u>PROVERBS CHAPTER 15</u></h6>
 </section>
 
 <!-- name not inputted so display form -->
@@ -122,186 +122,162 @@
 
 <!-- 
 
-CHAPTER 14
+CHAPTER 15
 
-1. Who is the one that builds her house?
-(A) a wise servant
-(B) the wise woman
-(C) the wise son
+1. What will turn away wrath?
+(A) a good answer
+(B) soft answer
+(C) an honest answer
 
-2. Who despises God?
-(A) the one who eats lies
-(B) one who does not know truth
-(C) he who is perverse in his ways
+2. How does the tongue of the wise use knowledge?
+(A) with good report
+(B) in abundance
+(C) rightly
 
-3. What is in the mouth of a fool?
-(A) a rod of pride
-(B) a twig of wood
-(C) book of insolence
+3. Where does the eyes of the Lord watch evil and good?
+(A) every place
+(B) in secret places
+(C) above
 
-4. What comes by the strength of an ox?
-(A) little more
-(B) many employees
-(C) much increase
+4. What is a wholesome tongue?
+(A) tongues of life
+(B) fountain of life
+(C) tree of life
 
-5. Who does not lie?
+5. Who is prudent?
+(A) he who receives correction
+(B) a person of knowledge
+(C) a faithful witness
+
+6. There is much of what in the house of the righteous?
+(A) treasure
+(B) encouragement
+(C) wise men
+
+7. What disperses knowledge?
+(A) joining NUBS what's up page
+(B) fountain of knowledge
+(C) lips of the wise
+
+8. Whose prayer is God`s delight?
+(A) man of good countenance
+(B) the well informed
+(C) the upright
+
+9. Whom does God love?
+(A) follower of righteousness
+(B) a witness
+(C) good listener
+
+
+10. What is due him who forsakes the way?
+(A) death
+(B) discipline
+(C) bitterness
+
+11. Whom does a scoffer NOT love?
+(A) words of encouragement
+(B) one who corrects him
+(C) the upright
+
+12. What does a merry heart makes?
+(A) feast
+(B) great gains
+(C) cheerful countenance
+
+13. What does the heart of understanding seek?
+(A) discernment
+(B) knowledge
+(A) mercy and love
+
+14. Who has a continual feast?
+(A) he who is of a merry heart
+(B) kings with great riches
+(C) ones from above
+
+15. Having a little can be better if it is with what?
+(C) happy ones
+(B) simple
+(C) the fear of the LORD
+
+16. Where is being a vegetarian better?
+(A) with a wise man
+(B) where love is
+(C) in a house of the rich but wicked
+
+17. Who allays contention?
+(A)foolish ones
+(B) he who is slow to anger
+(C) those with good words
+
+18. The road of the upright is a what?
+(A) full of precious jewels
+(B) knowledge
+(C) highway
+
+19. Who despises his mother?
+(A) ungrateful son
+(B) foolish man
+(C) the evil
+
+20. To whom is folly a joy?
+(A) an unfaithful witness
+(B) one who is easily angered
+(C)one destitute of discernment
+
+21. Plans are established by having what?
+(A) multitude of counselors
+(B) plans of wisdom
+(C) good plans
+
+22. When is a spoken word good?
+(A) when in good words
+(B) when in mercy and truth
+(C) in due season
+
+23. What is below?
+(A) burried corpse
+(B) hell
+(C) valley
+
+24. Who will destroy the house of the proud?
+(A) he who has dust from one's feet
+(B) a crowned prince
+(C) the LORD
+
+25. Whose words are pleasant to the Lord?
+(A) the pure
+(B) a great man
+(C) a true witness
+
+26. Who troubles his own house?
+(A) one who has Little
+(B) he who is greedy for gain
+(C) the abandoned soul
+
+27. Whose heart studies how to answer?
+(A) the heart of good intuition
+(B) one who has the truth
+(C) righteous
+
+28. Whose prayer does the Lord hear?
+(A) men of knowledge
+(B) righteous
+(C) blameless men
+
+29. What makes bones healthy?
 (A) a faithful witness
-(B) a watchman
-(C) perjured person
+(B) meal from above
+(C) a good report
 
-6. Who does not find wisdom?
-(A) a scoffer
-(B) one who bullies
-(C) a poor person
+30. Who despises his own soul?
+(A) he who disdains instruction
+(B) a poor servant
+(C) the soul pleaser
 
-7. What do you do when you perceive a foolish man talking?
-(A) shut him up
-(B) listen and rebuke him
-(C) go from the presence
-
-8. What is the wisdom of the prudent?
-(A) leads in all things
-(B) to forfeit all returns
-(C) to understand his way
-
-9. Who mock at sin?
-(A) fools
-(B) the misinformed
-(C) rebels
-
-10. A heart knows its own what?
-(A) its gladness
-(B) its own bitterness
-(C) its own life
-
-11. The tent of whom will flourish?
-(A) the forlorn
-(B) the upright
-(C) the loving
-
-12. The way that seems right to a man can end in what?
-(A) eternity
-(B) lack of bread
-(C) death
-
-13. Even in laughter the heart may do what?
-(A) joy in occasions
-(B) may sorrow
-(C) bloom in youth
-
-14. From whence is the good man`s satisfaction?
-(A) from above
-(B) into the mist
-(C) within oneself
-
-15. Who believes just any word?
-(A)  the heartless
-(B) the smartest of them
-(C) the simple
-
-16. Who fears and departs from evil?
-(A) diligent person
-(B) a wise man
-(C) married man
-
-17. How does a quick-tempered man act?
-(A) with people of equal temper
-(B) foolishly
-(C) soberly
-
-18. What is the prudent's crown?
-(A) gold
-(B) polished crown
-(C)knowledge
-
-19. Who will eventually lose to the good?
-(A) the good
-(B) the evil
-(C) the gallant
-
-20. Who has many friends?
-(A) man of influence
-(B) the good hearted
-(C) the rich
-
-21. Who is the happy one?
-(A) he who has mercy on the poor
-(B) the poor who return profits
-(C) people who trust
-
-22. What is the result of devising good?
-(A) guidance into the aftermath
-(B) judgments of the past
-(C) mercy and truth will belong to them
-
-23. Where is profit?
-(A) in the garden of the rich
-(B) in all labor
-(C) in calmness
-
-24. What is the riches of the wise?
-(A) gold from one's feet
-(B) the garments of humility
-(C) a crown
-
-25. Who delivers souls?
-(A) a true witness
-(B) one who is versed in the apologies
-(C) a humble servant
-
-26. There will be a place of refuge in the children of those that have what?
-(A) justice for one and all
-(B) the fear of the LORD
-(C) a rod of fortunes
-
-27. The fear of the Lord is a fountain of life because it does what?
-(A) directs into the freedom
-(B) delivers the merciful
-(C) turns one away from the snares of death
-
-28. The king's honor is in whose support?
-(A) a older servants
-(B) a multitude of people
-(C) young advisers
-
-29. What does the impulsive exalt?
-(A) clever acts
-(B) endearment
-(C) folly
-
-30. What is rottenness to the bones?
-(A) envy
-(B) fornication
-(C) death
-
-31. When one has mercy on the needy, he honors whom?
-(A) his mother
-(B) his good deeds
-(C) his Maker
-
-32. Where does the righteous have refuge?
-(A) in success
-(B) in his death
-(C) in his life
-
-33. Where does wisdom rest in the one who has understanding?
-(A) in the blood
-(B) in bowels of mercy
-(C) in the heart
-
-34. What exalts a nation?
-(A) Strong men
-(B) resisting harm
-(C) righteousness
-
-35. Sin is a reproach to whom?
-(A) to the depths of Gehenna
-(B) to any people
-(C) to the lonely
-
-36. The king's favor is toward whom?
-(A) his visitor
-(B) a just man
-(C) a wise servant
+31. What comes before honour?
+(A) discernment
+(B) riches
+(C) humility
 
  -->
