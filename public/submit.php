@@ -46,11 +46,17 @@ $_SESSION['percentage'] = $percentage;
 
 $full_name = $_SESSION['full_name'] . " (" . $_SESSION['gender'] . ")";
 
+// getting timestamp
+date_default_timezone_set("Etc/GMT-0");
+$score = $score . " (" . date("h:i a") . ")";
+
 // echo $score;
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, raw_score, percentage) VALUES('$full_name', $score, $percentage)";
-mysqli_query($connection, $sql);
+$sql = "INSERT INTO users(full_name, raw_score, percentage) VALUES('$full_name', '$score', $percentage)";
+$result = mysqli_query($connection, $sql);
+
+echo ($result);
 
 header("Location: result.php");
 
