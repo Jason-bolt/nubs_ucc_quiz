@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,7 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<h6><u>PROVERBS CHAPTER 16</u></h6>
+	<h6><u>PROVERBS CHAPTER 17</u></h6>
 </section>
 
 <!-- name not inputted so display form -->
@@ -122,186 +122,166 @@
 
 <!-- 
 
-CHAPTER 16
+CHAPTER 17
 
-1. To whom belong the preparations of the heart?
-(A) wise man
-(B) Man
-(C) Father
+1. What is better than a house full of feasting with strife?
+(A) A morsel taken in a dry
+(B) A dry morsel with quietness
+(C) A dry morsel without stinginess
 
-2. Who has the answer of the tongue?
+2. What servant will share an inheritance among brothers?
+(A) The oldest servant
+(B) An obedient servant
+(C) One who rules over a son that causes shame
+
+3. Who tests the hearts?
+(A) The Lord
+(B) A humble soul
+(C) One vest in love
+
+4. Who listens eagerly to a spiteful tongue?
+(A) The shrewd 
+(B) A gossiper
+(C) A liar
+
+5. Who reproaches his Maker?
+(A) He who mocks the poor
+(B) A confused watchman
+(C) One who reproaches morals
+
+6. Who are the crown of old men?
+(A) The children's children
+(B) A Grey hair
+(C) First borns
+
+7. What kind of speech is not expected from a fool?
+(A) A Famous speech
+(B) An Astonishing speech
+(C) An Excellent speech
+
+8. What is a precious stone in the eyes of its possessor?
+(A) A diamond
+(B) A rock
+(C) A present
+
+9. Who will separate friends?
+(A) He who repeats a matter
+(B) he who covers transgressions
+(C) Fools
+
+10. What is ineffective on a fool?
+(A) Rebuke
+(B) A hundred blows
+(C) Bitterness
+
+11. What does an evil man seek?
+(A) A cruel messenger
+(B) Rebellion
+(C) Aisle of the bliss
+
+12. A fool in folly is worst than what kind of bear?
+(A) one that chew her cuds
+(B) Polar type
+(C) One robbed of her cubs
+
+13. When one rewards evil for good, what will not depart from his house?
+(A) Death
+(B) Evil
+(C) Many sorrows
+
+14. When should contention be best stopped?
+(A) Before a quarrel starts
+(B) Before it goes to court
+(C) When it ends up in court
+
+15. He who condemns the just is what to the Lord?
+(A) wicked justice
+(B) Simple 
+(C) An abomination
+
+16. Even a fool has in his hand the purchase price of what?
+(A) Wickedness
+(B) Wisdom
+(C) Foolishness
+
+17. When does a friend love you?
+(A) When love abounds
+(B) At all times
+(C) At times of adversity
+
+18. One is devoid of understanding when he becomes what?
+(A) Ignorant
+(B) so wise
+(C) A surety for a friend
+
+19. Who loves strife?
+(A) He who exults his gates
+(B) He who loves transgression
+(C) The evil
+
+20. Who finds no good?
+(A) He who has perverse tongue.
+(B) The unappreciative
+(C) He who has a deceitful heart
+
+21. Who has no joy?
+(A) The father of a fool
+(B) The poor who borrows
+(C) He who begets sorrow 
+
+22. What does good, like medicine?
+(A) Being charitable
+(B) Councel
+(C) A merry heart
+
+23. A wicked man accepts a bribe to pervert what?
+(A) Intensions of labour
+(B) The ways of justice
+(C) Fruits of Labour
+
+24. A foolish son is Bitterness to whom?
+(A) His Father
+(B) A crowned prince
+(C) To her that bore him
+
+25. It is not good to punish whom?
 (A) The righteous
-(B) Wise man
-(C) The Lord
+(B) A witness
+(C) A true witness
 
-3. In the eyes of a man his ways are what?
-(A) Pure
-(B) Good
-(C) Righteous
+26. What kind of spirit does a man of understanding have?
+(A) Honey comb
+(B) A calm one
+(C) Secured
 
-4. Who will judge the spirits?
-(A) The high Judge
-(B) The spiritual
-(C) The Lord
+27. A fool is thought to be wise when he does what?
+(A) Hold his peace
+(B) gives councel to the poor
+(C) Listens to advice
 
-5. In order to establish our hearts, we are to do what to the Lord?
-(A) Commit one's works
-(B) Praise His name
-(C) recognize Him as Lord.
+28. What does the eyes of the fool does?
+(A) beholds evil
+(B) beholds the end of the earth
+(C) despises just desires
 
-6. Who is made for the day of doom?
-(A) The wicked
-(B) The proud
-(C) The Scofferer
+29. Where does a wicked man accept bribe?
+(A) behind the back
+(B) at corrupt places
+(C) in deep darkness
 
-7. Who is the everyone that is an abomination to the Lord?
-(A) Everyone who is wicked
-(B) Profane bubblers
-(C) Everyone proud of heart
+30. What does a broken Spirit do?
+(A) Dries the bones
+(B) Dispatches depression
+(C) Leads to anger
 
-8. In what is atonement provided?
-(A) In the house of the righteous
-(B) In every shedding of blood
-(C) In mercy and truth
+31. Why shouldn't a prince be strike?
+(A) For their inheritance
+(B) For their uprightness
+(C) For their Judgement
 
-9. By what does one depart from evil?
-(A) By the fear of the Lord
-(B) By moral standards
-(C) Obedience
-
-10. When can we expect God to make our enemies at peace with us?
-(A) When we seek peace 
-(B) When our ways please the Lord
-(C) When conflicts are resolved
-
-11. When is a 'little' better?
-(A) With the right scale
-(B)With righteousness
-(C) When not stolen
-
-12. If a man's heart plans, who is the one who ultimately directs?
-(A) Wisdom
-(C) The fear of the Lord
-(C) The LORD
-
-13. What is on the lips of the king?
-(A) Power
-(B) Divination
-(C) Commands
-
-14. What kind of weights and scales are the Lord's?
-(A) Honest
-(B) Peaceful
-(C) Scales from above
-
-15. By what is a throne established?
-(A) Laws
-(B) By kings
-(C) Righteousness
-
-16. What are the delight of kings? 
-(A) Counselor's advise
-(B)Righteous lips
-(C) An Honest Cup
-
-17. What will a wise man do to a king's wrath?
-(A) Understand it
-(B) Appease it
-(C) Discern it
-
-18. What is a king's favor like?
-(A) Precious oil 
-(B) burning incense mixed with oil
-(C) A cloud of the latter rain
-
-19. What should be chosen rather than silver?
-(A) A Good name
-(B) Understanding
-(C) Gold
-
-20. What does the upright do by keeping the highway of departing from evil?
-(A) Guard his lips
-(B) Righteousness
-(C) Preserves his soul
-
-21. What goes before a fall? 
-(A) Haughty
-(B) Pride
-(C) Poverty
-
-22. What is better than dividing spoil with the proud?
-(A) Honest scale without contention
-(B) Mastery
-(C) A humble spirit with the lowly
-
-23. Who is the happy person?
-(A) Believing in one's heart
-(B)Trusts in the LORD
-(C) Wise Labour 
-
-24. What increases learning?
-(A) He who has dust from one's feet
-(B) Knowledge
-(C) Sweetness
-
-25. What is a wellspring of life?
-(A) Understanding
-(B) Discernment
-(C) Honesty
-
-26. What teaches the mouth of the wise?
-(A) One who has the fear of the LORD
-(B) The heart
-(C) The abandoned soul
-
-27. What is sweetness to the soul?
-(A) Honey
-(B) Humility
-(C) Pleasant words
-
-28. The way of death may seem what to a man? 
-(A) Life
-(B) Right
-(C) Broad
-
-29. Who does a person labor for?
-(A) Riches
-(B) The LORD
-(C) For himself
-
-30. What is on the lips of an ungodly man like a burning fire?
-(A) Evil
-(B) Words
-(C) Envy
-
-31. Who separates the best of friends?
-(A) His Maker
-(B) An advisor
-(C) A whisperer
-
-32. Who entices and leads a person in a bad way?
-(A) The Unsuccessful
-(B) A violent man
-(C) the whisperer
-
-33. Why does he wink his eye?
-(A) To gain false witness
-(B) To cause separation
-(C) To devise perverse things
-
-34. The silver-haired head is a crown of glory only if it is found where?
-(A) in good intimacy
-(B) on the heard
-(C) In the way of righteousness
-
-35. He who rules his spirit is better than whom?
-(A) his master
-(B) He who takes a city
-(C) the mighty
-
-36. Who is the one who makes the final decision?
-(A)  Judge 
-(B) Cast of lap
-(C) The LORD
+32. A fool is considered as what, when he shuts his lips?
+(A) Perspective
+(B) Glorious
+(C) Wise
 
  -->
