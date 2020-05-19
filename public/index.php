@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 ?>
 <!DOCTYPE html>
 <html>
@@ -29,7 +29,8 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<h6><u>PROVERBS CHAPTER 17</u></h6>
+	<p style="color: blue; font-size: 12px;">Remember this is not a competition. Read the WORD to understand.</p>
+	<h6><u>PROVERBS CHAPTER 18</u></h6>
 </section>
 
 <!-- name not inputted so display form -->
@@ -122,166 +123,161 @@
 
 <!-- 
 
-CHAPTER 17
+CHAPTER 18
 
-1. What is better than a house full of feasting with strife?
-(A) A morsel taken in a dry
-(B) A dry morsel with quietness
-(C) A dry morsel without stinginess
+Who seeks his own desire?
+ (A) A wise man who isolates himself
+(B) A man who isolates himself
+(C) A man who isolates not to himself
 
-2. What servant will share an inheritance among brothers?
-(A) The oldest servant
-(B) An obedient servant
-(C) One who rules over a son that causes shame
+2. What does one who rages against all wise judgment seeks?
+ (A) Foolish Judgement
+ (B) Wise Judgement
+(C) His own desire
 
-3. Who tests the hearts?
-(A) The Lord
-(B) A humble soul
-(C) One vest in love
+3. Who has only a delight in expressing his own heart?
+ (A) A fool
+(B) The wicked
+(C) person with pride
 
-4. Who listens eagerly to a spiteful tongue?
-(A) The shrewd 
-(B) A gossiper
-(C) A liar
+4. What comes with dishonor?
+ (A) Contempt
+(B) Wicked
+(C) Reproach
 
-5. Who reproaches his Maker?
-(A) He who mocks the poor
-(B) A confused watchman
-(C) One who reproaches morals
+5. What is compared to `deep waters`?
+(A) The words of a man's mouth
+(B) Well spring of wisdom
+(C) Flowing brook
 
-6. Who are the crown of old men?
-(A) The children's children
-(B) A Grey hair
-(C) First borns
+6. What is compared to a `flowing brook`?
+ (A) The wellspring of wisdom
+(B) The words of a man's month
+(C) Deep waters
 
-7. What kind of speech is not expected from a fool?
-(A) A Famous speech
-(B) An Astonishing speech
-(C) An Excellent speech
+7. We should not show partiality to whom?
+ (A) The righteous
+(B) The Just
+(C) The wicked
 
-8. What is a precious stone in the eyes of its possessor?
-(A) A diamond
-(B) A rock
-(C) A present
+8. What enters into contention?
+(A) Discontentment
+(B) A fool's mouth
+(C)A fool's lips
 
-9. Who will separate friends?
-(A) He who repeats a matter
-(B) he who covers transgressions
-(C) Fools
+9. What is the snare of one`s soul?
+ (A) The lips of a fool
+(B) The mouth of a fool
+(C) A wicked friend
 
-10. What is ineffective on a fool?
-(A) Rebuke
-(B) A hundred blows
-(C) Bitterness
+10. Whose words are like tasty trifles?
+(A) A gossiper
+(B) A talebearer
+(C) The wicked
 
-11. What does an evil man seek?
-(A) A cruel messenger
-(B) Rebellion
-(C) Aisle of the bliss
+11. Who is a brother to a great destroyer?
+(A) The forlorn
+(B)He who is slothful
+(C) Deadly Lion
 
-12. A fool in folly is worst than what kind of bear?
-(A) one that chew her cuds
-(B) Polar type
-(C) One robbed of her cubs
+12. What is a strong tower for the righteous?
+ (A) Righteous hands
+(B) Righteousness
+(C)The name of the LORD
 
-13. When one rewards evil for good, what will not depart from his house?
-(A) Death
-(B) Evil
-(C) Many sorrows
+13. What is a rich man's strong city?
+ (A) City of gold
+(B) His wealth
+(C) His own esteem
 
-14. When should contention be best stopped?
-(A) Before a quarrel starts
-(B) Before it goes to court
-(C) When it ends up in court
+14. What heart is before destruction?
+(A) Haughty one
+(B) Proud heart
+(C) Grievous heart
 
-15. He who condemns the just is what to the Lord?
-(A) wicked justice
-(B) Simple 
-(C) An abomination
+15. What is answering a matter before one hears it?
+(A) Partial Judgment
+(B) Inadequate information
+(C) Folly and shame
 
-16. Even a fool has in his hand the purchase price of what?
-(A) Wickedness
-(B) Wisdom
-(C) Foolishness
+16. What spirit cannot sustain a man in sickness?
+(A) The spirit of a man
+(B)A broken one
+(C) haughty one
 
-17. When does a friend love you?
-(A) When love abounds
-(B) At all times
-(C) At times of adversity
+17. What does the ear of the wise seek?
+ (A) Concerns of the wise
+(B)Knowledge
+(C) Discernment
 
-18. One is devoid of understanding when he becomes what?
-(A) Ignorant
-(B) so wise
-(C) A surety for a friend
+18. What brings one before great men?
+ (A) Trouble
+(B) A man's awareness and room
+(C)A man's gift
 
-19. Who loves strife?
-(A) He who exults his gates
-(B) He who loves transgression
+19. Who seems right until he is examined?
+ (A) The proud
+(B) The first one to plead his cause
 (C) The evil
 
-20. Who finds no good?
-(A) He who has perverse tongue.
-(B) The unappreciative
-(C) He who has a deceitful heart
+20. What good is casting lots?
+ (A) Helps you gamble
+ (B)Makes the heart good
+(C) Causes contentions to cease
 
-21. Who has no joy?
-(A) The father of a fool
-(B) The poor who borrows
-(C) He who begets sorrow 
+21. Who is harder to win than a strong city?
+ (A) A brother offended
+(B) The poor who return profits
+(C) He who has mercy on the poor
 
-22. What does good, like medicine?
+22. With what will a man's stomach be satisfied?
 (A) Being charitable
-(B) Councel
-(C) A merry heart
+(B) Produce of his lips
+(C) The fruit of his mouth
 
-23. A wicked man accepts a bribe to pervert what?
-(A) Intensions of labour
-(B) The ways of justice
-(C) Fruits of Labour
+23. In what is the power of life and death?
+(A) Heaven and hell
+(B) The tongue
+(C) Hell
 
-24. A foolish son is Bitterness to whom?
-(A) His Father
+24. Who finds a good thing?
+(A) He who has dust from one's feet
 (B) A crowned prince
-(C) To her that bore him
+(C) He who finds a wife
 
-25. It is not good to punish whom?
-(A) The righteous
-(B) A witness
+25. What does a poor man use in speaking?
+ (A) Entreaties
+ (B) The words of the LORD
 (C) A true witness
 
-26. What kind of spirit does a man of understanding have?
-(A) Honey comb
-(B) A calm one
-(C) Secured
+26. In order to have friends, one must be what?
+(A) A good friend
+(B) Friendly
+(C) Seek friends
 
-27. A fool is thought to be wise when he does what?
-(A) Hold his peace
-(B) gives councel to the poor
-(C) Listens to advice
+27. What will a eat if he loves the tongue?
+(A) The fruit of the tongue
+(B) The words of the tongue
+(C) Lies
 
-28. What does the eyes of the fool does?
-(A) beholds evil
-(B) beholds the end of the earth
-(C) despises just desires
+28. What does casting of lots do?
+(A) Helps in gamble
+(B) Keeps the mighty apart 
+(C) Non of the above
 
-29. Where does a wicked man accept bribe?
-(A) behind the back
-(B) at corrupt places
-(C) in deep darkness
+29. In contrast to the poor man, how does the rich man answer?
+(A) With confidence
+(B) Roughly
+(C) With deep voice
 
-30. What does a broken Spirit do?
-(A) Dries the bones
-(B) Dispatches depression
-(C) Leads to anger
+30. Where does a tale bearer goes to?
+(A) innermost body
+(B) To and fro
+(C) Down to deep valleys
 
-31. Why shouldn't a prince be strike?
-(A) For their inheritance
-(B) For their uprightness
-(C) For their Judgement
-
-32. A fool is considered as what, when he shuts his lips?
-(A) Perspective
-(B) Glorious
-(C) Wise
+31. What is contention liken to?
+(A) Bars of a castle
+(B) War
+(C) Discontentment
 
  -->
