@@ -1,38 +1,13 @@
 <?php session_start();
-	header("Location: soon.php");
+include('header.php');
+include_once('db.php'); 
+	// header("Location: soon.php");
 ?>
-<!DOCTYPE html>
-<html>
-<head>
-	
-	<title>Quiz</title>
-	
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-
-</head>
-<body>
 <?php 
-	include_once('db.php'); 
 	
 	$query = "SELECT * FROM questions";
 	$questions = mysqli_query($connection, $query);
 ?>
-
-
-<section class="container py-1 text-center">
-	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<p style="color: blue; font-size: 13px;">Remember this is not a competition. Read the WORD to understand.</p>
-	<h6><u>PROVERBS CHAPTER 18</u></h6>
-</section>
-
 <!-- name not inputted so display form -->
 <?php
 	if (!isset($_POST['submit'])) {
@@ -68,6 +43,10 @@
 		// name and gender is inputted, so show quiz
 		$_SESSION['full_name'] = $_POST['full_name'];
 		$_SESSION['gender'] = $_POST['gender'];
+
+		date_default_timezone_set("Etc/GMT-0");
+		$start_time = " (" . date("h:i a") . ")";
+		$_SESSION['start_time'] = $start_time;
 ?>
 	<section class="container">
 	
@@ -123,161 +102,176 @@
 
 <!-- 
 
-CHAPTER 18
+CHAPTER 19
 
-Who seeks his own desire?
- (A) A wise man who isolates himself
-(B) A man who isolates himself
-(C) A man who isolates not to himself
+1. When is it better to be poor than one who is perverse in his lips?
+(A) When you walk in your integrity
+(B) When you admire intergrity
+(C) When you know integrity
 
-2. What does one who rages against all wise judgment seeks?
- (A) Foolish Judgement
- (B) Wise Judgement
-(C) His own desire
+2. It is not good to be without what?
+(A) Full obedience
+(B) Knowledge
+(C) Obedience
 
-3. Who has only a delight in expressing his own heart?
- (A) A fool
-(B) The wicked
-(C) person with pride
+3. When one hastens with his feet, what does he do?
+(A) He has pride
+(B) He steps into folly
+(C) He sins
 
-4. What comes with dishonor?
- (A) Contempt
-(B) Wicked
-(C) Reproach
+4. What twists a man's way?
+(A) His foolishness
+(B) the way that leads to death
+(C) A fret heart
 
-5. What is compared to `deep waters`?
-(A) The words of a man's mouth
-(B) Well spring of wisdom
-(C) Flowing brook
+5. What makes many `friends`?
+(A) Good friends
+(B) Wealth
+(C) Honest Friends
 
-6. What is compared to a `flowing brook`?
- (A) The wellspring of wisdom
-(B) The words of a man's month
-(C) Deep waters
+6. Who will not escape his punishment?
+(A) A false witness and liar
+(B) one brought before court
+(C) A scoffer
 
-7. We should not show partiality to whom?
- (A) The righteous
-(B) The Just
-(C) The wicked
+7. Who entreats the favor of the nobility?
+(A) Many
+(B) Every man
+(C) The wise
 
-8. What enters into contention?
-(A) Discontentment
-(B) A fool's mouth
-(C)A fool's lips
+8. Who hates a poor man?
+(A) one who has many friends
+(B) Rich people
+(C) His brothers and his friends
 
-9. What is the snare of one`s soul?
- (A) The lips of a fool
-(B) The mouth of a fool
-(C) A wicked friend
+9. Who loves his own soul?
+(A) He who gets wisdom
+(B) He who keeps understanding
+(C) He who separates himself from multitude
 
-10. Whose words are like tasty trifles?
-(A) A gossiper
-(B) A talebearer
-(C) The wicked
+10. What kind of punishment is due the liar?
+(A) Lies
+(B) Wrath
+(C) He shall perish
 
-11. Who is a brother to a great destroyer?
-(A) The forlorn
-(B)He who is slothful
-(C) Deadly Lion
+11. It is not fitting for a servant to rule whom?
+(A) His fellow servants
+(B) The upright
+(C) Princes
 
-12. What is a strong tower for the righteous?
- (A) Righteous hands
-(B) Righteousness
-(C)The name of the LORD
+12. What is the glory of a man?
+(A) His countenance
+(B) To overlook transgression
+(C) His hair
 
-13. What is a rich man's strong city?
- (A) City of gold
-(B) His wealth
-(C) His own esteem
+13. Whose favor is like dew on the grass?
+(A) A good shepherd's
+(B) A wife's
+(C) A king's
 
-14. What heart is before destruction?
-(A) Haughty one
-(B) Proud heart
-(C) Grievous heart
+14. What is the ruin of a father?
+(A) Poverty
+(B) The contention of a wife
+(C) A Foolish son
 
-15. What is answering a matter before one hears it?
-(A) Partial Judgment
-(B) Inadequate information
-(C) Folly and shame
+15. What are a continual dipping?
+(A) A foolish son
+(B) Poverty
+(C) The contentions of a wife
 
-16. What spirit cannot sustain a man in sickness?
-(A) The spirit of a man
-(B)A broken one
-(C) haughty one
+16. What is an inheritance from the Lord?
+(A) Houses and riches
+(B) A prudent wife
+(C) A man's Childrens children
 
-17. What does the ear of the wise seek?
- (A) Concerns of the wise
-(B)Knowledge
-(C) Discernment
+17. Who will suffer hunger?
+(A) An idle person
+(B) Laziness
+(C) The poor who borrow
 
-18. What brings one before great men?
- (A) Trouble
-(B) A man's awareness and room
-(C)A man's gift
+18. Who keeps his soul?
+(A) one who knows the commandment
+(B) One who listens to advice
+(C) Keeper of the commandment
 
-19. Who seems right until he is examined?
- (A) The proud
-(B) The first one to plead his cause
-(C) The evil
+19. Who pays back that which is lent to the poor ?
+(A) The Lord
+(B) The rich
+(C) The labour of the poor
 
-20. What good is casting lots?
- (A) Helps you gamble
- (B)Makes the heart good
-(C) Causes contentions to cease
+20. When should one chasten his son?
+(A) When You love him
+(B) Before he does wrong
+(C) While there is hope
 
-21. Who is harder to win than a strong city?
- (A) A brother offended
-(B) The poor who return profits
-(C) He who has mercy on the poor
+21. Who will suffer punishment?
+(A) The man of great wrath
+(B) The man who knows great wrath
+(C) The man that turns great wrath
 
-22. With what will a man's stomach be satisfied?
-(A) Being charitable
-(B) Produce of his lips
-(C) The fruit of his mouth
+22. What plan is sure to succeed?
+(A) A good plan
+(B) The plans of man
+(C) The Lord's counsel
 
-23. In what is the power of life and death?
-(A) Heaven and hell
-(B) The tongue
-(C) Hell
+23. What is desired in a man?
+(A) A good heart
+(B) Believe
+(C) Kindness
 
-24. Who finds a good thing?
-(A) He who has dust from one's feet
-(B) A crowned prince
-(C) He who finds a wife
+24. Who will not be visited with evil?
+(A) The clean in heart
+(B) A man with good morals
+(C) The one with the fear of the Lord
 
-25. What does a poor man use in speaking?
- (A) Entreaties
- (B) The words of the LORD
-(C) A true witness
+25. Who buries his hand in the bowl?
+(A) The poor
+(B) A lazy man
+(C) A man without understanding
 
-26. In order to have friends, one must be what?
-(A) A good friend
-(B) Friendly
-(C) Seek friends
+26. What will happen when one rebukes one who has understanding?
+(A) He accept with happiness
+(B) He thinks
+(C) He discerns knowledge
 
-27. What will a eat if he loves the tongue?
-(A) The fruit of the tongue
-(B) The words of the tongue
-(C) Lies
+27. Which is the son who causes shame and reproach?
+(A)  The one who is not successful
+(B) The one who stays at home 
+(C) The one who mistreats his father and chases away his mother
 
-28. What does casting of lots do?
-(A) Helps in gamble
-(B) Keeps the mighty apart 
-(C) Non of the above
+28. What happens to ones who ceases listening to instruction?
+(A) He ceases good words
+(B) He strays from the words of knowledge
+(C) He ceases wise sayings
 
-29. In contrast to the poor man, how does the rich man answer?
-(A) With confidence
-(B) Roughly
-(C) With deep voice
+29. Who scorns justice?
+(A) The mouth of the wicked
+(B) A disreputable witness
+(C) The endeared ones
 
-30. Where does a tale bearer goes to?
-(A) innermost body
-(B) To and fro
-(C) Down to deep valleys
+30. Judgments are prepared for whom?
+(A) Scoffers
+(B) The back of fools
+(C) The back of Scoffers
 
-31. What is contention liken to?
-(A) Bars of a castle
-(B) War
-(C) Discontentment
+31. Which men are friends to ones who give gifts?
+(A) Every man
+(B) Many men
+(C) Poor men
+
+32. What makes man slow anger?
+(A) His knowledge
+(B) His discretion
+(C) His discernment
+
+33. What is compared to a kings wrath?
+(A) King's heart
+(B) Dew of grass
+(C) Lion's roar
+
+34. This not fitting for a fool?
+(A) Luxury
+(B) Wisdom
+(C) Riches
 
  -->

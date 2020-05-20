@@ -12,7 +12,7 @@ $user_answers = []; // to hold correct answers
 $score = 0;
 
 // // fetcing results of user
-for ($i=1; $i <= 31; $i++) { 
+for ($i=1; $i <= 34; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
 
@@ -38,7 +38,7 @@ $_SESSION['user_answers'] = $user_answers;
 
 $_SESSION['score'] = $score;
 
-$per = ($score / 31) * 100;
+$per = ($score / 34) * 100;
 
 $percentage = round($per, 1);
 
@@ -48,12 +48,14 @@ $full_name = $_SESSION['full_name'] . " (" . $_SESSION['gender'] . ")";
 
 // getting timestamp
 date_default_timezone_set("Etc/GMT-0");
-$score = $score . " (" . date("h:i a") . ")";
+$end_time = " (" . date("h:i a") . ")";
+
+$start_time = $_SESSION['start_time'];
 
 // echo $score;
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, raw_score, percentage) VALUES('$full_name', '$score', $percentage)";
+$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time')";
 $result = mysqli_query($connection, $sql);
 
 echo ($result);

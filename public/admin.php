@@ -20,7 +20,7 @@
 
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<h6><u>PROVERBS CHAPTER 18</u></h6>
+	<h6><u>PROVERBS CHAPTER 19</u></h6>
 </section>
 
 <section class="container text-center">
@@ -45,6 +45,8 @@
 			      <th class="text-center">Full name</th>
 			      <th class="text-center">Score</th>
 			      <th class="text-center">Percentage</th>
+			      <th class="text-center">Start time</th>
+			      <th class="text-center">End time</th>
 		      </tr>
 		    </thead>
 		  <tbody>
@@ -58,6 +60,8 @@
 			    <td ><?php echo $result['full_name']; ?></td>
 			    <td ><?php echo $result['raw_score']; ?></td>
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
+			    <td ><?php echo $result['start_time']; ?></td>
+			    <td ><?php echo $result['end_time']; ?></td>
 		    </tr>
 		    <?php
 		  }
@@ -66,38 +70,6 @@
 	  </table>
 	</section>
 
-	<br />
-	<br />
-
-	<h6 class="container">In order of submission</h6>
-
-		<section class="container">
-		<table class="text-center table table-bordered">
-		    <thead>
-		      <tr>
-			      <th class="text-center">Full name</th>
-			      <th class="text-center">Score</th>
-			      <th class="text-center">Percentage</th>
-		      </tr>
-		    </thead>
-		  <tbody>
-		  
-		  <?php
-		  // perform query to get users and their scores
-		    while($result1 = mysqli_fetch_assoc($results1))
-		  {
-		    ?>
-		    <tr>
-			    <td ><?php echo $result1['full_name']; ?></td>
-			    <td ><?php echo $result1['raw_score']; ?></td>
-			    <td ><?php echo $result1['percentage'] . '%'; ?></td>
-		    </tr>
-		    <?php
-		  }
-		    ?>
-		  </tbody>
-	  </table>
-	</section>
 <?php
 	}else{
 		// if not submitted or password is wrong show form
