@@ -20,6 +20,8 @@
 <section class="container py-1 text-center">
 	<h4 class="text-center"><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<p style="color: red; font-size: 16px;">The quiz ends at 10pm</p>
-	<p style="color: blue; font-size: 13px;">Remember this is not a competition. Read the WORD to understand.</p>
+	<p style="color: blue; font-size: 13px;"><span><strong>A GENTLE REMINDER: </strong></span>"Please remember that, this is not just a competition where one should try to CHEAT just to be a winner". That will be sinful.
+	<br />
+	The main motive is for us all to study and understand the scriptures for our own good. Thank You.</p>
 	<h6><u>PROVERBS CHAPTER 19</u></h6>
 </section>
