@@ -1,7 +1,7 @@
 <?php session_start();
 include('header.php');
 include_once('db.php'); 
-	// header("Location: soon.php");
+	header("Location: soon.php");
 ?>
 <?php 
 	
