@@ -1,7 +1,7 @@
 <?php session_start();
+	header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
-	// header("Location: soon.php");
 ?>
 <?php 
 	
@@ -30,6 +30,14 @@ include_once('db.php');
 						<label><input type="radio" name="gender" value="F"> Female</label>
 					
 					<br />
+					<br />
+
+					<p><strong>Are you a NUBS UCC member: </strong></p>
+					
+					<label><input required type="radio" name="is_nubs" value="1"> Yes</label>
+					<label><input type="radio" name="is_nubs" value="0"> No</label>
+					<br />
+
 					<button type="submit" name="submit" class="btn btn-primary">Start quiz</button>
 				</form>	
 			</div>
@@ -43,6 +51,7 @@ include_once('db.php');
 		// name and gender is inputted, so show quiz
 		$_SESSION['full_name'] = $_POST['full_name'];
 		$_SESSION['gender'] = $_POST['gender'];
+		$_SESSION['is_nubs'] = $_POST['is_nubs'];
 
 		date_default_timezone_set("Etc/GMT-0");
 		$start_time = " (" . date("h:i a") . ")";
