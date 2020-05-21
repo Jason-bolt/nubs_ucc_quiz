@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -35,8 +35,14 @@ include_once('db.php');
 					<p><strong>Are you a NUBS UCC member: </strong></p>
 					
 					<label><input required type="radio" name="is_nubs" value="1"> Yes</label>
-					<label><input type="radio" name="is_nubs" value="0"> No</label>
+					<label><input id="not" type="radio" name="is_nubs" value="0"> No</label>
 					<br />
+
+					<div>
+			          <input required type="tel" name="phone_number" id="phone_number" placeholder="Phone number" disabled>
+			          <p style="font-size: 13px; color: red;">Phone number is required for only non NUBS UCC participants</p>
+			        </div>
+			        <br />
 
 					<button type="submit" name="submit" class="btn btn-primary">Start quiz</button>
 				</form>	
@@ -52,6 +58,11 @@ include_once('db.php');
 		$_SESSION['full_name'] = $_POST['full_name'];
 		$_SESSION['gender'] = $_POST['gender'];
 		$_SESSION['is_nubs'] = $_POST['is_nubs'];
+		if (isset($_POST['phone_number'])) {
+			$_SESSION['phone_number'] = $_POST['phone_number'];
+		}else{
+			$_SESSION['phone_number'] = null;
+		}
 
 		date_default_timezone_set("Etc/GMT-0");
 		$start_time = " (" . date("h:i a") . ")";
@@ -109,178 +120,206 @@ include_once('db.php');
 </html>
 
 
+<script>
+// Display other field
+// $("#seeAnotherFieldGroup").change(function() {
+//   if ($(this).val() == "0") {
+//     $('#otherFieldGroupDiv').show();
+//     $('#otherField1').attr('data-error', 'This field is required.');
+//       } else {
+//     $('#otherFieldGroupDiv').hide();
+//     $('#otherField1').removeAttr('data-error');
+//   }
+// });
+// $("#seeAnotherFieldGroup").trigger("change");
+
+var radios = document.querySelectorAll('[name=is_nubs]');
+Array.from(radios).forEach(function(r){
+  r.addEventListener('click', function(){
+    var phone = document.getElementById('phone_number');
+    if(this.id == 'not')
+      phone.removeAttribute('disabled');
+    else
+      phone.setAttribute('disabled', 'disabled');
+  });
+});
+
+
+</script>
+
+
 <!-- 
 
-CHAPTER 19
+CHAPTER 20
 
-1. When is it better to be poor than one who is perverse in his lips?
-(A) When you walk in your integrity
-(B) When you admire intergrity
-(C) When you know integrity
+What is a mocker?
+(A) Strong drink
+(B) Scoffer
+(C) Wine
 
-2. It is not good to be without what?
-(A) Full obedience
-(B) Knowledge
-(C) Obedience
+2. What is brawler?
+(A) Wine
+(B) Strong drink
+(C) Alcohol 
 
-3. When one hastens with his feet, what does he do?
-(A) He has pride
-(B) He steps into folly
-(C) He sins
+3. What is the wrath of the king compared to?
+(A) An angry lion
+(B) The roaring of a lion
+(C) Wrath of a lion
 
-4. What twists a man's way?
-(A) His foolishness
-(B) the way that leads to death
-(C) A fret heart
+4. For a man to stop striving is what?
+(A) Honourable
+(B) Peace seeking
+(C) Calmness
 
-5. What makes many `friends`?
-(A) Good friends
-(B) Wealth
-(C) Honest Friends
-
-6. Who will not escape his punishment?
-(A) A false witness and liar
-(B) one brought before court
-(C) A scoffer
-
-7. Who entreats the favor of the nobility?
-(A) Many
-(B) Every man
-(C) The wise
-
-8. Who hates a poor man?
-(A) one who has many friends
-(B) Rich people
-(C) His brothers and his friends
-
-9. Who loves his own soul?
-(A) He who gets wisdom
-(B) He who keeps understanding
-(C) He who separates himself from multitude
-
-10. What kind of punishment is due the liar?
-(A) Lies
-(B) Wrath
-(C) He shall perish
-
-11. It is not fitting for a servant to rule whom?
-(A) His fellow servants
-(B) The upright
-(C) Princes
-
-12. What is the glory of a man?
-(A) His countenance
-(B) To overlook transgression
-(C) His hair
-
-13. Whose favor is like dew on the grass?
-(A) A good shepherd's
-(B) A wife's
-(C) A king's
-
-14. What is the ruin of a father?
-(A) Poverty
-(B) The contention of a wife
-(C) A Foolish son
-
-15. What are a continual dipping?
-(A) A foolish son
-(B) Poverty
-(C) The contentions of a wife
-
-16. What is an inheritance from the Lord?
-(A) Houses and riches
-(B) A prudent wife
-(C) A man's Childrens children
-
-17. Who will suffer hunger?
-(A) An idle person
-(B) Laziness
-(C) The poor who borrow
-
-18. Who keeps his soul?
-(A) one who knows the commandment
-(B) One who listens to advice
-(C) Keeper of the commandment
-
-19. Who pays back that which is lent to the poor ?
-(A) The Lord
-(B) The rich
-(C) The labour of the poor
-
-20. When should one chasten his son?
-(A) When You love him
-(B) Before he does wrong
-(C) While there is hope
-
-21. Who will suffer punishment?
-(A) The man of great wrath
-(B) The man who knows great wrath
-(C) The man that turns great wrath
-
-22. What plan is sure to succeed?
-(A) A good plan
-(B) The plans of man
-(C) The Lord's counsel
-
-23. What is desired in a man?
-(A) A good heart
-(B) Believe
-(C) Kindness
-
-24. Who will not be visited with evil?
-(A) The clean in heart
-(B) A man with good morals
-(C) The one with the fear of the Lord
-
-25. Who buries his hand in the bowl?
-(A) The poor
+5. Who does not plow for the winter?
+(A) Idle hands
 (B) A lazy man
-(C) A man without understanding
+(C) Slumberer 
 
-26. What will happen when one rebukes one who has understanding?
-(A) He accept with happiness
-(B) He thinks
-(C) He discerns knowledge
+6. What is like deep water?
+(A) Wisdom
+(B) Understanding
+(C) Councel
 
-27. Which is the son who causes shame and reproach?
-(A)  The one who is not successful
-(B) The one who stays at home 
-(C) The one who mistreats his father and chases away his mother
+7. What do most men proclaim?
+(A) Faithfulness
+(B) Their own goodness
+(C) Goodness and mercy
 
-28. What happens to ones who ceases listening to instruction?
-(A) He ceases good words
-(B) He strays from the words of knowledge
-(C) He ceases wise sayings
+8. Whose children are blessed after him?
+(A) A king who sits on a throne
+(B) Rich people
+(C) The righteous man who walks in his integrity
 
-29. Who scorns justice?
-(A) The mouth of the wicked
-(B) A disreputable witness
-(C) The endeared ones
+9. Who scatters evil with his eyes?
+(A) A king who sits on the throne of judgment
+(B) Men
+(C) The righteous who walks in intergrity
 
-30. Judgments are prepared for whom?
-(A) Scoffers
-(B) The back of fools
-(C) The back of Scoffers
+10. What are an abomination to the Lord?
+(A) Diverse weights and measures
+(B) Diverses  weights
+(C) Diverse measures
 
-31. Which men are friends to ones who give gifts?
-(A) Every man
-(B) Many men
-(C) Poor men
+11. Even a child is known by his what?
+(A) Deeds
+(B) Righteousness
+(C) His parents
 
-32. What makes man slow anger?
-(A) His knowledge
-(B) His discretion
-(C) His discernment
+12. The Lord has made both the hearing ear and the what?
+(A) Seeing eye
+(B) Seeing heart
+(C) Seeing
 
-33. What is compared to a kings wrath?
-(A) King's heart
-(B) Dew of grass
-(C) Lion's roar
+13. If you love sleep you may come to what?
+(A) Poverty
+(B) Lack of bread
+(C) Hunger
 
-34. This not fitting for a fool?
-(A) Luxury
-(B) Wisdom
-(C) Riches
+14. What are a precious jewel?
+(A) The lips of knowledge
+(B) Understanding
+(C) Discerning heart
+
+15. What is sweet to a man but is afterwards as gravel?
+(A) Bread gained by deciept
+(B) Bread gained against deciept
+(C) Bread gained into deciept
+
+16. By what kind of counsel should war be waged?
+(A)Wise
+(B) Wicked
+(C) Haughty
+
+17. Do not associate with what person?
+(A) Tale bearer
+(B) The one that flatters with the lips
+(C) The flatter and the tale bearer
+
+18. An inheritance gained hastily will not be what at the end?
+(A) Remain
+(B) Blessed
+(C) Increased
+
+19. Whose lamp will be put out in deep darkness?
+(A) Those that curse father and mother
+(B) They that curse father with mother
+(C) They that curses fathers
+
+20. Do not say, `I will recompense evil` for who will save you?
+(A) The knowledge of God
+(B) The Lord
+(C) The fear of the Lord
+
+21. What are not good?
+(A) Dishonest scales
+(B) Diverse weights
+(C) Idle hands
+
+22. Whose steps are of the Lord?
+(A) A man
+(B) A man who commits his ways to the Lord
+(C) A wise man
+
+23. For a person to devote a thing as holy and afterwards reconsider, it is a what?
+(A) Unbelief
+(B) A snare
+(C) A Haste
+
+24. What is a lamp to the Lord so that He can search the inward heart?
+(A) The word
+(B) Man's spirit
+(C) Understanding
+
+25. By what does the king uphold his throne?
+(A) Power
+(B) Loving Kindness
+(C) Mercy and truth
+
+26. What is the splendor of old men?
+(A) The gray head
+(B) The gray hair
+(C) The grey hair
+
+27. What will cleanse away evil?
+(A) Blows that hurts
+(B) Stripes
+(C) Righteousness
+
+28. Whoever provokes a king to anger.
+(A) Will be devoured
+(B) Sin against his own life
+(C) Put danger against in his own life
+
+29. What will a man of understanding draw out in the heart of man?
+(A) Councel
+(B) Deep waters
+(C) Wisdom
+
+30. Who brings a threshing wheel over the wicked?
+(A) A King
+(B) Wise King
+(C) The Lord
+
+(31) By what are plans established?
+(A) Understanding
+(B) The Lord
+(C) Council
+
+32. Hold a garment as a pledge when it for?
+(A) A seductress
+(B) A surety
+(C) A stranger
+
+33. Who reveals secret?
+(A) One who flatters with his mouth
+(B) A talebearer
+(C) Non of the above
+
+34. What searches the inner depth of a man's own heart?
+(A) The spirit of the man
+(B) The lamb of the Lord
+(C) Both of the above
 
  -->

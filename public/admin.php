@@ -31,10 +31,10 @@
 	if (isset($_POST['submit']) && $_POST['password'] === "Administrators Only") {
 		// password correct, admin logged in so display users and scores
 
-		$query = "SELECT * FROM users ORDER BY percentage DESC";
+		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY percentage DESC";
 		$results = mysqli_query($connection, $query);
 
-		$query1 = "SELECT * FROM users";
+		$query1 = "SELECT * FROM users WHERE is_nubs = 0 ORDER BY percentage DESC";
 		$results1 = mysqli_query($connection, $query1);
 ?>
 	<section class="container">
@@ -62,6 +62,43 @@
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
 			    <td ><?php echo $result['start_time']; ?></td>
 			    <td ><?php echo $result['end_time']; ?></td>
+		    </tr>
+		    <?php
+		  }
+		    ?>
+		  </tbody>
+	  </table>
+	</section>
+
+	<br />
+
+	<section class="container">
+		<h6>In order of highest score (Non members)</h6>
+		<table class="text-center table table-bordered">
+		    <thead>
+		      <tr>
+			      <th class="text-center">Full name</th>
+			      <th class="text-center">Score</th>
+			      <th class="text-center">Percentage</th>
+			      <th class="text-center">Start time</th>
+			      <th class="text-center">End time</th>
+			      <th class="text-center">Phone number</th>
+		      </tr>
+		    </thead>
+		  <tbody>
+		  
+		  <?php
+		  // perform query to get users and their scores
+		    while($result1 = mysqli_fetch_assoc($results1))
+		  {
+		    ?>
+		    <tr>
+			    <td ><?php echo $result1['full_name']; ?></td>
+			    <td ><?php echo $result1['raw_score']; ?></td>
+			    <td ><?php echo $result1['percentage'] . '%'; ?></td>
+			    <td ><?php echo $result1['start_time']; ?></td>
+			    <td ><?php echo $result1['end_time']; ?></td>
+			    <td ><?php echo $result1['phone_number']; ?></td>
 		    </tr>
 		    <?php
 		  }

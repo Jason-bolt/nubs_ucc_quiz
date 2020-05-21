@@ -52,13 +52,14 @@ $end_time = " (" . date("h:i a") . ")";
 
 $start_time = $_SESSION['start_time'];
 
-// echo $score;
+// checking if participant is a nubs ucc member
+$is_nubs = (int)$_SESSION['is_nubs'];
+$phone_number = $_SESSION['phone_number'];
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time')";
+$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time, is_nubs, phone_number) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time', $is_nubs, '$phone_number')";
 $result = mysqli_query($connection, $sql);
 
-echo ($result);
 
 header("Location: result.php");
 
