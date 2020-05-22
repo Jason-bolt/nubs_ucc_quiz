@@ -24,7 +24,7 @@
 
 <section class="container py-5 text-center">
 	<div class="card py-4">
-		<h5>Quiz on Proverbs chapter 21 will start at 10am</h5>
+		<h5>Quiz on Proverbs chapter 22 will start at 10am</h5>
 	</div>
 </section>
 
