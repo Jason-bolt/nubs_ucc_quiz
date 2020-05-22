@@ -1,5 +1,5 @@
 <?php session_start();
-	// header("Location: soon.php");
+	header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,176 +150,161 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 20
+CHAPTER 21
 
-What is a mocker?
-(A) Strong drink
-(B) Scoffer
-(C) Wine
+1. The heart in the hands of the Lord is compared to?
+(A) The rivers of water
+(B) The sea
+(C) Pool of blood
 
-2. What is brawler?
-(A) Wine
-(B) Strong drink
-(C) Alcohol 
+2. What kind of heart is in the hands of the Lord?
+(A) A man's heart
+(B) A person's heart
+(C) A king's heart
 
-3. What is the wrath of the king compared to?
-(A) An angry lion
-(B) The roaring of a lion
-(C) Wrath of a lion
+3. In what is every way of a man right before?
+(A) in his own eyes
+(B) in The Lord
+(C) in his wealth
 
-4. For a man to stop striving is what?
-(A) Honourable
-(B) Peace seeking
-(C) Calmness
+4. To do what is better to the Lord than sacrifice?
+(A) Seek peace
+(B) Righteousness and Justice
+(C) Obedience to all things
 
-5. Who does not plow for the winter?
-(A) Idle hands
-(B) A lazy man
-(C) Slumberer 
+(5) Which of the following is NOT a sin?
+(A) A haughty look
+(B) The plowing of the wicked
+(C) None of the above
 
-6. What is like deep water?
-(A) Wisdom
-(B) Understanding
-(C) Councel
+(6) Getting treasures by lying tongue CAN be what?
+(A) Death seeking
+(B) Fleeting fantasy
+(C) Sin
 
-7. What do most men proclaim?
-(A) Faithfulness
-(B) Their own goodness
-(C) Goodness and mercy
-
-8. Whose children are blessed after him?
-(A) A king who sits on a throne
-(B) Rich people
-(C) The righteous man who walks in his integrity
-
-9. Who scatters evil with his eyes?
-(A) A king who sits on the throne of judgment
-(B) Men
-(C) The righteous who walks in intergrity
-
-10. What are an abomination to the Lord?
-(A) Diverse weights and measures
-(B) Diverses  weights
-(C) Diverse measures
-
-11. Even a child is known by his what?
-(A) Deeds
-(B) Righteousness
-(C) His parents
-
-12. The Lord has made both the hearing ear and the what?
-(A) Seeing eye
-(B) Seeing heart
-(C) Seeing
-
-13. If you love sleep you may come to what?
-(A) Poverty
-(B) Lack of bread
-(C) Hunger
-
-14. What are a precious jewel?
-(A) The lips of knowledge
-(B) Understanding
-(C) Discerning heart
-
-15. What is sweet to a man but is afterwards as gravel?
-(A) Bread gained by deciept
-(B) Bread gained against deciept
-(C) Bread gained into deciept
-
-16. By what kind of counsel should war be waged?
-(A)Wise
-(B) Wicked
-(C) Haughty
-
-17. Do not associate with what person?
-(A) Tale bearer
-(B) The one that flatters with the lips
-(C) The flatter and the tale bearer
-
-18. An inheritance gained hastily will not be what at the end?
-(A) Remain
-(B) Blessed
-(C) Increased
-
-19. Whose lamp will be put out in deep darkness?
-(A) Those that curse father and mother
-(B) They that curse father with mother
-(C) They that curses fathers
-
-20. Do not say, `I will recompense evil` for who will save you?
-(A) The knowledge of God
-(B) The Lord
-(C) The fear of the Lord
-
-21. What are not good?
-(A) Dishonest scales
-(B) Diverse weights
-(C) Idle hands
-
-22. Whose steps are of the Lord?
-(A) A man
-(B) A man who commits his ways to the Lord
-(C) A wise man
-
-23. For a person to devote a thing as holy and afterwards reconsider, it is a what?
-(A) Unbelief
-(B) A snare
-(C) A Haste
-
-24. What is a lamp to the Lord so that He can search the inward heart?
-(A) The word
-(B) Man's spirit
-(C) Understanding
-
-25. By what does the king uphold his throne?
-(A) Power
-(B) Loving Kindness
-(C) Mercy and truth
-
-26. What is the splendor of old men?
-(A) The gray head
-(B) The gray hair
-(C) The grey hair
-
-27. What will cleanse away evil?
-(A) Blows that hurts
-(B) Stripes
-(C) Righteousness
-
-28. Whoever provokes a king to anger.
-(A) Will be devoured
-(B) Sin against his own life
-(C) Put danger against in his own life
-
-29. What will a man of understanding draw out in the heart of man?
-(A) Councel
-(B) Deep waters
-(C) Wisdom
-
-30. Who brings a threshing wheel over the wicked?
-(A) A King
-(B) Wise King
+(7) What will destroy the wicked?
+(A) Light
+(B) His own violence
 (C) The Lord
 
-(31) By what are plans established?
-(A) Understanding
-(B) The Lord
-(C) Council
+(8) What is the way of a guilty man?
+(A) Death 
+(B) Perverse
+(C) Guilt
 
-32. Hold a garment as a pledge when it for?
-(A) A seductress
-(B) A surety
-(C) A stranger
-
-33. Who reveals secret?
-(A) One who flatters with his mouth
-(B) A talebearer
-(C) Non of the above
-
-34. What searches the inner depth of a man's own heart?
-(A) The spirit of the man
-(B) The lamb of the Lord
+(9) Who makes it better to dwell in the corner of house top?
+(A) An Angry woman
+(B) A Contentious woman
 (C) Both of the above
+
+10. What does the soul of the wicked desires?
+(A) Judgement
+(B) Evil
+(C) Rush words
+
+11. A neighbour finds no favour in whose eyes?
+(A) The simple
+(B) The wise
+(C) The wicked
+
+12. What makes the simple wise?
+(A) When the wise is instructed
+(B) Words of wisdom
+(C) When the scoffer is punished
+
+13. What does the righteous God wisely considers?
+(A) The ways of the Just
+(B) The house of the righteous
+(C) The house of the wicked
+
+(14) What pacifies anger?
+(A) Secret gifts
+(B) Bribe behind the back
+(C) The eyes of the Lord
+
+(15) To whom shall the wicked be a ransom for?
+(A) The righteous
+(B) The upright
+(C) The Unfaithful
+
+(16) To dwell in the wilderness is better than dwelling with?
+(A) A contentious woman
+(B) An angry woman
+(C) Both of the above
+
+17. To whom does distraction comes to?
+(A) Workers of iniquity
+(B) The cruel
+(C) The simple
+
+18. To do justice is what to the just?
+(A) Joy
+(B) Known
+(C) Wisdom
+
+19. What happens to a man who wanders from the way of understanding?
+(A) Wanders in the way of death
+(B) Rest in the assembly of the dead
+(C) Wanders in the assembly of the dead
+
+20. What will happen to a man who loves wine and oil?
+(A) He will be poor
+(B) He will be mocked
+(C) He will not be rich
+
+21. What can be found in the house of the wise?
+(A) Wisdom
+(B) Desirable treasure and oil
+(C) Understand
+
+22. Righteousness and honour are found by
+(A) The righteous and meciful
+(B) The merciful and honourable
+(C) The righteous and honourable
+
+23. A wise man brings down
+(A) The city of the mighty
+(B)  Strong cities
+(C) Trusted Stronghold
+
+24. What does a person who guards his mouth and tongue keeps from trouble?
+(A) His soul
+(B) His lips
+(C) His inheritance
+
+25. What name is given to a proud and haughty man and how do they act?
+(A) Name (arrogant proud), Act (haughty)
+(B) Name(arrogant proud), Act (scoffer)
+(C) Name(Scoffer), Act( arrogant proud)
+
+26. What kills a lazy man?
+(A) His own desire
+(B) Hunger
+(C) Poverty
+
+27. A man who hears the speaking of a false witness shall.
+(A) Perish
+(B) Speak endlessly
+(C) Bear false witness
+
+28. If a wicked man hardens his face, what does the upright do?
+(A) Establishes his way
+(B) Prepares for the day
+(C) Gives and does not spare
+
+29. Which of the following are NOT against The Lord?
+(A) Wisdom and councel
+(B) Councel and Understanding
+(C) All of the above
+
+30. What will happen to one who loves pleasure?
+(A) Will not be rich
+(B) Will be poor
+(C) None of the above
+
+31. Who covet's greedy all day long?
+(A) The proud
+(B) The lazy
+(C) None of the above
 
  -->
