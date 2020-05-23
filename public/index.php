@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,161 +150,171 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 21
+PROVERBS CHAPTER 22
 
-1. The heart in the hands of the Lord is compared to?
-(A) The rivers of water
-(B) The sea
-(C) Pool of blood
+1. A good name is better than.
+(A) Silver and Gold
+(B) Great riches
+(C) Sacrifice
 
-2. What kind of heart is in the hands of the Lord?
-(A) A man's heart
-(B) A person's heart
-(C) A king's heart
+2. What makes a prudent man to hide himself?
+(A) Evil
+(B) Punishment
+(C) From shame
 
-3. In what is every way of a man right before?
-(A) in his own eyes
-(B) in The Lord
-(C) in his wealth
+3. What does humility and the fear of the Lord produce?
+(A) Honour, riches and life
+(B)  Honour, glory and peace
+(C) Honour, riches and peace
 
-4. To do what is better to the Lord than sacrifice?
-(A) Seek peace
-(B) Righteousness and Justice
-(C) Obedience to all things
+4. He who guards his soul will be far from
+(A) Thorns and thistles
+(B) Thorns and snares
+(C) Death
 
-(5) Which of the following is NOT a sin?
-(A) A haughty look
-(B) The plowing of the wicked
+5. Whom does the rich rule over?
+(A) The borrower
+(B) The poor
+(C) Servants
+
+6. What is the outcome of the rod of anger of a person who sows iniquity?
+(A) Failure
+(B) Sorrow
 (C) None of the above
 
-(6) Getting treasures by lying tongue CAN be what?
-(A) Death seeking
-(B) Fleeting fantasy
-(C) Sin
+7. Who generously gives bread to the poor?
+(A) The rich
+(B) The generous giver
+(C) Lender
 
-(7) What will destroy the wicked?
-(A) Light
-(B) His own violence
+8. What happens when contention leave?
+(A) Strife and reproach cease
+(B) Scoffer is casted out
+(C) All the above
+
+9. Who will be the friend of a king?
+(A) Lover of pure heart with gracious lips
+(B) The rich
+(C) None of the above
+
+10. In contrast to knowledge, The Lord overthrows
+(A) The words of faithless
+(B) One abhorred by The Lord
+(C) Wicked rulers
+
+11. What is a deep pit?
+(A) The voice of the wicked
+(B) The mouth of an immoral woman
+(C) The mouth of a woman
+
+12 What is used to drive foolishness from the heart of a child?
+(A) Rod
+(B) Rod of correction
+(C) Rod of wisdom
+
+13. When foolishness is driven from a child's heart where does it go?
+(A) Far from him
+(B) Around
+(C) None of the above
+
+14. What will surely happen to a person who gives to the rich?
+(A) Will become poor
+(B) Will increase in riches
+(C) Will lend to the poor
+
+15. What should we apply our hearts to, after hearing wisdom?
+(A) Wisdom
+(B) Instruction
+(C) Knowledge
+
+16. What should be fixed upon lips of a man?
+(A) Knowledge and wisdom
+(B) Wisdom and riches
+(C) Knowledge and power
+
+17. What will happen to a man who oppresses the poor to increase riches?
+(A) Will grow in riches
+(B) Will become poor
+(C) Will lend to the poor
+
+18. Proverbs make one to know the certainty of what?
+(A) Truth
+(B) The rich
+(C) The good hearted
+
+19. What does the eyes of the Lord preserves?
+(A) Knowledge
+(B) Wisdom
+(C) Understanding
+
+20. One should not........ the poor nor........ afflicted.
+(A) Oppress, rob
+(B) Rob, Oppress
+(C) Kill, hate
+
+21. Why should the correct option above not be done to the poor and afflicted?
+(A) The Lord will plead their cause
+(B) The Lord will plunder the soul of those who plunder them
+(C) Both of the above
+
+22. With whom is a man advise not to make friends with?
+(A) A poor man
+(B) An angry man
+(C) A furious man
+
+23. With whom is a man advise not to move with?
+(A) A poor man
+(B) An Angry man
+(C) A furious man
+
+24. Who will stand before kings?
+(A) A man who excels in his work
+(B) A gifted hands
+(C) A rich man
+
+25. What should not be removed?
+(A) Ancient landmark
+(B) The fear of God
 (C) The Lord
 
-(8) What is the way of a guilty man?
-(A) Death 
-(B) Perverse
-(C) Guilt
+26. Do not shake hands with what?
+(A) Agreement
+(B) Pledge
+(C) Dispute
 
-(9) Who makes it better to dwell in the corner of house top?
-(A) An Angry woman
-(B) A Contentious woman
-(C) Both of the above
+27. Who pleads the cause of the poor and afflicted?
+(A) He who has mercy on the poor
+(B) The Lord
+(C) The rich
 
-10. What does the soul of the wicked desires?
-(A) Judgement
-(B) Evil
-(C) Rush words
+28. What is bound in the heart of a child?
+(A) Foolishness
+(B) Angry
+(C) Fury
 
-11. A neighbour finds no favour in whose eyes?
-(A) The simple
-(B) The wise
-(C) The wicked
+29. Where is it a pleasant thing to keep the words of the wise?
+(A) Passed on
+(B) Within You
+(C) Above
 
-12. What makes the simple wise?
-(A) When the wise is instructed
-(B) Words of wisdom
-(C) When the scoffer is punished
+30 Who says there is a lion outside?
+(A) The poor
+(B) An immoral woman
+(C) The Lazy
 
-13. What does the righteous God wisely considers?
-(A) The ways of the Just
-(B) The house of the righteous
-(C) The house of the wicked
+31 The King's friend will have what on his lips?
+(A) Councel 
+(B) Grace
+(C) Words
 
-(14) What pacifies anger?
-(A) Secret gifts
-(B) Bribe behind the back
-(C) The eyes of the Lord
-
-(15) To whom shall the wicked be a ransom for?
-(A) The righteous
-(B) The upright
-(C) The Unfaithful
-
-(16) To dwell in the wilderness is better than dwelling with?
-(A) A contentious woman
-(B) An angry woman
-(C) Both of the above
-
-17. To whom does distraction comes to?
-(A) Workers of iniquity
-(B) The cruel
-(C) The simple
-
-18. To do justice is what to the just?
-(A) Joy
-(B) Known
-(C) Wisdom
-
-19. What happens to a man who wanders from the way of understanding?
-(A) Wanders in the way of death
-(B) Rest in the assembly of the dead
-(C) Wanders in the assembly of the dead
-
-20. What will happen to a man who loves wine and oil?
-(A) He will be poor
-(B) He will be mocked
-(C) He will not be rich
-
-21. What can be found in the house of the wise?
-(A) Wisdom
-(B) Desirable treasure and oil
-(C) Understand
-
-22. Righteousness and honour are found by
-(A) The righteous and meciful
-(B) The merciful and honourable
-(C) The righteous and honourable
-
-23. A wise man brings down
-(A) The city of the mighty
-(B)  Strong cities
-(C) Trusted Stronghold
-
-24. What does a person who guards his mouth and tongue keeps from trouble?
-(A) His soul
-(B) His lips
-(C) His inheritance
-
-25. What name is given to a proud and haughty man and how do they act?
-(A) Name (arrogant proud), Act (haughty)
-(B) Name(arrogant proud), Act (scoffer)
-(C) Name(Scoffer), Act( arrogant proud)
-
-26. What kills a lazy man?
-(A) His own desire
-(B) Hunger
-(C) Poverty
-
-27. A man who hears the speaking of a false witness shall.
-(A) Perish
-(B) Speak endlessly
-(C) Bear false witness
-
-28. If a wicked man hardens his face, what does the upright do?
-(A) Establishes his way
-(B) Prepares for the day
-(C) Gives and does not spare
-
-29. Which of the following are NOT against The Lord?
-(A) Wisdom and councel
-(B) Councel and Understanding
-(C) All of the above
-
-30. What will happen to one who loves pleasure?
-(A) Will not be rich
-(B) Will be poor
+32. Who made the rich and the poor?
+(A) The Lord
+(B) Themselves
 (C) None of the above
 
-31. Who covet's greedy all day long?
-(A) The proud
-(B) The lazy
-(C) None of the above
+33. What should be chosen rather than having gold and silver?
+(A) Good name
+(B) Loving favour
+(C) Loving Kindness
 
  -->
