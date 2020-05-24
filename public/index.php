@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,171 +150,169 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-PROVERBS CHAPTER 22
+CHAPTER 23
 
-1. A good name is better than.
-(A) Silver and Gold
-(B) Great riches
-(C) Sacrifice
+1. Who will become poor?
+(A) The drunkard
+(B) The glutton
+(C) Both of the options above
 
-2. What makes a prudent man to hide himself?
-(A) Evil
-(B) Punishment
-(C) From shame
+2. With whom are we advise not to associate with?
+(A) Winebibbers and gluttonous eaters
+(B) The rich and the miser
+(C) Both of the options above
 
-3. What does humility and the fear of the Lord produce?
-(A) Honour, riches and life
-(B)  Honour, glory and peace
-(C) Honour, riches and peace
+3. What will happen if a man hears proverbs?
+(A) It can guides his heart
+(B) He will gather discernment
+(C) Both of the options above
 
-4. He who guards his soul will be far from
-(A) Thorns and thistles
-(B) Thorns and snares
-(C) Death
-
-5. Whom does the rich rule over?
-(A) The borrower
-(B) The poor
-(C) Servants
-
-6. What is the outcome of the rod of anger of a person who sows iniquity?
-(A) Failure
-(B) Sorrow
-(C) None of the above
-
-7. Who generously gives bread to the poor?
-(A) The rich
-(B) The generous giver
-(C) Lender
-
-8. What happens when contention leave?
-(A) Strife and reproach cease
-(B) Scoffer is casted out
-(C) All the above
-
-9. Who will be the friend of a king?
-(A) Lover of pure heart with gracious lips
-(B) The rich
-(C) None of the above
-
-10. In contrast to knowledge, The Lord overthrows
-(A) The words of faithless
-(B) One abhorred by The Lord
-(C) Wicked rulers
-
-11. What is a deep pit?
-(A) The voice of the wicked
-(B) The mouth of an immoral woman
-(C) The mouth of a woman
-
-12 What is used to drive foolishness from the heart of a child?
-(A) Rod
-(B) Rod of correction
-(C) Rod of wisdom
-
-13. When foolishness is driven from a child's heart where does it go?
-(A) Far from him
-(B) Around
-(C) None of the above
-
-14. What will surely happen to a person who gives to the rich?
-(A) Will become poor
-(B) Will increase in riches
-(C) Will lend to the poor
-
-15. What should we apply our hearts to, after hearing wisdom?
-(A) Wisdom
-(B) Instruction
-(C) Knowledge
-
-16. What should be fixed upon lips of a man?
-(A) Knowledge and wisdom
-(B) Wisdom and riches
-(C) Knowledge and power
-
-17. What will happen to a man who oppresses the poor to increase riches?
-(A) Will grow in riches
-(B) Will become poor
-(C) Will lend to the poor
-
-18. Proverbs make one to know the certainty of what?
-(A) Truth
-(B) The rich
-(C) The good hearted
-
-19. What does the eyes of the Lord preserves?
-(A) Knowledge
-(B) Wisdom
-(C) Understanding
-
-20. One should not........ the poor nor........ afflicted.
-(A) Oppress, rob
-(B) Rob, Oppress
-(C) Kill, hate
-
-21. Why should the correct option above not be done to the poor and afflicted?
-(A) The Lord will plead their cause
-(B) The Lord will plunder the soul of those who plunder them
-(C) Both of the above
-
-22. With whom is a man advise not to make friends with?
-(A) A poor man
-(B) An angry man
-(C) A furious man
-
-23. With whom is a man advise not to move with?
-(A) A poor man
-(B) An Angry man
-(C) A furious man
-
-24. Who will stand before kings?
-(A) A man who excels in his work
-(B) A gifted hands
-(C) A rich man
-
-25. What should not be removed?
-(A) Ancient landmark
-(B) The fear of God
+4. Whose hope will not be cut off?
+(A) Those who fear the Lord
+(B) Wise men
 (C) The Lord
 
-26. Do not shake hands with what?
-(A) Agreement
-(B) Pledge
-(C) Dispute
+(5) It is not enough NOT to envy sinners, we must also.
+(A) Make them envy us
+(B) Desire to be successful above them
+(C) Be zealous for the fear of the Lord
 
-27. Who pleads the cause of the poor and afflicted?
-(A) He who has mercy on the poor
-(B) The Lord
-(C) The rich
+(6) What will happen when a child is beaten with a rod?
+(A) his soul will depart from hell
+(B) He will receive knowledge
+(C) He will be wise
 
-28. What is bound in the heart of a child?
-(A) Foolishness
-(B) Angry
-(C) Fury
+7. Apply your........ to instruction, And 
+your ........ to words of knowledge. 
+(A) Heart , mind
+(B) Heart, ears
+(C) Mind, heart
 
-29. Where is it a pleasant thing to keep the words of the wise?
-(A) Passed on
-(B) Within You
-(C) Above
+8. Do not remove the ........, 
+Nor enter the fields of the ........
+(A) Ancient landmark, fatherless
+(B) Fatherless, Ancient landmark
+(C) None of the options above
 
-30 Who says there is a lion outside?
-(A) The poor
-(B) An immoral woman
-(C) The Lazy
+9. Who despises wise words.
+(A) A fool
+(B) A glutton
+(C) Both of the options above
 
-31 The King's friend will have what on his lips?
-(A) Councel 
-(B) Grace
-(C) Words
+10. They have struck me, but I was not hurt; They have beaten me, but I did not feel it. Who says these words?
+(A) A drunkard
+(B) A Strong man
+(C) The mighty
 
-32. Who made the rich and the poor?
-(A) The Lord
-(B) Themselves
-(C) None of the above
+11. From the chapter, who has plenty questions of problems? 
+(A) Those who linger long time for wine
+(B) A Glutton of meat
+(C) A Harlot and seductress
 
-33. What should be chosen rather than having gold and silver?
-(A) Good name
-(B) Loving favour
-(C) Loving Kindness
+12. Whose food will be vomit up when eaten?
+(A) The rich
+(B) A miser
+(C) A ruler
+
+13. Whose delicacies are known to be deceptive?
+(A) The rich
+(B) A miser
+(C) A ruler
+
+14. Whose bread are we advice not to eat?
+(A) The rich
+(B) The miser
+(C) The ruler
+
+15. Whose delicacies are we advise NOT to desire?
+(A) A miser
+(B) The rich
+(C) None of the 
+above
+
+16. Whose delicacies are we advise NOT to desire?
+(A) A miser
+(B) The ruler
+(C) Both of the options above
+
+17. Whose delicacies are we advise NOT to desire?
+(A) The rich 
+(B) The ruler
+(C) None of the options above
+
+18. If you are a man given to appetite, where would you put your knife?
+(A) Beside the plate
+(B) Your throat
+(C) Your chest
+
+19. Do not overwork to be what?
+(A) Rich
+(B) Free of debts
+(C) Righteous
+
+20. What certainly make themselves wings?
+(A) Unstable delicacies 
+(B) Gluttony
+(C) Riches
+
+21. You should not do what to the ancient landmarks?
+(A) Locate them
+(B) Repeat them
+(C) Remove them
+
+22. Whose redeemer will plead their cause against you?
+(A) The fatherless
+(B) The Ancient landmark
+(C) A wise son
+
+23. When will my inmost being rejoice?
+(A) When disobedience is no more
+(B) When it is enraptured
+(C) When my children speak right things
+
+24. There is surely a what?
+(A) A hereafter
+(B) Angels in heaven
+(C) Parents
+
+25. What two classes of people will come to poverty?
+(A) All knowing people and those ignorant
+(B) The drunkard and the glutton
+(C) Harlot and seductress
+
+26. Do not despise your mother when she is what?
+(A) Poor
+(B) Old
+(C) Sinning
+
+27. What should you buy and sell not?
+(A) Precious jewels
+(B) Gold
+(C) The truth
+
+28. What shuld you let your father and mother be?
+(A) Rest
+(B) Glad
+(C) Married
+
+29. What is a seductress?
+(A) A narrow well
+(B) A deep pit
+(C) She who has a flattery tongue
+
+30. Do not look at wine when it does what in the cup?
+(A) Is very still
+(B) Sparkles
+(C) Moves
+
+31. When the drinker awakes, what does he seek?
+(A) Delicacies of food
+(B) Refuge
+(C) Another drink
+
+32. Who is a harlot?
+(A) Rich
+(B) Well
+(C) Deep pit
 
  -->
