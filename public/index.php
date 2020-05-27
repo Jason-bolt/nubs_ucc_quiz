@@ -150,165 +150,166 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 26
+CHAPTER 27
 
-1. What is not fitting for a fool?
-(A) Snow
-(B) Wisdom
-(C) Honour
+1. What reveals a man?
+(A) His heart
+(B) His words
+(C) His friends
 
-2. In verse 1, when is snow?
-(A) In summer
-(B) In winter
-(C) In harvest
+2. What reflects face?
+(A) Water
+(B) Mirror
+(C) The Lord
 
-3. What happens to a curse without  cause?
-(A) Shall not alight
-(B) Shall not cease
-(C) Shall not flight
+3. What does a man who waits on his master receive?
+(A) Honour
+(B) Encouragement
+(C) A gift and a present
 
-4. What is compared to curse without cause?
-(A) Flying sparrow, flitting swallow
-(B) Rain in the harvest
-(C) Flitting sparrow, flying swallow
+4. Whoever keeps a fig tree will
+(A) Eat Its fruit
+(B) Will be eaten by its fruit
+(C) Will be rich
 
-5. A ........ for the horse, A ........ for the  donkey, And a ........ for the fool's back.
-(A) Bridle, whip, rod
-(B) Whip, bridle, rod
-(C) Bridle, rod, whip
+(5) Whom does a man sharpens?
+(A) His brother
+(B) His friend
+(C) Himself
 
-6. Why should You NOT answer a fool?
-(A) Lest You will be like him
-(B)  He needs no answer
-(C) Lest He will be wise in his own eyes
+(6) What does an iron sharpens?
+(A) Iron
+(B) Iron rod
+(C) Rod
 
-7. Why should You answer a fool?
-(A) He needs an answer
-(B) Lest You will be like him
-(C) Lest He will be wise in his own eyes
+7. Whoever restrains a contentious woman does what?
+(A) Grasp oil with his right hand
+(B) Restrains the wind
+(C) Both of the options above
 
-8. Who cuts of his own feet and drinks violence?
-(A) He who sends message by the hand of a fool
-(B) A foolishness messenger
-(C) Master of a foolish messenger
+8. What is likened to a contentious woman?
+(A) A contentious woman
+(B) A continual dripping on a very rainy day
+(C) Both of the options above
 
-9. What is a proverb in the mouth of fool described?
-(A) The legs of the lame that hang limp
-(B) Like one who binds a stone in a sling
-(C) A thorn that goes into the hand of the drunkard
+9. A loud greeting or blessing in the early morning is counted as a
+(A) Conversation
+(B) Humour
+(C) Curse
 
-10. To honour a fool is like
-(A) The legs of the lame that hangs limp
-(B) one who binds a stone in a sling
-(C) A thorn that goes into the hand of a drunkard
+10. What does a prudent man do when he foresees evil?
+(A) Hides
+(B) Flee
+(C) Pass on
 
-11. A proverb in the mouth of a fool is like what?
-(A) The legs of the lame that hang limp
-(B) Like one who binds a stone in a sling
-(C) A thorn that goes into the hand of a drunkard
+11. What makes a heart glad?
+(A) When one who reproaches is answered
+(B) A pure heart
+(C) A Wise son
 
-12. The great God who formed everything 
-Gives the fool his ........ and the 
-transgressor his ........ 
-(A) Hire, wages
-(B) Wages, hire
+12. Who is better than a brother?
+(A) A friend
+(B) A father
+(C) A nearby neighbour
+
+13. Whom are we advise not to forsake (abandon)?
+(A) A friend- either yours or your father's
+(B) A close neighbour
+(C) A brother
+
+14. It is advisable not to go to a brother when You are
+(A) In solemn
+(B) In anger
+(C) Calamity
+
+15. The sweetness of a friend gives delight. When can this delight be experience?
+(A) From Ointment and perfume
+(B) Hearty council
+(C) Both of the options above
+
+16. We are advise not to boast about what?
+(A) Ourselves
+(B) Tomorrow
+(C) Riches
+
+17. We should not praise ourselves with our own?
+(A) Strings and Cymbals
+(B) Enemies
+(C) Mouth and lips
+
+18. What is heavier than the stone and the sand?
+(A) A fool's heart
+(B) A fool's wrath
+(C) A fool's foolishness
+
+19. Jealousy is more dangerous than what?
+(A) Wrath and anger
+(B) Wrath and hatred
+(C) Hatred and anger
+
+20. Open rebuke is better than
+(A) Concealed (unexpressed) love
+(B) Hidden rebuke
+(C) Gossip
+
+21. If the wounds of a friend is faithful, what is the kisses of an enemy.
+(A) Unfaithful
+(B) Deceit
+(C) Destruction
+
+22. What is sweet to a hungry soul?
+(A) Everything
+(B) Everything bitter thing
+(C) Honeycomb
+
+23. How do You feel when You are far from home?
+(A) Like a bird that wanders from its nest
+(B) Without hope and unhappy
+(C) Everyone is against You
+
+24. The lambs will provide your clothing, And the goats ........
+(A) Your shelter and housing
+(B) The price of a field
+(C) Both of the options above
+
+25. You shall have enough milk, meat and nourishment for your household and maidservants from 
+(A) The rich
+(B) Lamb
+(C) Goat
+
+26. What will happen when the hay is removed, and the tender grass shows itself, And the herbs of the mountains are gathered in,
+(A) There shall be ointment and perfume
+(B) There shall be clothing, food and milk
 (C) None of the options above
 
-13. Who says this, "There is a lion in 
-the road! A fierce lion is in the streets"
-(A) A lazy man
-(B) A fool
-(C) Drunkard
+27. What is compared to the dissatisfaction of the eye?
+(A) The never fullness of hell and destruction
+(B) The dissatisfaction of hell and destruction
+(C) The never fullness of hell and fire
 
-14. What is compared to a fool who repeats his folly?
-(A) A wise person who repeats his folly
-(B) A dog that goes back to his vomit
-(C) A mad person
+28. Upon what is a man's value determined?
+(A) His deeds
+(B) His riches
+(C) What others say of him
 
-15. Whose wickedness will be revealed before assembly of people?
-(A) The lazy
-(B) One who hates but disguises it with his lips
-(C) Talebearer
+29. What will happen when a fool is grinded in a mortar with a pestle along with crushed grain
+(A) He will die
+(B) He will learn wisdom
+(C) His foolishness will not depart from him
 
-16. What is the work of a flattering mouth?
-(A) Rumour
-(B) Ruin
-(C) Lies
+30. Riches are not what?
+(A) Generational
+(B) Wealth
+(C) Forever
 
-17. Who falls into a pit?
-(A) Whoever digs a pit
-(B) Whoever does not cover a pit
-(C) Whoever opens a closed pit
-
-18. A lazy man on his bed is like
-(A) A lion in the street
-(B) A door that turns on its hinges
-(C) A cold water in cold weather
-
-19. What is revealed when hatred is covered by deceit
-(A) Hatred
-(B) Truth
-(C) Wickedness
-
-20. There is more hope for a fool than 
-(A) A lazy man who sleeps
-(B) A man wise in his own eyes
-(C) A poor man who begs in the time of harvest 
-
-21. There are seven abominations in the heart 
-(A) Of a Fool
-(B) Full of hatred
-(C) Of a Talebearer
-
-22. What does a lying tongue hates?
-(A) The truth
-(B) Faithful witness
-(C) Those who are crushed by it
-
-23. Where does the words of a talebearer goes to?
-(A) The ears
-(B) Innermost body
-(C) The mind
-
-24. The words of a Talebearer is like what?
-(A) Tasty triffles
-(B) Seven abominations
-(C) Deceit 
-
-25. Who disguises with his lips. And lays up deceit within himself
-(A) The Talebearer
-(B) The lazy
-(C) He who hates
-
-26. As charcoal is to burning coals, and wood to fire, So is a contentious man to 
-(A) Kindle strife
-(B) Coal pot
-(C) Quarrel
-
-27. Where there is no wood, the fire goes out; And where there is no talebearer,
-(A) Death ceases
-(B) Strive ceases
-(C) Lies ceases
-
-28. A lazy man is wiser than seven men who can answer sensibly in what?
-(A) His own eyes
+31. What kind of knowledge is a man expected to be diligent about?
+(A) The state of their flocks
 (B) Wisdom
-(C) Court
+(C) The understanding of a man
 
-29. He who passes by and meddles in a quarrel not his own Is like who?
-(A) One who binds a stone in a sling
-(B) The legs of the lame that hang limp
-(C) One who takes a dog by the ears
-
-30. Where does a lazy man bury his hand
-(A) In the grave
-(B) In his bosom
-(C) In the bowl
-
-31. A man who deceives his neighbor, And says, "I was only joking!" is compared to who?
-(A)  a madman who throws firebrands, 
-arrows, and death
-(B) One who hates but disguises it with his lips
-(C) None of the above
+32. It is expected of a man to attend to what
+(A) His flocks
+(B) His herds
+(C) His Lamb
 
  -->
