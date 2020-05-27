@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,169 +150,165 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 23
+CHAPTER 26
 
-1. Who will become poor?
-(A) The drunkard
-(B) The glutton
-(C) Both of the options above
+1. What is not fitting for a fool?
+(A) Snow
+(B) Wisdom
+(C) Honour
 
-2. With whom are we advise not to associate with?
-(A) Winebibbers and gluttonous eaters
-(B) The rich and the miser
-(C) Both of the options above
+2. In verse 1, when is snow?
+(A) In summer
+(B) In winter
+(C) In harvest
 
-3. What will happen if a man hears proverbs?
-(A) It can guides his heart
-(B) He will gather discernment
-(C) Both of the options above
+3. What happens to a curse without  cause?
+(A) Shall not alight
+(B) Shall not cease
+(C) Shall not flight
 
-4. Whose hope will not be cut off?
-(A) Those who fear the Lord
-(B) Wise men
-(C) The Lord
+4. What is compared to curse without cause?
+(A) Flying sparrow, flitting swallow
+(B) Rain in the harvest
+(C) Flitting sparrow, flying swallow
 
-(5) It is not enough NOT to envy sinners, we must also.
-(A) Make them envy us
-(B) Desire to be successful above them
-(C) Be zealous for the fear of the Lord
+5. A ........ for the horse, A ........ for the  donkey, And a ........ for the fool's back.
+(A) Bridle, whip, rod
+(B) Whip, bridle, rod
+(C) Bridle, rod, whip
 
-(6) What will happen when a child is beaten with a rod?
-(A) his soul will depart from hell
-(B) He will receive knowledge
-(C) He will be wise
+6. Why should You NOT answer a fool?
+(A) Lest You will be like him
+(B)  He needs no answer
+(C) Lest He will be wise in his own eyes
 
-7. Apply your........ to instruction, And 
-your ........ to words of knowledge. 
-(A) Heart , mind
-(B) Heart, ears
-(C) Mind, heart
+7. Why should You answer a fool?
+(A) He needs an answer
+(B) Lest You will be like him
+(C) Lest He will be wise in his own eyes
 
-8. Do not remove the ........, 
-Nor enter the fields of the ........
-(A) Ancient landmark, fatherless
-(B) Fatherless, Ancient landmark
+8. Who cuts of his own feet and drinks violence?
+(A) He who sends message by the hand of a fool
+(B) A foolishness messenger
+(C) Master of a foolish messenger
+
+9. What is a proverb in the mouth of fool described?
+(A) The legs of the lame that hang limp
+(B) Like one who binds a stone in a sling
+(C) A thorn that goes into the hand of the drunkard
+
+10. To honour a fool is like
+(A) The legs of the lame that hangs limp
+(B) one who binds a stone in a sling
+(C) A thorn that goes into the hand of a drunkard
+
+11. A proverb in the mouth of a fool is like what?
+(A) The legs of the lame that hang limp
+(B) Like one who binds a stone in a sling
+(C) A thorn that goes into the hand of a drunkard
+
+12. The great God who formed everything 
+Gives the fool his ........ and the 
+transgressor his ........ 
+(A) Hire, wages
+(B) Wages, hire
 (C) None of the options above
 
-9. Who despises wise words.
-(A) A fool
-(B) A glutton
-(C) Both of the options above
+13. Who says this, "There is a lion in 
+the road! A fierce lion is in the streets"
+(A) A lazy man
+(B) A fool
+(C) Drunkard
 
-10. They have struck me, but I was not hurt; They have beaten me, but I did not feel it. Who says these words?
-(A) A drunkard
-(B) A Strong man
-(C) The mighty
+14. What is compared to a fool who repeats his folly?
+(A) A wise person who repeats his folly
+(B) A dog that goes back to his vomit
+(C) A mad person
 
-11. From the chapter, who has plenty questions of problems? 
-(A) Those who linger long time for wine
-(B) A Glutton of meat
-(C) A Harlot and seductress
+15. Whose wickedness will be revealed before assembly of people?
+(A) The lazy
+(B) One who hates but disguises it with his lips
+(C) Talebearer
 
-12. Whose food will be vomit up when eaten?
-(A) The rich
-(B) A miser
-(C) A ruler
+16. What is the work of a flattering mouth?
+(A) Rumour
+(B) Ruin
+(C) Lies
 
-13. Whose delicacies are known to be deceptive?
-(A) The rich
-(B) A miser
-(C) A ruler
+17. Who falls into a pit?
+(A) Whoever digs a pit
+(B) Whoever does not cover a pit
+(C) Whoever opens a closed pit
 
-14. Whose bread are we advice not to eat?
-(A) The rich
-(B) The miser
-(C) The ruler
+18. A lazy man on his bed is like
+(A) A lion in the street
+(B) A door that turns on its hinges
+(C) A cold water in cold weather
 
-15. Whose delicacies are we advise NOT to desire?
-(A) A miser
-(B) The rich
-(C) None of the 
-above
+19. What is revealed when hatred is covered by deceit
+(A) Hatred
+(B) Truth
+(C) Wickedness
 
-16. Whose delicacies are we advise NOT to desire?
-(A) A miser
-(B) The ruler
-(C) Both of the options above
+20. There is more hope for a fool than 
+(A) A lazy man who sleeps
+(B) A man wise in his own eyes
+(C) A poor man who begs in the time of harvest 
 
-17. Whose delicacies are we advise NOT to desire?
-(A) The rich 
-(B) The ruler
-(C) None of the options above
+21. There are seven abominations in the heart 
+(A) Of a Fool
+(B) Full of hatred
+(C) Of a Talebearer
 
-18. If you are a man given to appetite, where would you put your knife?
-(A) Beside the plate
-(B) Your throat
-(C) Your chest
+22. What does a lying tongue hates?
+(A) The truth
+(B) Faithful witness
+(C) Those who are crushed by it
 
-19. Do not overwork to be what?
-(A) Rich
-(B) Free of debts
-(C) Righteous
+23. Where does the words of a talebearer goes to?
+(A) The ears
+(B) Innermost body
+(C) The mind
 
-20. What certainly make themselves wings?
-(A) Unstable delicacies 
-(B) Gluttony
-(C) Riches
+24. The words of a Talebearer is like what?
+(A) Tasty triffles
+(B) Seven abominations
+(C) Deceit 
 
-21. You should not do what to the ancient landmarks?
-(A) Locate them
-(B) Repeat them
-(C) Remove them
+25. Who disguises with his lips. And lays up deceit within himself
+(A) The Talebearer
+(B) The lazy
+(C) He who hates
 
-22. Whose redeemer will plead their cause against you?
-(A) The fatherless
-(B) The Ancient landmark
-(C) A wise son
+26. As charcoal is to burning coals, and wood to fire, So is a contentious man to 
+(A) Kindle strife
+(B) Coal pot
+(C) Quarrel
 
-23. When will my inmost being rejoice?
-(A) When disobedience is no more
-(B) When it is enraptured
-(C) When my children speak right things
+27. Where there is no wood, the fire goes out; And where there is no talebearer,
+(A) Death ceases
+(B) Strive ceases
+(C) Lies ceases
 
-24. There is surely a what?
-(A) A hereafter
-(B) Angels in heaven
-(C) Parents
+28. A lazy man is wiser than seven men who can answer sensibly in what?
+(A) His own eyes
+(B) Wisdom
+(C) Court
 
-25. What two classes of people will come to poverty?
-(A) All knowing people and those ignorant
-(B) The drunkard and the glutton
-(C) Harlot and seductress
+29. He who passes by and meddles in a quarrel not his own Is like who?
+(A) One who binds a stone in a sling
+(B) The legs of the lame that hang limp
+(C) One who takes a dog by the ears
 
-26. Do not despise your mother when she is what?
-(A) Poor
-(B) Old
-(C) Sinning
+30. Where does a lazy man bury his hand
+(A) In the grave
+(B) In his bosom
+(C) In the bowl
 
-27. What should you buy and sell not?
-(A) Precious jewels
-(B) Gold
-(C) The truth
-
-28. What shuld you let your father and mother be?
-(A) Rest
-(B) Glad
-(C) Married
-
-29. What is a seductress?
-(A) A narrow well
-(B) A deep pit
-(C) She who has a flattery tongue
-
-30. Do not look at wine when it does what in the cup?
-(A) Is very still
-(B) Sparkles
-(C) Moves
-
-31. When the drinker awakes, what does he seek?
-(A) Delicacies of food
-(B) Refuge
-(C) Another drink
-
-32. Who is a harlot?
-(A) Rich
-(B) Well
-(C) Deep pit
+31. A man who deceives his neighbor, And says, "I was only joking!" is compared to who?
+(A)  a madman who throws firebrands, 
+arrows, and death
+(B) One who hates but disguises it with his lips
+(C) None of the above
 
  -->
