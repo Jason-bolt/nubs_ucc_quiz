@@ -150,166 +150,184 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 27
+CHAPTER 28
 
-1. What reveals a man?
-(A) His heart
-(B) His words
-(C) His friends
+1. What happens to a man who hardens his heart?
+(A) Poverty
+(B) Calamity
+(C) Hatred
 
-2. What reflects face?
-(A) Water
-(B) Mirror
-(C) The Lord
-
-3. What does a man who waits on his master receive?
-(A) Honour
-(B) Encouragement
-(C) A gift and a present
-
-4. Whoever keeps a fig tree will
-(A) Eat Its fruit
-(B) Will be eaten by its fruit
-(C) Will be rich
-
-(5) Whom does a man sharpens?
-(A) His brother
-(B) His friend
-(C) Himself
-
-(6) What does an iron sharpens?
-(A) Iron
-(B) Iron rod
-(C) Rod
-
-7. Whoever restrains a contentious woman does what?
-(A) Grasp oil with his right hand
-(B) Restrains the wind
-(C) Both of the options above
-
-8. What is likened to a contentious woman?
-(A) A contentious woman
-(B) A continual dripping on a very rainy day
-(C) Both of the options above
-
-9. A loud greeting or blessing in the early morning is counted as a
-(A) Conversation
-(B) Humour
-(C) Curse
-
-10. What does a prudent man do when he foresees evil?
-(A) Hides
-(B) Flee
-(C) Pass on
-
-11. What makes a heart glad?
-(A) When one who reproaches is answered
-(B) A pure heart
-(C) A Wise son
-
-12. Who is better than a brother?
-(A) A friend
-(B) A father
-(C) A nearby neighbour
-
-13. Whom are we advise not to forsake (abandon)?
-(A) A friend- either yours or your father's
-(B) A close neighbour
-(C) A brother
-
-14. It is advisable not to go to a brother when You are
-(A) In solemn
-(B) In anger
-(C) Calamity
-
-15. The sweetness of a friend gives delight. When can this delight be experience?
-(A) From Ointment and perfume
-(B) Hearty council
-(C) Both of the options above
-
-16. We are advise not to boast about what?
-(A) Ourselves
-(B) Tomorrow
-(C) Riches
-
-17. We should not praise ourselves with our own?
-(A) Strings and Cymbals
-(B) Enemies
-(C) Mouth and lips
-
-18. What is heavier than the stone and the sand?
-(A) A fool's heart
-(B) A fool's wrath
-(C) A fool's foolishness
-
-19. Jealousy is more dangerous than what?
-(A) Wrath and anger
-(B) Wrath and hatred
-(C) Hatred and anger
-
-20. Open rebuke is better than
-(A) Concealed (unexpressed) love
-(B) Hidden rebuke
-(C) Gossip
-
-21. If the wounds of a friend is faithful, what is the kisses of an enemy.
-(A) Unfaithful
-(B) Deceit
-(C) Destruction
-
-22. What is sweet to a hungry soul?
-(A) Everything
-(B) Everything bitter thing
-(C) Honeycomb
-
-23. How do You feel when You are far from home?
-(A) Like a bird that wanders from its nest
-(B) Without hope and unhappy
-(C) Everyone is against You
-
-24. The lambs will provide your clothing, And the goats ........
-(A) Your shelter and housing
-(B) The price of a field
-(C) Both of the options above
-
-25. You shall have enough milk, meat and nourishment for your household and maidservants from 
-(A) The rich
-(B) Lamb
-(C) Goat
-
-26. What will happen when the hay is removed, and the tender grass shows itself, And the herbs of the mountains are gathered in,
-(A) There shall be ointment and perfume
-(B) There shall be clothing, food and milk
+2. What is compared to the wicked who rules over poor people?
+(A) Charging lion and a roaring beer
+(B) Roaring lion and a charging beer
 (C) None of the options above
 
-27. What is compared to the dissatisfaction of the eye?
-(A) The never fullness of hell and destruction
-(B) The dissatisfaction of hell and destruction
-(C) The never fullness of hell and fire
+3. A ruler who lacks understanding is
+(A) Wicked
+(B) Oppressor
+(C) Contentious
 
-28. Upon what is a man's value determined?
-(A) His deeds
-(B) His riches
-(C) What others say of him
+4. What does a man who hates covetousness enjoy?
+(A) Prolonged days
+(B) Riches
+(C) Happiness
 
-29. What will happen when a fool is grinded in a mortar with a pestle along with crushed grain
-(A) He will die
-(B) He will learn wisdom
-(C) His foolishness will not depart from him
+5. Where does a man burdened with blood shed flees into?
+(A) Place of refuge
+(B) Trouble
+(C) A pit
 
-30. Riches are not what?
-(A) Generational
-(B) Wealth
-(C) Forever
+6. He who walks blamelessly will be
+(A) Saved
+(B) Blameless
+(C) A ruler
 
-31. What kind of knowledge is a man expected to be diligent about?
-(A) The state of their flocks
-(B) Wisdom
-(C) The understanding of a man
+7. What suddenly happens to a man who is pervese in his ways?
+(A) A fall
+(B) Death
+(C) Anger
 
-32. It is expected of a man to attend to what
-(A) His flocks
-(B) His herds
-(C) His Lamb
+8. A man who tills his land will have plenty of what?
+(A) Riches
+(B) Bread
+(C) Gain
+
+9. A man who follows frivolity will what?
+(A) Be Poor
+(B) Flee
+(C) Be wicked
+
+10. Who abounds in blessings?
+(A) The faithful
+(B) The rich
+(C) A ruler over righteous men
+
+11. What will make a man to transgress?
+(A) Contentions
+(B) Piece of bread
+(C) Partiality
+
+12. What happens to a greedy(evil eye) man who tries to get rich quickly
+(A) He suddenly falls
+(B) He comes to Poverty
+(C) He falls into contention
+
+13. He who rebukes a man finds more favour than 
+(A) The Contentious
+(B) The Flatter
+(C) The poor
+
+14. Whoever robs his father or his mother, And says, "It is no transgression". Is no better than who
+(A) A destroyer
+(B) A charging lion and a roaring bear
+(C) The poor
+
+15. What happens when the wicked perishes?
+(A) The righteous increase
+(B) Wickedness will be no more
+(C) Men rejoice
+
+16. What does men do when the wicked arise
+(A) They fall
+(B) They hide
+(C) They take a stand
+
+17. What will happen to a man who hides his eyes to the needs of the poor?
+(A) He will receive many curses
+(B) He will be in need
+(C) He will loose his riches
+
+18. He who gives to the poor will
+(A) Not lack
+(B) Will give more
+(C) Will receive 
+
+19. A person who trusts in his own heart is
+(A) Right in his own eyes
+(B) A fool
+(C) Self seeking
+
+20. He who trust in the Lord 
+(A) Will be delivered
+(B) Will prosper
+(C) Will take a stand
+
+21. What stirs up strife?
+(A) Proud heart
+(B) Poverty
+(C) Calamiy
+
+22. Whoever walks wisely 
+(A) Will be delivered
+(B) Will prosper
+(C) Will never lack
+
+23. He who covers his sins will
+(A) Never receive forgiveness
+(B) Not prosper
+(C) Will be guilty of
+ sin
+
+24. Whoever ........... his sins will have mercy
+(A) Confesses
+(B) Confesses and forsakes
+(C) believes
+
+25. Who is bold as a lion?
+(A) The rich
+(B) A ruler
+(C) The righteous
+
+26. When does the wicked flee?
+(A) When no one pursue
+(B) When the righteous pursue
+(C) When no one is pursued
+
+27. A
+......... man who oppresses the poor, is like a.......... which leaves no food. 
+(A) Wicked, driving rain
+(B) Rich, driving rain
+(C) Poor, driving rain
+
+28. Those who keep the law contend with which people?
+(A) The wicked
+(B) Those who forsake the law
+(C) Companion of gluttons
+
+29. Those who seek the Lord understand what?
+(A) Evil men
+(B) Justice
+(C) People
+
+30. It is better to be poor with integrity(honesty) than to be
+(A) Poor without integrity(honesty)
+(B) Rich without intergrity(honesty)
+(C) Rich with intergrity(honesty)
+
+31. Whoever keeps the law is what?
+(A) A Discerning son
+(B) Obedient
+(C) Faithful
+
+32. When the righteous rejoice there is great
+(A) Joy
+(B) Happiness
+(C) Glory
+
+33. Whoever causes the upright to go 
+astray in an evil way will fall into where
+(A) Death
+(B) His own pit
+(C) Unpardonable punishment
+
+34. Whose prayer is an abomination?
+(A) Whoever turns his ears from hearing the law
+(B) Companion of gluttons
+(C) The rich who rules over the poor
+
+35. Whoever increases wealth by taking interest or profit from the poor amasses it for another which kind of person?
+(A) The rich
+(B) Him who will pity the poor
+(C) He who rebukes a man
 
  -->
