@@ -20,7 +20,7 @@
 
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<h6><u>PROVERBS CHAPTER 28</u></h6>
+	<h6><u>PROVERBS CHAPTER 29</u></h6>
 </section>
 
 <section class="container text-center">
@@ -51,11 +51,22 @@
 		    </thead>
 		  <tbody>
 		  
-		  <?php
+		<?php
 		  // perform query to get users and their scores
 		    while($result = mysqli_fetch_assoc($results))
 		  {
-		    ?>
+
+		  	// $startArray = explode(':', $result['start_time']);
+		  	// $start1 = (int)$startArray[0];
+		  	// $start2 = (int)$startArray[1];
+
+		  	// $start = $start1 + $start2;
+
+		  	// $end = explode(':', $result['end_time'])[0];
+		  	// $end = (int)explode('(', $end)[1];
+
+		  	// $duration = (int)$result['start_time'] - (int)$result['end_time'];
+		?>
 		    <tr>
 			    <td ><?php echo $result['full_name']; ?></td>
 			    <td ><?php echo $result['raw_score']; ?></td>

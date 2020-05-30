@@ -65,7 +65,7 @@ include_once('db.php');
 		}
 
 		date_default_timezone_set("Etc/GMT-0");
-		$start_time = " (" . date("h:i a") . ")";
+		$start_time = date("h:i a");
 		$_SESSION['start_time'] = $start_time;
 ?>
 	<section class="container">
@@ -150,184 +150,183 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 28
+CHAPTER 29
 
-1. What happens to a man who hardens his heart?
-(A) Poverty
-(B) Calamity
-(C) Hatred
+1. An unjust man is an abomination to 
+(A) The Lord
+(B) The righteous
+(C) The king
 
-2. What is compared to the wicked who rules over poor people?
-(A) Charging lion and a roaring beer
-(B) Roaring lion and a charging beer
+2. How many people seek the favour of the ruler?
+(A) Many people
+(B) Some people
+(C) Few people with authority 
+
+3. The Justice of a man comes from where?
+(A) The Court
+(B) The Lord
+(C) Righteousness
+
+4. What brings as a snare(dangerous trap) into a man's life?
+(A) Trust of unjust men
+(B) The words of a fool
+(C) The fear of man
+
+5. What can keep a man safe from the snare in question 4?
+(A) Trust in the Lord
+(B) Obedience
+(C) Fear of the Lord
+
+6. Whoever partakes in a crime with a thief hates his own life because.
+(A) He swears to tell the truth, but reveals nothing
+(B) Can be caught and get killed
+(C) On the path of destruction
+
+7. What does a man's pride does to him
+(A) Makes him wise in his own eyes
+(B) Brings him low
+(C) Turns him to be arrogant
+
+8. What kind of spirit retains honour?
+(A) Holy Spirit
+(B) Humble spirit
+(C) Honoured spirit
+
+9. Who stirs up strife(argument)?
+(A) An Angry man
+(B) A furious man(quick-tempered man) 
+(C) The wicked
+
+10. He who pampers his servant from 
+childhood Will have him as a son in the 
+end. 
+(A) Child, servant hood, son
+(B) Servant, childhood, son
+(C) Servant, servant hood, son
+
+11. Who has more hope than a man hasty in his words( a man who speaks without thinking)
+(A) A fool
+(B) The wicked
+(C) An angry man
+
+12. A servant will not be corrected by?
+(A) A servant
+(B) Mere words
+(C) Punishment
+
+13. Though a servant understands corrections from mere words but 
+(A) He will not respond
+(B) He will not understand
+(C) He will be not be corrected
+
+14. What happens when there is no revelation?
+(A) People cast off restrain (order)
+(B) There shall be no leader
+(C) There shall be no joy
+
+15. What makes people to keep the law?
+(A) Happy
+(B) When there is no revelation
 (C) None of the options above
 
-3. A ruler who lacks understanding is
-(A) Wicked
-(B) Oppressor
-(C) Contentious
+16. What does a parent receive when he corrects a son?
+(A) Rest and delight
+(B) Wisdom
+(C) Both of the options above
 
-4. What does a man who hates covetousness enjoy?
-(A) Prolonged days
-(B) Riches
-(C) Happiness
+17. What happens when the wicked multiply?
+(A) The righteous perish
+(B) Transgression increases
+(C) Sorrow does not depart
 
-5. Where does a man burdened with blood shed flees into?
-(A) Place of refuge
-(B) Trouble
-(C) A pit
-
-6. He who walks blamelessly will be
-(A) Saved
-(B) Blameless
-(C) A ruler
-
-7. What suddenly happens to a man who is pervese in his ways?
-(A) A fall
-(B) Death
-(C) Anger
-
-8. A man who tills his land will have plenty of what?
-(A) Riches
-(B) Bread
-(C) Gain
-
-9. A man who follows frivolity will what?
-(A) Be Poor
-(B) Flee
-(C) Be wicked
-
-10. Who abounds in blessings?
-(A) The faithful
-(B) The rich
-(C) A ruler over righteous men
-
-11. What will make a man to transgress?
-(A) Contentions
-(B) Piece of bread
-(C) Partiality
-
-12. What happens to a greedy(evil eye) man who tries to get rich quickly
-(A) He suddenly falls
-(B) He comes to Poverty
-(C) He falls into contention
-
-13. He who rebukes a man finds more favour than 
-(A) The Contentious
-(B) The Flatter
-(C) The poor
-
-14. Whoever robs his father or his mother, And says, "It is no transgression". Is no better than who
-(A) A destroyer
-(B) A charging lion and a roaring bear
-(C) The poor
-
-15. What happens when the wicked perishes?
-(A) The righteous increase
-(B) Wickedness will be no more
-(C) Men rejoice
-
-16. What does men do when the wicked arise
-(A) They fall
-(B) They hide
-(C) They take a stand
-
-17. What will happen to a man who hides his eyes to the needs of the poor?
-(A) He will receive many curses
-(B) He will be in need
-(C) He will loose his riches
-
-18. He who gives to the poor will
-(A) Not lack
-(B) Will give more
-(C) Will receive 
-
-19. A person who trusts in his own heart is
-(A) Right in his own eyes
-(B) A fool
-(C) Self seeking
-
-20. He who trust in the Lord 
-(A) Will be delivered
-(B) Will prosper
-(C) Will take a stand
-
-21. What stirs up strife?
-(A) Proud heart
-(B) Poverty
-(C) Calamiy
-
-22. Whoever walks wisely 
-(A) Will be delivered
-(B) Will prosper
-(C) Will never lack
-
-23. He who covers his sins will
-(A) Never receive forgiveness
-(B) Not prosper
-(C) Will be guilty of
- sin
-
-24. Whoever ........... his sins will have mercy
-(A) Confesses
-(B) Confesses and forsakes
-(C) believes
-
-25. Who is bold as a lion?
-(A) The rich
-(B) A ruler
-(C) The righteous
-
-26. When does the wicked flee?
-(A) When no one pursue
-(B) When the righteous pursue
-(C) When no one is pursued
-
-27. A
-......... man who oppresses the poor, is like a.......... which leaves no food. 
-(A) Wicked, driving rain
-(B) Rich, driving rain
-(C) Poor, driving rain
-
-28. Those who keep the law contend with which people?
-(A) The wicked
-(B) Those who forsake the law
+18. The righteous shall see the fall of
+(A) Thousand on their hand and ten thousand on the other hand
+(B) Wicked
 (C) Companion of gluttons
 
-29. Those who seek the Lord understand what?
-(A) Evil men
+19. What gives wisdom?
+(A) Rod 
+(B) Rebuke
+(C) Both of the options above
+
+20. The throne of the king who judges the poor with truth will be what?
+(A) Established forever
+(B) Be mighty
+(C) Gain Favour 
+
+21. Who gives light to the eyes of the poor and oppressor?
+(A) The eye witness
+(B) The Lord
+(C) Light bearer
+
+22. Whose servants tends to become wicked?
+(A) A wicked ruler who pays attention to lies
+(B) A ruler who oppresses his servants
+(C) A ruler who pays attention to lies
+
+23. A fool easily looses his temper, but a wise man
+(A) holds them back( controls his temper)
+(B) Sits quietly
+(C) Avoids quarrel
+
+24. The upright seek the well being of 
+(A) The bloodthirsty
+(B) The blameless
+(C) Both of the options above
+
+25. Be wise and don't sue a fool. You won't get peace, because all the fool will do is 
+(A) Fight
+(B) Rage or laughs
+(C) Mere words
+
+26. If scoffers sets a city aflame, Who turns away wrath?
+(A) A wise man
+(B) A man
+(C) The Lord
+
+27. Whoever remains stiff-necked after many rebukes will suddenly be 
+(A) Destroyed without remedy
+(B) Destructive without remedy
+(C) Destructive
+
+28. What happens when the righteous is in authority?
+(A) The people rejoice
+(B) Wise people rejoice
+(C) The righteous rejoice
+
+29. A companion of harlots wastes 
+(A) Her wealth
+(B) Her father's wealth
+(C) Her companion's wealth
+
+30. The king establishes the land by justice, But he who receives bribes overthrows what?
+(A) The land
 (B) Justice
-(C) People
+(C) Both of the options above
 
-30. It is better to be poor with integrity(honesty) than to be
-(A) Poor without integrity(honesty)
-(B) Rich without intergrity(honesty)
-(C) Rich with intergrity(honesty)
+31. Who spreads the net for the feet of his neighbour?
+(A) The wicked
+(B) Flatterer
+(C) Companion of harlots
 
-31. Whoever keeps the law is what?
-(A) A Discerning son
-(B) Obedient
-(C) Faithful
+32. What snares an evil man
+(A) The fear of man
+(B) Transgression
+(C) Trust of unjust men
 
-32. When the righteous rejoice there is great
-(A) Joy
-(B) Happiness
-(C) Glory
+33. The righteous sings and 
+(A) Dances
+(B) Shouts
+(C) Rejoices
 
-33. Whoever causes the upright to go 
-astray in an evil way will fall into where
-(A) Death
-(B) His own pit
-(C) Unpardonable punishment
+34. Whoever loves wisdom makes
+(A) His father rest
+(B) His father rejoice
+(C) His father sings
 
-34. Whose prayer is an abomination?
-(A) Whoever turns his ears from hearing the law
-(B) Companion of gluttons
-(C) The rich who rules over the poor
-
-35. Whoever increases wealth by taking interest or profit from the poor amasses it for another which kind of person?
-(A) The rich
-(B) Him who will pity the poor
-(C) He who rebukes a man
+35. The wicked does not understand what knowledge?
+(A) The cause(rights) of the poor
+(B) The knowledge of righteousness(righteous life)
+(C) Humility
 
  -->
