@@ -150,183 +150,167 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 29
+CHAPTER 30
 
-1. An unjust man is an abomination to 
-(A) The Lord
-(B) The righteous
-(C) The king
+1. The churning (squeezing) of milk produces
+(A) Milk
+(B) Butter
+(C) Drink
 
-2. How many people seek the favour of the ruler?
-(A) Many people
-(B) Some people
-(C) Few people with authority 
+2. The wringing(punching) of nose produces
+(A) Bad smell
+(B) Blood
+(C) Smell
 
-3. The Justice of a man comes from where?
-(A) The Court
-(B) The Lord
-(C) Righteousness
+3. The forcing of ........ produces ........
+(A) Strife, wrath
+(B) Wrath, strife
+(C) Strike, wrath
 
-4. What brings as a snare(dangerous trap) into a man's life?
-(A) Trust of unjust men
-(B) The words of a fool
-(C) The fear of man
+4. Who is advised to put his or her hand on his mouth?
+(A) One who foolishly exalts himself
+(B) One who devises evil
+(C) Both of the options above
 
-5. What can keep a man safe from the snare in question 4?
-(A) Trust in the Lord
-(B) Obedience
-(C) Fear of the Lord
+5. Mr. Agur mentioned four things which stately (magnificently) walks. These are
+(A) Lion, greyhound (male dog), male goat and a king with many troops
+(B) Lion, locust, goat and a king with many troops
+(C) Lion, greyhound (male dog), locust and a king with many troops
 
-6. Whoever partakes in a crime with a thief hates his own life because.
-(A) He swears to tell the truth, but reveals nothing
-(B) Can be caught and get killed
-(C) On the path of destruction
+6. Who is described as a mighty beast who does not turn away from any?
+(A) Eagle
+(B) King with many troops
+(C) Lion
 
-7. What does a man's pride does to him
-(A) Makes him wise in his own eyes
-(B) Brings him low
-(C) Turns him to be arrogant
+7. He skillfully grasps with its hands, And it is in kings' palaces. 
+(A) Spider
+(B) Wise servant
+(C) Ant
 
-8. What kind of spirit retains honour?
-(A) Holy Spirit
-(B) Humble spirit
-(C) Honoured spirit
+8. Which kind of animals have no king?
+(A) Ants
+(B) Rock Badgers
+(C) Locusts
 
-9. Who stirs up strife(argument)?
-(A) An Angry man
-(B) A furious man(quick-tempered man) 
-(C) The wicked
+9. Which kind of animals advance in ranks?
+(A) Ants
+(B) Rock Badgers
+(C) Locusts
 
-10. He who pampers his servant from 
-childhood Will have him as a son in the 
-end. 
-(A) Child, servant hood, son
-(B) Servant, childhood, son
-(C) Servant, servant hood, son
+10 ......... has two daughters-- Give and Give!
+(A) A leech
+(B) A woman
+(C) A young maiden
 
-11. Who has more hope than a man hasty in his words( a man who speaks without thinking)
-(A) A fool
-(B) The wicked
-(C) An angry man
+11.  Which kind of animals makes their homes in crags(face of rocks)?
+(A) Ants
+(B) Rock Badgers
+(C) Locusts
 
-12. A servant will not be corrected by?
-(A) A servant
-(B) Mere words
-(C) Punishment
+12. Which kind of animals are considered to be feeble folks?
+(A) Ant
+(B) Rock Badgers
+(C) Locusts
 
-13. Though a servant understands corrections from mere words but 
-(A) He will not respond
-(B) He will not understand
-(C) He will be not be corrected
+13. The are a people not strong, Yet 
+they prepare their food in the summer
+(A) Ants
+(B) Rock Badgers
+(C) Locusts
 
-14. What happens when there is no revelation?
-(A) People cast off restrain (order)
-(B) There shall be no leader
-(C) There shall be no joy
+14. This chapter are words of
+(A) Solomon
+(B) Jakeh
+(C) Agur
 
-15. What makes people to keep the law?
-(A) Happy
-(B) When there is no revelation
+15. He describes himself as
+(A) Stupid
+(B) Knowledgeable
+(C) Wise
+
+16. Every word of God is
+(A) Pure
+(B) Shield
+(C) Both of the options above
+
+17. There is a generation that is pure 
+(A) Before God
+(B) In their own eyes
+(C) and blameless
+
+18. The grave, the barren woman, the dry earth and fire are
+(A) Punishment
+(B) A shame
+(C) Never satisfied
+
+19. She eats and wipes her mouth, 
+And says, I have done no evil
+(A) An adulterous woman
+(B) The foolish woman
+(C) The young maid
+
+20. One thing the earth cannot bear, is a hateful woman who is
+(A) Crying
+(B) Loud
+(C) Married
+
+21. What kind of animal will eat the eye that mocks his father, And scorns obedience to his mother
+(A) Ravens in the valley
+(B) Young Eagles
+(C) Leech
+
+22. There are ......... things which are too wonderful for me, Yes,......... which I do 
+not understand: 
+(A) Four, three
+(B) Three, four
+(C) Four, four
+
+23. For .........things the earth is perturbed, 
+Yes, for..........it cannot bear up: 
+(A) Four, three
+(B) Three, four
+(C) Four, four
+
+24. The words in this chapter was declared to
+(A) Ithiel and Ucal
+(B) Jakeh
+(C) Solomon
+
+25. Who is known to be the son of Agur
+(A) Jakeh
+(B) Solomon
 (C) None of the options above
 
-16. What does a parent receive when he corrects a son?
-(A) Rest and delight
-(B) Wisdom
+26. There are.......... things which are majestic in pace, Yes, ....... which are 
+stately in walk
+(A) Four, three
+(B) Four, four
+(C) Three, four
+
+27. There is a generation whose teeth are like ........, And whose fangs are like ........
+(A) Swords, fire
+(B) Knife, fire
+(C) Sword, knife
+
+28. The word of God is pure. If you add to the word, You will be found
+(A) A liar
+(B) In hell
+(C) In judgement
+
+29. The writer's prayer was that, God should not
+(A) Make him rich nor poor
+(B) Feed him with the food allotted to him
 (C) Both of the options above
 
-17. What happens when the wicked multiply?
-(A) The righteous perish
-(B) Transgression increases
-(C) Sorrow does not depart
-
-18. The righteous shall see the fall of
-(A) Thousand on their hand and ten thousand on the other hand
-(B) Wicked
-(C) Companion of gluttons
-
-19. What gives wisdom?
-(A) Rod 
-(B) Rebuke
+30. The writer requested to God not to deny him of two things. The two things he request was that?
+(A) Remove falsehood and lies far from me
+(B) Give me neither poverty nor riches
 (C) Both of the options above
 
-20. The throne of the king who judges the poor with truth will be what?
-(A) Established forever
-(B) Be mighty
-(C) Gain Favour 
-
-21. Who gives light to the eyes of the poor and oppressor?
-(A) The eye witness
-(B) The Lord
-(C) Light bearer
-
-22. Whose servants tends to become wicked?
-(A) A wicked ruler who pays attention to lies
-(B) A ruler who oppresses his servants
-(C) A ruler who pays attention to lies
-
-23. A fool easily looses his temper, but a wise man
-(A) holds them back( controls his temper)
-(B) Sits quietly
-(C) Avoids quarrel
-
-24. The upright seek the well being of 
-(A) The bloodthirsty
-(B) The blameless
-(C) Both of the options above
-
-25. Be wise and don't sue a fool. You won't get peace, because all the fool will do is 
-(A) Fight
-(B) Rage or laughs
-(C) Mere words
-
-26. If scoffers sets a city aflame, Who turns away wrath?
-(A) A wise man
-(B) A man
-(C) The Lord
-
-27. Whoever remains stiff-necked after many rebukes will suddenly be 
-(A) Destroyed without remedy
-(B) Destructive without remedy
-(C) Destructive
-
-28. What happens when the righteous is in authority?
-(A) The people rejoice
-(B) Wise people rejoice
-(C) The righteous rejoice
-
-29. A companion of harlots wastes 
-(A) Her wealth
-(B) Her father's wealth
-(C) Her companion's wealth
-
-30. The king establishes the land by justice, But he who receives bribes overthrows what?
-(A) The land
-(B) Justice
-(C) Both of the options above
-
-31. Who spreads the net for the feet of his neighbour?
-(A) The wicked
-(B) Flatterer
-(C) Companion of harlots
-
-32. What snares an evil man
-(A) The fear of man
-(B) Transgression
-(C) Trust of unjust men
-
-33. The righteous sings and 
-(A) Dances
-(B) Shouts
-(C) Rejoices
-
-34. Whoever loves wisdom makes
-(A) His father rest
-(B) His father rejoice
-(C) His father sings
-
-35. The wicked does not understand what knowledge?
-(A) The cause(rights) of the poor
-(B) The knowledge of righteousness(righteous life)
-(C) Humility
+31. Some of the four things the writer did not understand was. The way of an eagle in the air, The 
+way of a serpent(snake) on a 
+(A) Tree
+(B) Soil
+(C) On a rock
 
  -->
