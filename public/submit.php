@@ -2,6 +2,8 @@
 session_start();
 include_once('db.php');
 
+$no_of_questions = 31;
+
 // checking if quiz is submitted
 if (!isset($_POST['submit'])) {
 	header("Location: index.php");
@@ -12,7 +14,7 @@ $user_answers = []; // to hold correct answers
 $score = 0;
 
 // // fetcing results of user
-for ($i=1; $i <= 35; $i++) { 
+for ($i=1; $i <= $no_of_questions; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
 
@@ -38,7 +40,7 @@ $_SESSION['user_answers'] = $user_answers;
 
 $_SESSION['score'] = $score;
 
-$per = ($score / 35) * 100;
+$per = ($score / $no_of_questions) * 100;
 
 $percentage = round($per, 1);
 
@@ -48,7 +50,7 @@ $full_name = $_SESSION['full_name'] . " (" . $_SESSION['gender'] . ")";
 
 // getting timestamp
 date_default_timezone_set("Etc/GMT-0");
-$end_time = " (" . date("h:i a") . ")";
+$end_time = date("h:i a");
 
 $start_time = $_SESSION['start_time'];
 
