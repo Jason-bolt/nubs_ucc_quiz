@@ -150,167 +150,167 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 30
+CHAPTER 31
 
-1. The churning (squeezing) of milk produces
-(A) Milk
-(B) Butter
-(C) Drink
+1. Proverbs 31:9 says, "Open your mouth, judge righteously, 
+And plead the cause of the poor and needy"
+(A) True
+(B) False
 
-2. The wringing(punching) of nose produces
-(A) Bad smell
-(B) Blood
-(C) Smell
+2. Please, did You notice whose words make up Proverbs 31?
+(A) King Lemuel
+(B) King Solomon
+(C) King Lemuel's mother
 
-3. The forcing of ........ produces ........
-(A) Strife, wrath
-(B) Wrath, strife
-(C) Strike, wrath
+3. According to Proverbs 31, a noble wife is worth more than what?
+(A) Gold
+(B) Emeralds
+(C) Rubies
 
-4. Who is advised to put his or her hand on his mouth?
-(A) One who foolishly exalts himself
-(B) One who devises evil
-(C) Both of the options above
+4.  Based on verse 12 , a wife of a noble character brings what to her husband?
+(A) Children
+(B) Good
+(C) Gold
 
-5. Mr. Agur mentioned four things which stately (magnificently) walks. These are
-(A) Lion, greyhound (male dog), male goat and a king with many troops
-(B) Lion, locust, goat and a king with many troops
-(C) Lion, greyhound (male dog), locust and a king with many troops
+5. Proverbs 31:7 says, "Let him drink and forget his poverty, 
+And remember his misery no more." 
+Based on this verse, what should he let them do?
+(A) Stay sober
+(B) Drink
+(C) Become rich
 
-6. Who is described as a mighty beast who does not turn away from any?
-(A) Eagle
-(B) King with many troops
-(C) Lion
+6. According to Proverbs 31, the children and the husband praise the noble wife.
+(A) True
+(B) False
 
-7. He skillfully grasps with its hands, And it is in kings' palaces. 
-(A) Spider
-(B) Wise servant
-(C) Ant
+7. In verse 22 in Proverbs 31, it mentions that the virtuous wife's household is clothed in scarlet. The wife herself is clothed in fine linen in what color?
+ (A) Pink
+ (B) Purple
+ (C) Scarlet
 
-8. Which kind of animals have no king?
-(A) Ants
-(B) Rock Badgers
-(C) Locusts
+8. In Proverbs 31, it says in verse 26 that the (virtuous wife) speaks with what?
+(A) Patience
+(B) Wisdom
+(C) Honesty
 
-9. Which kind of animals advance in ranks?
-(A) Ants
-(B) Rock Badgers
-(C) Locusts
+9. In verse 2 of Proverbs 31 the word "what" means "listen". So how many times did Lemuel's mother told him to "listen"?
+(A) 3
+(B) 2
+(C) 1
 
-10 ......... has two daughters-- Give and Give!
-(A) A leech
-(B) A woman
-(C) A young maiden
+10. In Proverbs 31, according to verse 4, what are kings not to drink?
+(A) Soda
+(B) Wine
+(C) Water
 
-11.  Which kind of animals makes their homes in crags(face of rocks)?
-(A) Ants
-(B) Rock Badgers
-(C) Locusts
+11. Who can find ____ woman?
+ (31:10a)
+(A) An attractive
+(B) An honest
+(C) A virtuous
 
-12. Which kind of animals are considered to be feeble folks?
-(A) Ant
-(B) Rock Badgers
-(C) Locusts
+12. Favor is deceitful, and ___ is vain: but a woman that fears the LORD, she shall be praised. (31:30)
+(A) Beauty
+(B) Flattery
+(C) Wealth
 
-13. The are a people not strong, Yet 
-they prepare their food in the summer
-(A) Ants
-(B) Rock Badgers
-(C) Locusts
+13. The first ____ verses of Proverbs 31 have very little to do with a virtuous woman.
+(A) 9          
+(B) 15
+(C) 12
 
-14. This chapter are words of
-(A) Solomon
-(B) Jakeh
-(C) Agur
+14. How many verses are in Proverbs 31?
+(A) 31
+(B) 30
+(C) 33
 
-15. He describes himself as
-(A) Stupid
-(B) Knowledgeable
-(C) Wise
+15. What kind of woman is most praised? (vs. 30)
+(A) Early riser and a mother
+(B) Good cook              
+(C) Fears the Lord
 
-16. Every word of God is
-(A) Pure
-(B) Shield
-(C) Both of the options above
-
-17. There is a generation that is pure 
-(A) Before God
-(B) In their own eyes
-(C) and blameless
-
-18. The grave, the barren woman, the dry earth and fire are
-(A) Punishment
-(B) A shame
-(C) Never satisfied
-
-19. She eats and wipes her mouth, 
-And says, I have done no evil
-(A) An adulterous woman
-(B) The foolish woman
-(C) The young maid
-
-20. One thing the earth cannot bear, is a hateful woman who is
-(A) Crying
-(B) Loud
-(C) Married
-
-21. What kind of animal will eat the eye that mocks his father, And scorns obedience to his mother
-(A) Ravens in the valley
-(B) Young Eagles
-(C) Leech
-
-22. There are ......... things which are too wonderful for me, Yes,......... which I do 
-not understand: 
-(A) Four, three
-(B) Three, four
-(C) Four, four
-
-23. For .........things the earth is perturbed, 
-Yes, for..........it cannot bear up: 
-(A) Four, three
-(B) Three, four
-(C) Four, four
-
-24. The words in this chapter was declared to
-(A) Ithiel and Ucal
-(B) Jakeh
-(C) Solomon
-
-25. Who is known to be the son of Agur
-(A) Jakeh
-(B) Solomon
+16. Would you say the Proverbs 31 woman is described as especially beautiful physically or more of a woman who works hard and is an asset to the family, community, and husband.
+(A) Physical beauty
+(B) Works hard
 (C) None of the options above
 
-26. There are.......... things which are majestic in pace, Yes, ....... which are 
-stately in walk
-(A) Four, three
-(B) Four, four
-(C) Three, four
+17. According to verse 16, would you say the Proverbs 31 woman is a good real estate agent? 
+(A) Yes              
+(B) No
 
-27. There is a generation whose teeth are like ........, And whose fangs are like ........
-(A) Swords, fire
-(B) Knife, fire
-(C) Sword, knife
+18. Do not give your strength to? Verse 2
+(A) Idleness
+(B) Women
+(C) Dissension
 
-28. The word of God is pure. If you add to the word, You will be found
-(A) A liar
-(B) In hell
-(C) In judgement
+19. She does this with her hands?
+(A) Hides
+(B) Honours
+(C) Willingly works
 
-29. The writer's prayer was that, God should not
-(A) Make him rich nor poor
-(B) Feed him with the food allotted to him
+20. Her household is clothed with
+(A) Glory 
+(B) Scarlet
+(C) Beauty
+
+21. In her tongue is the law of ____
+(A) Order
+(B) Kindness
+(C) Commandments
+
+22. Her children rise up and call her
+(A) Mother
+(B) Blessed
+(C) Virtuous woman
+
+23. Where did King Lemuel learnt his utterance?
+(A) In wisdom
+(B) From his mother
+(C) In experience
+
+24. When kings drink ___ they drink and forget the ____, And pervert the _____ of all the afflicted
+(A) Wine, law, way
+(B) Soda, law, justice
+(C) Wine, law, justice
+
+25. A virtuous woman can be likened to
+(A) Gold
+(B) Merchant ships
+(C) None of the options above
+
+26. What garment does the virtuous woman makes and sell?
+(A) Linen garments
+(B) Wool and flax
+(C) Beautiful garments
+
+27. In verse 25, what is the clothing of a virtuous woman? 
+(A) Linen garment
+(B) Strength and honour
 (C) Both of the options above
 
-30. The writer requested to God not to deny him of two things. The two things he request was that?
-(A) Remove falsehood and lies far from me
-(B) Give me neither poverty nor riches
+28. What does she supply for the merchants? verse 24
+(A) Linen garments
+(B) Sashes
+(C) Flax and wool
+
+29. In verse 21, her household is clothed with what?
+(A) Joy
+(B) Scarlet
+(C) Linen garment
+
+30. She extends and reaches her hand to the
+(A) Poor
+(B) Needy
 (C) Both of the options above
 
-31. Some of the four things the writer did not understand was. The way of an eagle in the air, The 
-way of a serpent(snake) on a 
-(A) Tree
-(B) Soil
-(C) On a rock
+31. Her ___ does not go out by night
+(A) Lamp
+(B) Children
+(C) Feet
+
+32. According to Chapter 31, what is the clothing of a virtuous woman?
+(A) Linen garment
+(B) Strength and honour
+(C) Both of the options above
 
  -->
