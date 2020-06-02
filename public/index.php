@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,167 +150,166 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-CHAPTER 31
+ACTS CHAPTER 1
 
-1. Proverbs 31:9 says, "Open your mouth, judge righteously, 
-And plead the cause of the poor and needy"
+1. To whom was the Acts of the Apostles written?
+(A) The Holy Apostle Paul
+(C) Theophilus
+(C) The Holy Apostle Peter
+
+2. According to Acts Chapter one, the Gospel according to St. Luke Represented Jesus' life through what event.
+(A) The day Christ was taken up to heaven
+(B) The day Christ was resurected
+(C) The day of Pentecost
+
+3. According to Acts chapter one, Christ gave his Commandments to the Apostles through whom or what?
+(A) The Holy Apostle Peter
+(B) The Holy Scripture
+(C) The Holy Spirit
+
+4. The proofs Jesus presented to the Apostles following his resurrection is are described as what? 
+(A) Innumerable
+(B) Incredible
+(C) Infallible
+
+5. How long was Jesus seen with the Apostles following his resurrection?
+(A) One Year
+(B) Forty Weeks
+(C) Forty Days
+
+6. According to Acts  chapter one, where did Jesus tell the Apostles to wait for "the Promise of the Father"
+(A) Jerusalem
+(B) Antioch
+(C) Rome
+
+7. According Acts chapter one, how would the first Christians be baptized following Christ's Ascension?
+(A) They would be baptized with water
+(B) They will be baptized with The Holy Spirit
+(C) They will be baptized with fire
+
+8. What was Christ's response in Acts chapter one when asked regarding the time of the restoration of the Kingdom of Israel?
+(A) "When you see Jerusalem" Destroyed by Rome
+(B) "It is not for you to know times and seasons which The Father has put in His own authority"
+(C) "When the gospel has been preached throughout the world"
+
+9. When Jesus was taken up into the sky before their very eyes, what appeared to the men after He had left?
+(A) Men dressed in white
+(B)  Cloud
+(C) Gardners
+
+10. How far did the disciples have to walk to get to the Mount of Olives in Jerusalem?
+(A) 4 days
+(B) 5 days
+(C) A Sabbath Day's Journey
+
+11. Who stood up among the believers and started speaking?
+(A) John
+(B) Peter
+(C) Paul
+
+12. What did Judas buy with the reward he got from his wickedness?
+(A) A new chariot with spinning rims
+(B) All the twinkies in the land
+(C) A field
+
+13. Which two men were selected to replace Judas?
+(A) Matthias and Barsabbas
+(B) Matthias and Barabbas
+(C) Joseph and Barabbas
+
+14. Who was added as the 12th apostle?
+(A) Barsabbas
+(B) Joseph
+(C)Matthias
+
+15. What were the qualifications listed in order to become and apostle?
+(A) Must be with Jesus from John's Baptism to His rapture
+(B) Must be with Jesus from His birth to His death
+(C) Must be with Jesus from His rapture to His death
+
+16. When John the Baptist baptized, he baptized with the Holy Spirit and water. 
 (A) True
 (B) False
+(C) Don't know
 
-2. Please, did You notice whose words make up Proverbs 31?
-(A) King Lemuel
-(B) King Solomon
-(C) King Lemuel's mother
+17.Who said, "Why do you stand gazing up into heaven?” (1:9-11)
+(A) Men dressed in white apparel
+(B) Luke
+(C) Peter
 
-3. According to Proverbs 31, a noble wife is worth more than what?
-(A) Gold
-(B) Emeralds
-(C) Rubies
+18. Which woman is named who gathered in the upper room? (1:14)
+(A) Dorcas
+(B) Martha
+(C) Mary
 
-4.  Based on verse 12 , a wife of a noble character brings what to her husband?
-(A) Children
-(B) Good
-(C) Gold
+19. About how many gathered in the upper room? 
+(A) 120
+(B) 12
+(C)	40
 
-5. Proverbs 31:7 says, "Let him drink and forget his poverty, 
-And remember his misery no more." 
-Based on this verse, what should he let them do?
-(A) Stay sober
-(B) Drink
-(C) Become rich
+20. Fill in the blank: The men gathered at Christ’s Ascension in Acts chapter one were called
+“Men of ____.”
+(A) Galilee
+(B) God
+(C) Jerusalem
 
-6. According to Proverbs 31, the children and the husband praise the noble wife.
-(A) True
-(B) False
+21. From what mount did Christ ascend in Acts chapter one?
+(A) Sinai
+(B) The Temple mount
+(C) Olivet
 
-7. In verse 22 in Proverbs 31, it mentions that the virtuous wife's household is clothed in scarlet. The wife herself is clothed in fine linen in what color?
- (A) Pink
- (B) Purple
- (C) Scarlet
+22. Which of these Christians was NOT listed in Acts chapter one as being gathered in the upper
+room following Christ’s Ascension?
+(A) Bartholomew
+(B) Paul
+(C) Judas
 
-8. In Proverbs 31, it says in verse 26 that the (virtuous wife) speaks with what?
-(A) Patience
-(B) Wisdom
-(C) Honesty
+23. In addition to praying, how did the Apostles determine the replace for Judas Iscariot in Acts
+chapter one?
+(A) They cast lots
+(B) The Christians in Jerusalem voted for the replacement
+(C) The replacement was appointed by the Holy Apostle Peter
 
-9. In verse 2 of Proverbs 31 the word "what" means "listen". So how many times did Lemuel's mother told him to "listen"?
-(A) 3
+24. According to Acts chapter one, what was the surname of Joseph called Barsabas?
+(A) The Zealot
+(B) Justus
+(C) Alphaeus
+
+25. According to Acts chapter one, the prophecy regarding Judas Iscariot’s death can be found in
+what biblical book?
+(A) Jeremiah
+(B) Isaiah
+(C) Psalms
+
+26. According to Acts chapter one, what does “Akel Dama” mean?
+(A) “Field of Blood.”
+(B) “Traitor’s Field.”
+(C) “Judas’ Field.”
+
+27. How did Judas Iscariot die?
+(A) He was poisoned
+(B) He was stabbed
+(C) He fell headlong and burst in the middle
+
+28. What event does the book of Acts record as having occurred forty days after Christ’s
+Resurrection from the dead?
+(A) The Feast of the women who went to the tomb.
+(B) The Day of Pentecost.
+(C) Christ’s Ascension into Heaven
+
+29. Jesus was received out of the sight of His disciples by this?
+(A) Whirlwind
+(B) Chariots of fire
+(C) A cloud
+
+30. How many men(man) stood by the disciples, telling them that this same Jesus would return?
+(A) 1
 (B) 2
-(C) 1
+(C) 3
 
-10. In Proverbs 31, according to verse 4, what are kings not to drink?
-(A) Soda
-(B) Wine
-(C) Water
-
-11. Who can find ____ woman?
- (31:10a)
-(A) An attractive
-(B) An honest
-(C) A virtuous
-
-12. Favor is deceitful, and ___ is vain: but a woman that fears the LORD, she shall be praised. (31:30)
-(A) Beauty
-(B) Flattery
-(C) Wealth
-
-13. The first ____ verses of Proverbs 31 have very little to do with a virtuous woman.
-(A) 9          
-(B) 15
-(C) 12
-
-14. How many verses are in Proverbs 31?
-(A) 31
-(B) 30
-(C) 33
-
-15. What kind of woman is most praised? (vs. 30)
-(A) Early riser and a mother
-(B) Good cook              
-(C) Fears the Lord
-
-16. Would you say the Proverbs 31 woman is described as especially beautiful physically or more of a woman who works hard and is an asset to the family, community, and husband.
-(A) Physical beauty
-(B) Works hard
-(C) None of the options above
-
-17. According to verse 16, would you say the Proverbs 31 woman is a good real estate agent? 
-(A) Yes              
-(B) No
-
-18. Do not give your strength to? Verse 2
-(A) Idleness
-(B) Women
-(C) Dissension
-
-19. She does this with her hands?
-(A) Hides
-(B) Honours
-(C) Willingly works
-
-20. Her household is clothed with
-(A) Glory 
-(B) Scarlet
-(C) Beauty
-
-21. In her tongue is the law of ____
-(A) Order
-(B) Kindness
-(C) Commandments
-
-22. Her children rise up and call her
-(A) Mother
-(B) Blessed
-(C) Virtuous woman
-
-23. Where did King Lemuel learnt his utterance?
-(A) In wisdom
-(B) From his mother
-(C) In experience
-
-24. When kings drink ___ they drink and forget the ____, And pervert the _____ of all the afflicted
-(A) Wine, law, way
-(B) Soda, law, justice
-(C) Wine, law, justice
-
-25. A virtuous woman can be likened to
-(A) Gold
-(B) Merchant ships
-(C) None of the options above
-
-26. What garment does the virtuous woman makes and sell?
-(A) Linen garments
-(B) Wool and flax
-(C) Beautiful garments
-
-27. In verse 25, what is the clothing of a virtuous woman? 
-(A) Linen garment
-(B) Strength and honour
-(C) Both of the options above
-
-28. What does she supply for the merchants? verse 24
-(A) Linen garments
-(B) Sashes
-(C) Flax and wool
-
-29. In verse 21, her household is clothed with what?
-(A) Joy
-(B) Scarlet
-(C) Linen garment
-
-30. She extends and reaches her hand to the
-(A) Poor
-(B) Needy
-(C) Both of the options above
-
-31. Her ___ does not go out by night
-(A) Lamp
-(B) Children
-(C) Feet
-
-32. According to Chapter 31, what is the clothing of a virtuous woman?
-(A) Linen garment
-(B) Strength and honour
-(C) Both of the options above
+31. Where did the disciples go to wait for the promise?
+(A) In the temple
+(B) In a cave
+(C) In the upper room
 
  -->
