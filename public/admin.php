@@ -20,7 +20,7 @@
 
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<h6><u>ACTS CHAPTER 1</u></h6>
+	<h6><u>ACTS CHAPTER 2</u></h6>
 </section>
 
 <section class="container text-center">
@@ -31,10 +31,10 @@
 	if (isset($_POST['submit']) && $_POST['password'] === "Administrators Only") {
 		// password correct, admin logged in so display users and scores
 
-		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY percentage DESC";
+		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY duration ASC";
 		$results = mysqli_query($connection, $query);
 
-		$query1 = "SELECT * FROM users WHERE is_nubs = 0 ORDER BY percentage DESC";
+		$query1 = "SELECT * FROM users WHERE is_nubs = 0 ORDER BY duration ASC";
 		$results1 = mysqli_query($connection, $query1);
 ?>
 	<section class="container">
@@ -47,6 +47,7 @@
 			      <th class="text-center">Percentage</th>
 			      <th class="text-center">Start time</th>
 			      <th class="text-center">End time</th>
+			      <th class="text-center">Duration</th>
 		      </tr>
 		    </thead>
 		  <tbody>
@@ -73,6 +74,7 @@
 			    <td ><?php echo $result['percentage'] . '%'; ?></td>
 			    <td ><?php echo $result['start_time']; ?></td>
 			    <td ><?php echo $result['end_time']; ?></td>
+			    <td ><?php echo $result['duration'] . " minutes"; ?></td>
 		    </tr>
 		    <?php
 		  }

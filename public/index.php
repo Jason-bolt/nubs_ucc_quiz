@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -65,7 +65,7 @@ include_once('db.php');
 		}
 
 		date_default_timezone_set("Etc/GMT-0");
-		$start_time = date("h:i a");
+		$start_time = date("H:i:s");
 		$_SESSION['start_time'] = $start_time;
 ?>
 	<section class="container">
@@ -150,166 +150,183 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 1
+ACTS CHAPTER TWO
 
-1. To whom was the Acts of the Apostles written?
-(A) The Holy Apostle Paul
-(C) Theophilus
-(C) The Holy Apostle Peter
+1. Which of the following was not a supernatural physical phenomenon that accompanied the initial outpouring of the Holy Ghost? (2:2-4)
+(A) Divided tongues(Cloven) 
+(B) Sound from heaven
+(C) Earthquake
 
-2. According to Acts Chapter one, the Gospel according to St. Luke Represented Jesus' life through what event.
-(A) The day Christ was taken up to heaven
-(B) The day Christ was resurected
-(C) The day of Pentecost
+2. In what city did the initial outpouring of the Holy Ghost occur? (2:5)
+(A) Antioch
+(B) Jerusalem
+(C) Samaria
 
-3. According to Acts chapter one, Christ gave his Commandments to the Apostles through whom or what?
-(A) The Holy Apostle Peter
-(B) The Holy Scripture
-(C) The Holy Spirit
+3. At what time of the day did the Holy Ghost fall on the day of Pentecost? (2:15)
+(A) Third hour
+(B) Ninth hour
+(C) First watch
 
-4. The proofs Jesus presented to the Apostles following his resurrection is are described as what? 
-(A) Innumerable
-(B) Incredible
-(C) Infallible
+4. What is not mentioned as a reaction that the observers had? (2:6, 7, 12, 13)
+(A) Joy
+(B) Amazement
+(C) Mocking
 
-5. How long was Jesus seen with the Apostles following his resurrection?
-(A) One Year
-(B) Forty Weeks
-(C) Forty Days
+5. The Holy Ghost outpouring was a fulfillment of whose prophecy? (2:16)
+(A) David
+(B) Joel
+(C) Isaiah
 
-6. According to Acts  chapter one, where did Jesus tell the Apostles to wait for "the Promise of the Father"
-(A) Jerusalem
-(B) Antioch
-(C) Rome
+6. The resurrection was a fulfillment of whose prophecy? (2:25-27)
+(A) David
+(B) Joel
+( C) Isaiah
 
-7. According Acts chapter one, how would the first Christians be baptized following Christ's Ascension?
-(A) They would be baptized with water
-(B) They will be baptized with The Holy Spirit
-(C) They will be baptized with fire
+7. How did Peter reply to the question “what shall we do?” (2:38)
+(A) He who believes and is baptized will be saved
+(B) Repent, and … be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit
+(C) If you confess with your mouth the Lord Jesus and believe in your heart … you will be saved
 
-8. What was Christ's response in Acts chapter one when asked regarding the time of the restoration of the Kingdom of Israel?
-(A) "When you see Jerusalem" Destroyed by Rome
-(B) "It is not for you to know times and seasons which The Father has put in His own authority"
-(C) "When the gospel has been preached throughout the world"
+8. How many souls were added to the church after Peter spoke? (2:41)
+(A) 12
+(B) 120
+(D) 3000
 
-9. When Jesus was taken up into the sky before their very eyes, what appeared to the men after He had left?
-(A) Men dressed in white
-(B)  Cloud
-(C) Gardners
+9. What was NOT mentioned as one of the things the new disciples continued to do? (2:42)
+(A) In the apostles' doctrine
+(B) Breaking of bread
+(C) Fasting
 
-10. How far did the disciples have to walk to get to the Mount of Olives in Jerusalem?
-(A) 4 days
-(B) 5 days
-(C) A Sabbath Day's Journey
+10. What was NOT mentioned as one of the things the new disciples continued to do? (2:42)
+(A) Fellowship
+(B) Prayer
+(C) None of the options above
 
-11. Who stood up among the believers and started speaking?
-(A) John
-(B) Peter
-(C) Paul
+11. Which of these statements is(are) NOT part of Apostle Peter's "sermon"
+(A) Believe on the Lord Jesus Christ, and you will be saved
+(B) 	If you confess with your mouth the Lord Jesus and believe in your heart … you will be saved
+(C) Both of the options above
 
-12. What did Judas buy with the reward he got from his wickedness?
-(A) A new chariot with spinning rims
-(B) All the twinkies in the land
-(C) A field
+12. On the day of Pentecost, as they were all with one accord in one place, what kind of sound from heaven did they hear? (2:2)
+(A) A sound like a still small voice
+(B) A sound like a mighty rushing wind
+(C) A sound of cloud
 
-13. Which two men were selected to replace Judas?
-(A) Matthias and Barsabbas
-(B) Matthias and Barabbas
-(C) Joseph and Barabbas
+13. What happened unto and sat upon each of them on the day Pentecost in the upper room?
+(A) There appeared to them divided tongues, as of fire, and sat upon each of them
+(B) There appeared to them a dove as Holy Ghost and sat upon each of them
+(C) There appeared to them a mantle of fire and sat upon each of them
 
-14. Who was added as the 12th apostle?
-(A) Barsabbas
-(B) Joseph
-(C)Matthias
+14. What were they filled with, How did they speak and what gave them the utterance? (2:4)
+(A) They were all filled with giftings and began to prophecy as Jesus gave them utterance
+(B) They were all filled with the Holy Spirit and began to speak with unknown tongues, as the spirit gave them utterance 
+(C) They were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them 
+utterance 
 
-15. What were the qualifications listed in order to become and apostle?
-(A) Must be with Jesus from John's Baptism to His rapture
-(B) Must be with Jesus from His birth to His death
-(C) Must be with Jesus from His rapture to His death
+15. They were amazed and marveled to hear their own language because the one's who were speaking were? (2:7)
+(A) Apostles
+(B) From Galilee
+(C) Uneducated
 
-16. When John the Baptist baptized, he baptized with the Holy Spirit and water. 
-(A) True
-(B) False
-(C) Don't know
+16. Who did the prophet Joel say would dream dreams? (2:17) 
+(A) Sons and daughters
+(B) Old men
+(C) Young men
 
-17.Who said, "Why do you stand gazing up into heaven?” (1:9-11)
-(A) Men dressed in white apparel
-(B) Luke
-(C) Peter
+17. Who did the prophet Joel say would Prophesy?(2:17)
+(A) Young men
+(B) Old men
+(C) Sons and daughters
 
-18. Which woman is named who gathered in the upper room? (1:14)
-(A) Dorcas
-(B) Martha
-(C) Mary
+18. Who did the prophet Joel say would see visions?(2:17)
+(A) Young men
+(B) Old men
+(C) Sons and daughters
 
-19. About how many gathered in the upper room? 
-(A) 120
-(B) 12
-(C)	40
+19. Who in those days would the spirit be poured out on to be able to prophesy? (2:18)
+(A) His Menservants 
+(B) His Maidservants
+(C) Both of the options above
 
-20. Fill in the blank: The men gathered at Christ’s Ascension in Acts chapter one were called
-“Men of ____.”
-(A) Galilee
-(B) God
-(C) Jerusalem
+20. On that great and notable day of the Lord's return, what will happen to them that call on the name of the Lord?
+(A) Shall pray
+(B) Shall be saved
+(C) Shall save
 
-21. From what mount did Christ ascend in Acts chapter one?
-(A) Sinai
-(B) The Temple mount
-(C) Olivet
+21. How was Jesus approved by God by the men of Israel? (2:22)
+(A) By miracles, wonders, and signs which God did through him
+(B) By the acts of the Apostles
+(C) By his words
 
-22. Which of these Christians was NOT listed in Acts chapter one as being gathered in the upper
-room following Christ’s Ascension?
-(A) Bartholomew
-(B) Paul
-(C) Judas
+22. Him, being delivered by the determinate council and foreknowledge of God, ye have taken, and by lawless hands have ___ and ___: (2:23)
+(A) Been crucified, put to death
+(B) Been betrayed, and put to death
+(C) Been called, put to death
 
-23. In addition to praying, how did the Apostles determine the replace for Judas Iscariot in Acts
-chapter one?
-(A) They cast lots
-(B) The Christians in Jerusalem voted for the replacement
-(C) The replacement was appointed by the Holy Apostle Peter
+23. When Jesus was raised up what was loosed? (2:24)
+(A) Pains of death
+(B) Death
+(C) Hell
 
-24. According to Acts chapter one, what was the surname of Joseph called Barsabas?
-(A) The Zealot
-(B) Justus
-(C) Alphaeus
+24. How did the new converts eat their meat? (2:46)
+(A) With gladness and simplicity of heart
+(B) With wine
+(C) With wisdom
 
-25. According to Acts chapter one, the prophecy regarding Judas Iscariot’s death can be found in
-what biblical book?
-(A) Jeremiah
-(B) Isaiah
-(C) Psalms
+25. David also said his heart rejoiced, his tongue was glad: what would happen to his flesh?(2:26)
+(A) Rest in hope
+(B) Merry
+(C) Be burried
 
-26. According to Acts chapter one, what does “Akel Dama” mean?
-(A) “Field of Blood.”
-(B) “Traitor’s Field.”
-(C) “Judas’ Field.”
+26. Before that great and notable day of the Lord's return, what will happen to the sun and the moon? (2:20)
+(A) The sun shall be turned into darkness, And the moon into blood
+(B) The sun shall be turned into blood, And the moon into darkness
+(C) None of the options above
 
-27. How did Judas Iscariot die?
-(A) He was poisoned
-(B) He was stabbed
-(C) He fell headlong and burst in the middle
+27. Peter testified and exhorted with many other words telling them to save themselves from what? (2:40)
+(A) This perverse generation
+(B) The day of the Lord
+(C) The Sabbath
 
-28. What event does the book of Acts record as having occurred forty days after Christ’s
-Resurrection from the dead?
-(A) The Feast of the women who went to the tomb.
-(B) The Day of Pentecost.
-(C) Christ’s Ascension into Heaven
+28. And all that believed were together, and had what? (2:44)
+(A) Meals together
+(B) All things in common
+(C) Bible discussions
 
-29. Jesus was received out of the sight of His disciples by this?
-(A) Whirlwind
-(B) Chariots of fire
-(C) A cloud
+29. Wonders would be shown where? Where would signs be shown? (2:19)
+(A) In heaven above, in the earth beneath
+(B) In the earth beneath, In the heaven above
+(C) In hell and hades
 
-30. How many men(man) stood by the disciples, telling them that this same Jesus would return?
-(A) 1
-(B) 2
-(C) 3
+30. Peter said, " Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both-what? (2:36)
+(A) King and ruler
+(B) Lord and Christ
+(C) Head and Tail
 
-31. Where did the disciples go to wait for the promise?
-(A) In the temple
-(B) In a cave
-(C) In the upper room
+31. Now when they heard Peter say this, what happened?(2:37)
+(A) They were amazed
+(B) They were cut to the heart
+(C) They were confused
+
+32. The Lord said unto my Lord, sit at my right hand, till what? (2:34-35)
+(A) I make Your enemy Your stepping stone
+(B) I make Your enemies Your 
+footstool.
+(C) I make Your enemy Your stool
+
+33. There were some that mocked the Disciples for speaking in other tongues, what did they say about them? (2:13)
+(A) They are going mad
+(B) They do not know what they saying
+(C) They are full of new wine
+
+34. Who stood up to let the mockers know that the were wrong with their sayings? (2:14)
+(A) Apostle Peter
+(B) Apostle Paul
+(C) Apostle John
+
+35. At what time did Apostle Peter got up to speak?
+(A) Third hour
+(B) Noon
+(C) First watch
 
  -->

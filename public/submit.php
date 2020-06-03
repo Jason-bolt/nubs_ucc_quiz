@@ -2,7 +2,7 @@
 session_start();
 include_once('db.php');
 
-$no_of_questions = 31;
+$no_of_questions = 35;
 
 // checking if quiz is submitted
 if (!isset($_POST['submit'])) {
@@ -50,16 +50,34 @@ $full_name = $_SESSION['full_name'] . " (" . $_SESSION['gender'] . ")";
 
 // getting timestamp
 date_default_timezone_set("Etc/GMT-0");
-$end_time = date("h:i a");
+$end_time = date("H:i:s");
 
 $start_time = $_SESSION['start_time'];
+
+
+//$time2=date_create("23:04:0");
+//$hour=date_diff($date1,$date2);
+//echo (int)$hour->format("%H");
+
+echo $start_time;
+echo "<br />";
+echo $end_time;
+
+// Code for getting the duration
+$start = date_create($start_time);
+$end = date_create($end_time);
+$minute = date_diff($start, $end);
+$duration = $minute->format("%i");
+
+echo "<br />";
+echo $duration;
 
 // checking if participant is a nubs ucc member
 $is_nubs = (int)$_SESSION['is_nubs'];
 $phone_number = $_SESSION['phone_number'];
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time, is_nubs, phone_number) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time', $is_nubs, '$phone_number')";
+$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time, duration, is_nubs, phone_number) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time', $duration, $is_nubs, '$phone_number')";
 $result = mysqli_query($connection, $sql);
 
 
