@@ -31,7 +31,7 @@
 	if (isset($_POST['submit']) && $_POST['password'] === "Administrators Only") {
 		// password correct, admin logged in so display users and scores
 
-		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY duration ASC";
+		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY percentage DESC, duration ASC, start_time ASC";
 		$results = mysqli_query($connection, $query);
 
 		$query1 = "SELECT * FROM users WHERE is_nubs = 0 ORDER BY duration ASC";
