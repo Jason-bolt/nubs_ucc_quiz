@@ -23,5 +23,5 @@
 	<p style="color: blue; font-size: 13px;"><span><strong>A GENTLE REMINDER: </strong></span>"Please remember that, this exercise is not just a competition where one should try to CHEAT just to be a winner". That will be sinful.
 	<br />
 	The main motive is for us all to study and understand the scriptures for our own good. Thank You.</p>
-	<h6><u>ACTS CHAPTER 2</u></h6>
+	<h6><u>ACTS CHAPTER 3</u></h6>
 </section>
