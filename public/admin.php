@@ -20,7 +20,7 @@
 
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
-	<h6><u>ACTS CHAPTER 3</u></h6>
+	<h6><u>ACTS CHAPTER 4</u></h6>
 </section>
 
 <section class="container text-center">
