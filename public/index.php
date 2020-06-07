@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,200 +150,124 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER FIVE
+ACTS CHAPTER SIX 6
 
-1. What was the name of Ananias' wife? (5:1)
-(A) Saphire
-(B) Saphira
-(C) Shiphrah
-
-2. Who filled Ananias' heart to lie? (5:3)
-(A) Satan
-(B) His wife
-(C) Himself
-
-3. Who did Peter say Ananias has lied to? (5:3)
-(A) The Apostles
-(B) His wife
-(C) Holy Spirit
-
-4. What happened to Ananias when Peter finished speaking? (5:5)
-(A) He ran off
-(B) He fell down and breathed his last
-(C) He was stoned to death
-
-5. What happened to Ananias' wife? (5:10)
-(A) He fell down at the Apostles feet breathed her last and died
-(B) She lied
-(C) She was stoned
-
-6. Sick people were laid in the street, hoping this might overshadow some of them?(5:15)
-(A) Holy Spirit
-(B) Pillar of cloud
-(C) Peter's shadow
-
-7. Who opened the door and freed the Apostles from prison? (5:19)
-(A) Captain of the prison
-(B) An angel of the Lord
-(C) The high priest
-
-8. Where were the Apostles found the next day? (5:25) 
-(A) In the upper room
-(B) In the cave
-(C) In the temple
-
-9. When the council wanted to kill the Apostles, this man talked them out of it? (5:34)
-(A) Gamaliel
-(B) Annas
-(C) Gamali
-
-10. How many hours was it when Annanias's wife came in to lie also? (5:7)
-(A) 3 hours
-(B) 6 hours
-(C) 5 hours
-
-11. What fell upon the people that heard about Annanias? (5:5)
-(A) Tongue of fire
-(B) Great fear
-(C) Mantle of power
-
-12. “And the young men arose and __ him up, __him out, and ___ him.” (5:6) 
-(A) Carried, wrapped, burried
-(B) Carried, burried, wrapped
-(C) Wrapped, carried, burried
-
-13. Peter asked Ananias' wife why they had agreed together to tempt who? (5:9)
-(A) The Spirit of the Lord
-(B) The Apostles
-(C) The believers
-
-14. Who buried Ananias' wife? (5:10)
-(A) The Apostles
-(B) Great men
-(C) Young men
-
-15. Because Peter and the other Apostles were healing people of sickness and unclean spirits, what sect of people rose up against them and had them put into
-prison? (5:17-18)
-(A) Sadducees
-(B) Pharisees
+1. Why did a group of people complain against the Hebrews? (6:1)
+(A) Because their widows were neglected in the daily distribution
+(B) Because they wanted the Apostles to select men who will serve tables
 (C) Both of the options above
 
-16. The angel of the Lord told the Apostles:
-“"Go, stand in the temple and speak to the people all the __ of this __."” (5:20)
-(A) Nations, world
-(B) World, life
-(C) Word, life
+2. Which group of people made the complain?(6:1)
+(A) Heathens
+(B) Hellenists (Greek speaking Jews)
+(C) The scribes
 
-17. Who called the council and the elders (senate) of the children of Israel to have the Apostles brought from prison to them? (5:21)
-(A) The high priest
-(B) The high priest and those with him
-(C) Captain of the prison guards
+3.What was the first response of the apostles when they got complaints from Hellenists? (6:2)
+(A) They summoned (called together) the  multitude of the disciples
+(B) They wept 
+(C) They turned their face to the Lord
 
-18. When the High Priest, the captain of the temple and the chief Priests heard that the Apostle's were no longer in prison-where were they told that the
-Apostle's were?
-(A) In the Upper Room
-(B) Temple
-(C) Cave
-
-19. “And daily in the __, and in every __, they did not cease teaching and preaching Jesus as the Christ.” (5:42)
-(A) Lord, house
-(B) Temple, house
-(C) Lord, temple
-
-20. How did the Apostles depart from the presence of the council? (5:41)
-(A) They departed with anger
-(B) The Spirit of the Lord took them by cloud
-(C) They departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for His name.”
+4. What was the  reply of the Apostles when they got the complaints? (6:2)
+(A)  "It is not desirable that we should leave the word of God and serve tables.”
+(B) It is a wrong thing to serve tables
+(C) The word of God is better than serving of tables
   
-21. Gamaliel talked about two separate men who had drawn people away with their false doctrine which nothing came of it: What were these two men's names? (5:36-37)
-(A) Thadeus, Judas of Galilee
-(B) Theudas, Judas of Galilee
-(C) Thadeus, Judas son of Alpheus
+5. What was the top priority of the Apostles? (6: 4)
+(A) Prayer and to the ministry of the word.
+(B) Selection of men to serve tables
+(C) Working of miracles
 
-22. What was Gamaliel's profession? (5:34)
-(A) A judge
-(B) A priest
-(C) A teacher of the Law
+6. What were the required qualities for selecting the men who served tables? (6:3)
+(A)  Good reputation, patience and understanding
+(B) Good reputation, Spirit filled and wisdom
+(C) Good reputation, spirit filled and understanding
 
-23. What sect was Gamaliel? (5:34)
-(A) A Pharisee
-(B) A Sadducee
-(C) An Essene
+7. How many men were selected to serve tables?
+(6:3&5)
+(A) 12
+(B) 10
+(C) 7
 
-24. When the Apostles were brought from the temple by the captain and officers, why did they bring the Apostles without violence?(5:26)
-(A) They wanted to seek peace
-(B) They feared the people.
-(C) The Apostles were honourable before their eyes
+8. What were the qualities of Stephen? (6:5)
+(A) He loved to be stones
+(B) He was tall and brave
+(C) He was a man filled with faith and the holy Spirit
 
-25. What is the first word of this chapter?(5:1)
-(A) But
-(B) Now
-(C) And
+9. How did the apostles designate the chosen men for their task? (6:6)
+(A) The Apostles prayed and laid hands on them
+(B) They made the men to hold hands and pray for themselves
+(C) Both of the options above
 
-26. How much money did Ananias lay at the feet of the Apostles?(5:2)
-(A) A certain part of their money
-(B) Few amount of money
-(C) A small part of their money
+10. From among the chosen people, who performed great wonders and signs? (6:8)
+(A) Stephen
+(B) Philip
+(C) Nicolas
 
-27. Ananias' greatest sin was that made him to die was...? (5:3)
-(A) He Lying to the Holy Spirit
-(B) Not laying all the sold land money at feet of the Apostle
-(C) Selling his land
+11. Which of these were not part of the men that were chosen? (6:5) 
+(A) Timon
+(B) Nicanor
+(C) Mathias
 
-28. Tell me whether you sold the land for so much?" (5:8). Who asked this question?
-(A) Apostle Peter
-(B) Apostle John
-(C) High Priest Annas
+12. What did the Jews charge Stephen of speaking blasphemous words against? (6:11-13)
+ (A) Moses, God, Holy place and the Law
+(B) The prophets
+(C) The people of old
 
-29. To whom was this question asked? (5:8)
-(A) Ananias
-(B) The wife of Ananias
-(C) Barnabas
+13. Which of these men was a proselyte(gentile) from Antioch who had been following the Jewish religion? (6:5)
+(A) Prochorus
+(B) Nicolas
+(C) Parmenas
 
-30. Tell me whether You sold the land for so much?"
-What was the reply?(5:8)
-(A) Yes, for so much
-(B) Yes, We kept none for ourselves
-(C) None of the options above
+14. The men from the synagogue of freedmen were Jews. But they were from these places except
+(A) Alexandria
+(B) Asia
+(C) Antioch
 
-31. Why did the captain and the officers fear the people?(5:26)
-(A) They feared the people will stone them
-(B) They feared for the people were many
-(C) They feared the people for their courage and boldness
+15. And all that sat in the council, looking stedfastly on him, saw his face as
+it had been the ___ of an ____. 
+(A) Face, eagle
+(B) Face, angel
+(C) Presence, angel
 
-32. For what did the apostles rejoice? (5:42)
-(A) They were counted worthy to suffer shame for the name
-(B) The many that were added to the church
-(C) That their names were written in the Lamb’s book of life
+16. Who caused men to lie that they have heard Stephen say, Jesus of Nazareth will destroy this place and change the customs which Moses delivered to them? (6:14)
+(A) The freedmen
+(B) The priests
+(C) The Sadducees
 
-33. What were the apostles accused of filling Jerusalem with? (5:28)
-(A) New converts
-(B) Their doctrine
-(C) Miracles, signs and wonders
+17. Amongst all the chapters in Acts, Chapter 6 has the least number of verses 
+(A) Yes
+(B) No
+(C) It used to be so when the Apocrypha  had not been removed from the bible 
 
-34. By what unusual means did people try to obtain healing? (5:15)
-(A) Having Peter’s shadow passing over them
-(C) Having handerchiefs brought to them from the apostles
-(C) Touching the hem of the apostles’ garments
+18. What are the first four words in Acts Chapter 6? (1:1)
+(A) Now in those days
+(B) It came to pass
+(C) Now it happened that
 
-35. When the officers came to prison the apostles were __(5:22)
-(A) Worshiping God
-(B) Gone
-(C) Teaching and preaching to the people
+19. What are the last four words in Acts Chapter 6? (6:15)
+(A) Face of an Angel
+(B) Moses delivered to us
+(C) Sat in the council
 
-36. Peter and the other apostles answered the council saying___(5:29)
-(A) We ought to obey God rather than man
-(B) An angel delivered us from prison
-(C) Please do not put us back in prison
+20. They induced men to say they heard Stephen speak blasphemous words against what
+two? (6:11)
+(A) Moses and God
+(B) Moses and the Jews
+(C) The Jews and God
 
-37. In what type prison were the apostles jailed?(5:18)
-(A) Maximum security
-(B) Common prison
-(C) Workhouse
+21. Who did they stir up to come against Stephen? (6:12)
+(A) The high priest and the scribe
+(B) The people, elders and the scribe
+(C) The scribe, elders and high priest
 
-38. All the apostles were with one accord in____(5:12)
-(A) Solomon's porch
-(B) Upper Room
-(C) The holy spirit
+22. Where was Stephen brought?(6:12)
+(A) Before the people
+(B) Before the scribes
+(C) Before the council
+
+23. They set up false witnesses which said-what? (6:13)
+(A) Stephen is has demonic spirit
+(B) They said Stephen spoke blasphemous words against this Holy Place and the law
+(C) Stephen has corrupted Israel with his doctrine-
 
  -->
