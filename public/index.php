@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,124 +150,241 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER SIX 6
+ACTS CHAPTER 7
 
-1. Why did a group of people complain against the Hebrews? (6:1)
-(A) Because their widows were neglected in the daily distribution
-(B) Because they wanted the Apostles to select men who will serve tables
+1. Then He gave him the covenant of circumcision; and so Abraham begot Isaac and circumcised him on the eighth day; and Isaac begot Jacob, and Jacob begot ____.  (7:8)
+(A) Joseph
+(B) Judah
+(C) The twelve patriarchs
+
+2. How many years was Israel in bondage and oppressed by Egypt? (7:6)
+(A) 440
+(B) 400
+(C) 330
+
+3. In Moses’ life there were three periods of how many years each? (7:23, 29-30, 36)
+(A) 25
+(B) 30
+(C) 40
+
+4. How did Stephen describe the Jewish council? (7:51)
+(A) Stiff-necked & uncircumcised in heart and ears
+(B) Resisting the Holy Ghost
 (C) Both of the options above
 
-2. Which group of people made the complain?(6:1)
-(A) Heathens
-(B) Hellenists (Greek speaking Jews)
-(C) The scribes
+5. What was the reaction of the council to Stephen’s charges? (7:54)
+(A) Beat him
+(B) Gnashed on him with their teeth
+(C) Put him in prison
 
-3.What was the first response of the apostles when they got complaints from Hellenists? (6:2)
-(A) They summoned (called together) the  multitude of the disciples
-(B) They wept 
-(C) They turned their face to the Lord
+6. In what position was Jesus when Stephen saw the heavens opened? (7:55, 56)
+(A) Kneeling
+(B) Standing
+(C) Sitting
 
-4. What was the  reply of the Apostles when they got the complaints? (6:2)
-(A)  "It is not desirable that we should leave the word of God and serve tables.”
-(B) It is a wrong thing to serve tables
-(C) The word of God is better than serving of tables
-  
-5. What was the top priority of the Apostles? (6: 4)
-(A) Prayer and to the ministry of the word.
-(B) Selection of men to serve tables
-(C) Working of miracles
+7. Who held the clothes of those who stoned Stephen? (7:58)
+(A) Barnabas
+(B) Peter
+(C) Saul
 
-6. What were the required qualities for selecting the men who served tables? (6:3)
-(A)  Good reputation, patience and understanding
-(B) Good reputation, Spirit filled and wisdom
-(C) Good reputation, spirit filled and understanding
+8. What words did Stephen say before he died that were similar to what Jesus said before he died? (7:60)
+(A) Do not weep for Me, but weep for yourselves and for your children
+(B) Lord, do not charge them with this sin
+(C) It is finished!
 
-7. How many men were selected to serve tables?
-(6:3&5)
-(A) 12
-(B) 10
-(C) 7
+9. And when forty years had passed, an Angel of the Lord appeared to him in a flame of fire in a bush, in the wilderness of ___. (7:30)
+(A) Midian
+(B) Arabia
+(C) Mount Sinai
 
-8. What were the qualities of Stephen? (6:5)
-(A) He loved to be stones
-(B) He was tall and brave
-(C) He was a man filled with faith and the holy Spirit
+10. Who asked the council if the accusations against Stephen was so? (7:1)
+(A) Saul
+(B) The High Priest
+(C) A Pharisee
 
-9. How did the apostles designate the chosen men for their task? (6:6)
-(A) The Apostles prayed and laid hands on them
-(B) They made the men to hold hands and pray for themselves
+11. Abraham came out of the ___ and dwelt where?(7:4)
+(A) Mountain and dwelt in Canaan
+(B) Family and dwelt in Canaan
+(C) Chaldeans and dwelt in Haran
+
+12. God said Abraham's seed would dwell in what kind of land? (7:6)
+(A) Foreign Land
+(B) Land of milk and honey
+(C) Holy land
+
+13. God gave Abraham the covenant of what? And Abraham got what? (7:8)
+(A)  Promise and Abraham got Sarah as a wife
+(B) Circumcision and Abraham begot Isaac.
+(C) Salvation and Abraham got descendants
+
+14. Isaac was circumcised what day? (7:8)
+(A) The eighth day
+(B) The seventh day
+(C) The fortieth day
+
+15. Why did the Patriarchs sold Joseph to slavery into Egypt? (7:9)
+(A) They were moved with envy
+(B) They needed money
+(C) They was famine
+
+16. God was with Joseph and delivered him out of his afflictions and gave him
+favour and wisdom in the presence of who? (7:9-10)
+(A) Portiphar
+(B) The prison guard
+(C) Pharaoh, King of Egypt
+
+17. What did Pharoah made Joseph? (7:10)
+(A) He took him out of prison
+(B) He made him watch over Potiphar's house
+(C)  He made him Governor over Egypt and all his house
+
+18. “Now a __ and great ___ came over all the land of Egypt and Canaan, and our fathers found no sustenance" (7:11)
+(A) Famine, great trouble
+(B) Weeping, cry
+(C) Death, sickness
+
+19. Who heard that there was corn in Egypt and sent out our Fathers first? (7:12)
+(A) David
+(B) Jacob
+(C) Joseph
+
+20. Joseph was known to who and when? (7:13)
+(A) His brothers, on their journey
+(B) His brothers, the second time
+(C) Pharaoh, during the Famine
+
+21. When Joseph sent and called his Father and all his relatives, how many were they? (7:14)
+(A) 75
+(B) 40
+(C) 70
+
+22. “So ___went down to ___; and he died, he and our fathers.” (7:15)
+(A) Jacob, valley
+(B) Joseph, the porch
+(C) Jacob, Egypt
+
+23. “"But when the time of the promise drew near which God had sworn to Abraham, the people __ and ____in Egypt" (7:17)
+(A) Grew and multiplied
+(B) Stayed and laboured
+(C) Praised and worshiped
+
+24. Moses was learned in all the wisdom of the Egyptians and became mighty in
+two things. What are they? (7:22)
+(A) Words and deeds
+(B) Signs and wonders
+(C) Miracles and power
+
+25.  How old was Moses when it came into his heart to visit his brethren the children of Israel? (7:23)
+(A) Eighty
+(B) Forty
+(C) Thirty
+
+26.Then Moses fled and became a stranger in what land? and had how many sons? (7:29)
+(A) In the land of Egypt and had two sons
+(B) In the land of Midian and had two sons
+(C) In the land of Mesopotamia and had three sons
+
+27. When Moses saw the bush and wondered at the sight and drew near to it, what
+happened? (7:31)
+(A) He saw fire
+(B) The voice of the Lord came to him,”
+(C) He was transformed
+
+28. When the Lord spoke to Moeses, he said he was the God of what three of his
+Fathers? (7:32)
+(A) Abraham, Isaac, and Jacob. 
+(B) Shadrach, Meshach and Abedenago
+(C) Peter, James and John
+
+29. Why did the Lord  tell Moses to take off his sandals? (7:33)
+(A) His sandals was not clean
+(B) He needed to trust God
+(C) The place where he stands was holy ground
+
+30. How many years were Moses and the children of Israel in the wilderness? (7:36)
+(A) Thirty Years
+(B) Forty Years
+(C) Thirty Three Years
+
+31. What did they do before stoning Stephen? (7:58)
+(A) The witnesses laid down their clothes
+(B) They cast him out of the city
+(C) They made him to kneel before the witnesses
+
+32. Stephen said they receive the law by the direction of who? (7:53)
+(A) The Lord
+(B) Angels
+(C) Moses
+
+33. Then God turned and gave them up to worship-who?(7:42)
+(A) False gods
+(B) Their desires
+(C) The host of heaven
+
+34. God said they took up the tabernacle of who? (7:43)
+(A) Moloch
+(B) Remphan
+(C) The covenant
+
+35. God said they took up the star of what God? (7:43)
+(A) Moloch
+(B) Remphan
+(C) Babylon
+
+36. Who built God a house?(7:47)
+(A) David
+(B) Moses
+(C) Solomon
+
+37. Moses was brought up in his father's house for how long?(7:20)
+(A) 40 years
+(B) 3 months
+(C) 3 years
+
+38. When Moses was set out, who took him up and brought him up as her own son?(7:21)
+(A) His own mother
+(B) Pharaoh's daughter
 (C) Both of the options above
 
-10. From among the chosen people, who performed great wonders and signs? (6:8)
-(A) Stephen
-(B) Philip
-(C) Nicolas
+39. “"This is that Moses who said to the children of Israel, 'The Lord your God will raise up for you a __ like me from your ___. Him you shall hear" 7:37
+(A) Saviour, generation
+(B) Prophet, brethren
+(C) Leader, ancestors
 
-11. Which of these were not part of the men that were chosen? (6:5) 
-(A) Timon
-(B) Nicanor
-(C) Mathias
+40. “However, the Most High does not dwell in __ made with __, as the prophet says:” (7:48)
+(A) Temples, clay
+(B) Temples, hands
+(C) Houses, clay
 
-12. What did the Jews charge Stephen of speaking blasphemous words against? (6:11-13)
- (A) Moses, God, Holy place and the Law
-(B) The prophets
-(C) The people of old
+41. For God, Heaven is his what, and earth is his what?(7:49)
+(A) Throne, His place of rest
+(B)  Footstool, throne
+(C) Throne, footstool
 
-13. Which of these men was a proselyte(gentile) from Antioch who had been following the Jewish religion? (6:5)
-(A) Prochorus
-(B) Nicolas
-(C) Parmenas
+42. “Has My __ not made all these ____?'” (7:50)
+(A) Lord, creatures
+(B) Hand, things
+(C) Hand, creatures 
 
-14. The men from the synagogue of freedmen were Jews. But they were from these places except
-(A) Alexandria
-(B) Asia
-(C) Antioch
+43. “"Our fathers had the ___ of ___ in the wilderness, as He appointed, instructing Moses to make it according to the pattern that he had seen,” (7:44) 
+(A) Ark, covenant
+(B) Laws, Moses
+(C) Tabernacle, witness
 
-15. And all that sat in the council, looking stedfastly on him, saw his face as
-it had been the ___ of an ____. 
-(A) Face, eagle
-(B) Face, angel
-(C) Presence, angel
+44. Which also our Fathers that came after brought in with Jesus into the
+possession of whom? (7:45)
+(A) Priesthood
+(B) Generation
+(C) The Gentiles
 
-16. Who caused men to lie that they have heard Stephen say, Jesus of Nazareth will destroy this place and change the customs which Moses delivered to them? (6:14)
-(A) The freedmen
-(B) The priests
-(C) The Sadducees
+45. Who found favour before God, and desired to find a tabernacle for the God of Jacob? (7:45&46)
+(A) Moses
+(B) David
+(C) Solomon
 
-17. Amongst all the chapters in Acts, Chapter 6 has the least number of verses 
-(A) Yes
-(B) No
-(C) It used to be so when the Apocrypha  had not been removed from the bible 
-
-18. What are the first four words in Acts Chapter 6? (1:1)
-(A) Now in those days
-(B) It came to pass
-(C) Now it happened that
-
-19. What are the last four words in Acts Chapter 6? (6:15)
-(A) Face of an Angel
-(B) Moses delivered to us
-(C) Sat in the council
-
-20. They induced men to say they heard Stephen speak blasphemous words against what
-two? (6:11)
-(A) Moses and God
-(B) Moses and the Jews
-(C) The Jews and God
-
-21. Who did they stir up to come against Stephen? (6:12)
-(A) The high priest and the scribe
-(B) The people, elders and the scribe
-(C) The scribe, elders and high priest
-
-22. Where was Stephen brought?(6:12)
-(A) Before the people
-(B) Before the scribes
-(C) Before the council
-
-23. They set up false witnesses which said-what? (6:13)
-(A) Stephen is has demonic spirit
-(B) They said Stephen spoke blasphemous words against this Holy Place and the law
-(C) Stephen has corrupted Israel with his doctrine-
+46.  God said he would carry them away beyond where? (7:43)
+(A) Jerusalem
+(B) The borders of the earth
+(C) Babylon
 
  -->
