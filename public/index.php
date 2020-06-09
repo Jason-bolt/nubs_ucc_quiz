@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,241 +150,189 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 7
+ACTS CHAPTER 8
 
-1. Then He gave him the covenant of circumcision; and so Abraham begot Isaac and circumcised him on the eighth day; and Isaac begot Jacob, and Jacob begot ____.  (7:8)
-(A) Joseph
-(B) Judah
-(C) The twelve patriarchs
-
-2. How many years was Israel in bondage and oppressed by Egypt? (7:6)
-(A) 440
-(B) 400
-(C) 330
-
-3. In Moses’ life there were three periods of how many years each? (7:23, 29-30, 36)
-(A) 25
-(B) 30
-(C) 40
-
-4. How did Stephen describe the Jewish council? (7:51)
-(A) Stiff-necked & uncircumcised in heart and ears
-(B) Resisting the Holy Ghost
-(C) Both of the options above
-
-5. What was the reaction of the council to Stephen’s charges? (7:54)
-(A) Beat him
-(B) Gnashed on him with their teeth
-(C) Put him in prison
-
-6. In what position was Jesus when Stephen saw the heavens opened? (7:55, 56)
-(A) Kneeling
-(B) Standing
-(C) Sitting
-
-7. Who held the clothes of those who stoned Stephen? (7:58)
-(A) Barnabas
-(B) Peter
+1. Who in particular put men and women in prison? (8:1,3)
+(A) Aeneas
+(B) Ananias
 (C) Saul
 
-8. What words did Stephen say before he died that were similar to what Jesus said before he died? (7:60)
-(A) Do not weep for Me, but weep for yourselves and for your children
-(B) Lord, do not charge them with this sin
-(C) It is finished!
+2. Where did Philip go as a result of persecution against the church? (8:5)
+(A) Samaria
+(B) Caesarea
+(C) Damascus
 
-9. And when forty years had passed, an Angel of the Lord appeared to him in a flame of fire in a bush, in the wilderness of ___. (7:30)
-(A) Midian
-(B) Arabia
-(C) Mount Sinai
+3. Who offered money in order to purchase the ability to give people the Holy Ghost? (8:18-19)
+(A) Aeneas
+(B) Simon
+(C) Judas
 
-10. Who asked the council if the accusations against Stephen was so? (7:1)
-(A) Saul
-(B) The High Priest
-(C) A Pharisee
+4. Who was sent to investigate the revival at Samaria? (8:14)
+(A) Peter and James
+(B ) James and John
+(C) Peter and John
 
-11. Abraham came out of the ___ and dwelt where?(7:4)
-(A) Mountain and dwelt in Canaan
-(B) Family and dwelt in Canaan
-(C) Chaldeans and dwelt in Haran
+5. What did the Samaritans do after Peter and John arrived in Samaria? (8:17)
+(A)	They repented
+Correct answer	
+(B) They were baptized in Jesus' Name
+(C)	They received the Holy Ghost
 
-12. God said Abraham's seed would dwell in what kind of land? (7:6)
-(A) Foreign Land
-(B) Land of milk and honey
-(C) Holy land
+6. Toward where did the angel of the Lord tell Philip to go? (8:26)
+(A) Samaria
+(B) Ethiopia
+(C) Gaza
 
-13. God gave Abraham the covenant of what? And Abraham got what? (7:8)
-(A)  Promise and Abraham got Sarah as a wife
-(B) Circumcision and Abraham begot Isaac.
-(C) Salvation and Abraham got descendants
+7. From what portion of the Bible was the Ethiopian reading? (8:28)
+(A) Isaiah
+(B) Jeremiah
+(C) Daniel
 
-14. Isaac was circumcised what day? (7:8)
-(A) The eighth day
-(B) The seventh day
-(C) The fortieth day
+8. Which of the following is NOT a questions the Ethiopian asked Philip? (8:31, 34,)
+A 	How can I, unless someone guides me?
+B 	Of whom does the prophet say this, of himself or of some other man?
+(C) Are You here to explain this to me?
 
-15. Why did the Patriarchs sold Joseph to slavery into Egypt? (7:9)
-(A) They were moved with envy
-(B) They needed money
-(C) They was famine
+9. One of the following is one of the questions the Ethiopian asked Philip? (8:36)
+(A) Where do You come from?
+(B) What hinders me from being baptized
+(C) Are You one of the Apostles?
 
-16. God was with Joseph and delivered him out of his afflictions and gave him
-favour and wisdom in the presence of who? (7:9-10)
-(A) Portiphar
-(B) The prison guard
-(C) Pharaoh, King of Egypt
+10. What phrases indicates that the baptism of the Ethiopian was performed by immersion? (8:38-39)
+(A) Went down into the water
+(B) The Spirit descended like a dove
+(C) Buried with him in baptism
 
-17. What did Pharoah made Joseph? (7:10)
-(A) He took him out of prison
-(B) He made him watch over Potiphar's house
-(C)  He made him Governor over Egypt and all his house
+11.Where was Philip found after the Spirit of the Lord caught him away? (8:40)
+(A) Azotus
+(B) Caesarea
+(C) Gaza
 
-18. “Now a __ and great ___ came over all the land of Egypt and Canaan, and our fathers found no sustenance" (7:11)
-(A) Famine, great trouble
-(B) Weeping, cry
-(C) Death, sickness
+12. Where did Philip end up? (8:40)
+(A) Azotus
+(B) Caesarea
+(C) Gaza
 
-19. Who heard that there was corn in Egypt and sent out our Fathers first? (7:12)
-(A) David
-(B) Jacob
-(C) Joseph
+13. The great persecution against the church began after whose violent death? (8:1)
+(A) Stephen
+(B) Jesus
+(C) John the Baptist
 
-20. Joseph was known to who and when? (7:13)
-(A) His brothers, on their journey
-(B) His brothers, the second time
-(C) Pharaoh, during the Famine
-
-21. When Joseph sent and called his Father and all his relatives, how many were they? (7:14)
-(A) 75
-(B) 40
-(C) 70
-
-22. “So ___went down to ___; and he died, he and our fathers.” (7:15)
-(A) Jacob, valley
-(B) Joseph, the porch
-(C) Jacob, Egypt
-
-23. “"But when the time of the promise drew near which God had sworn to Abraham, the people __ and ____in Egypt" (7:17)
-(A) Grew and multiplied
-(B) Stayed and laboured
-(C) Praised and worshiped
-
-24. Moses was learned in all the wisdom of the Egyptians and became mighty in
-two things. What are they? (7:22)
-(A) Words and deeds
-(B) Signs and wonders
-(C) Miracles and power
-
-25.  How old was Moses when it came into his heart to visit his brethren the children of Israel? (7:23)
-(A) Eighty
-(B) Forty
-(C) Thirty
-
-26.Then Moses fled and became a stranger in what land? and had how many sons? (7:29)
-(A) In the land of Egypt and had two sons
-(B) In the land of Midian and had two sons
-(C) In the land of Mesopotamia and had three sons
-
-27. When Moses saw the bush and wondered at the sight and drew near to it, what
-happened? (7:31)
-(A) He saw fire
-(B) The voice of the Lord came to him,”
-(C) He was transformed
-
-28. When the Lord spoke to Moeses, he said he was the God of what three of his
-Fathers? (7:32)
-(A) Abraham, Isaac, and Jacob. 
-(B) Shadrach, Meshach and Abedenago
-(C) Peter, James and John
-
-29. Why did the Lord  tell Moses to take off his sandals? (7:33)
-(A) His sandals was not clean
-(B) He needed to trust God
-(C) The place where he stands was holy ground
-
-30. How many years were Moses and the children of Israel in the wilderness? (7:36)
-(A) Thirty Years
-(B) Forty Years
-(C) Thirty Three Years
-
-31. What did they do before stoning Stephen? (7:58)
-(A) The witnesses laid down their clothes
-(B) They cast him out of the city
-(C) They made him to kneel before the witnesses
-
-32. Stephen said they receive the law by the direction of who? (7:53)
-(A) The Lord
-(B) Angels
-(C) Moses
-
-33. Then God turned and gave them up to worship-who?(7:42)
-(A) False gods
-(B) Their desires
-(C) The host of heaven
-
-34. God said they took up the tabernacle of who? (7:43)
-(A) Moloch
-(B) Remphan
-(C) The covenant
-
-35. God said they took up the star of what God? (7:43)
-(A) Moloch
-(B) Remphan
-(C) Babylon
-
-36. Who built God a house?(7:47)
-(A) David
-(B) Moses
-(C) Solomon
-
-37. Moses was brought up in his father's house for how long?(7:20)
-(A) 40 years
-(B) 3 months
-(C) 3 years
-
-38. When Moses was set out, who took him up and brought him up as her own son?(7:21)
-(A) His own mother
-(B) Pharaoh's daughter
+14. What did the believers do after being scattered? (8:4)
+(A) Preached the Word
+(B) Went into hiding
 (C) Both of the options above
 
-39. “"This is that Moses who said to the children of Israel, 'The Lord your God will raise up for you a __ like me from your ___. Him you shall hear" 7:37
-(A) Saviour, generation
-(B) Prophet, brethren
-(C) Leader, ancestors
+15.  Who did Philip witness to in the wilderness? (8:27-39)
+(A) The people of Samaria
+(B) An Ethiopian Eunuch
+(C) The people of Gaza
 
-40. “However, the Most High does not dwell in __ made with __, as the prophet says:” (7:48)
-(A) Temples, clay
-(B) Temples, hands
-(C) Houses, clay
+16.  What did the Eunuch do after being baptized? (8:39)
+(A) Returned to Samaria
+(B) Went on his way rejoicing
+(C) Took Philip to his home for a meal
 
-41. For God, Heaven is his what, and earth is his what?(7:49)
-(A) Throne, His place of rest
-(B)  Footstool, throne
-(C) Throne, footstool
+17. Who wasn't scattered throughout the region at during the time of great persecution? (8:1)
+(A) The people in Jerusalem
+(B) The Apostles
+(C) Both of the options above
 
-42. “Has My __ not made all these ____?'” (7:50)
-(A) Lord, creatures
-(B) Hand, things
-(C) Hand, creatures 
+18. What kind of men carried Stephen to his burial? (8:2)
+(A) Young men
+(B) Devout men
+(C) Men of valour
 
-43. “"Our fathers had the ___ of ___ in the wilderness, as He appointed, instructing Moses to make it according to the pattern that he had seen,” (7:44) 
-(A) Ark, covenant
-(B) Laws, Moses
-(C) Tabernacle, witness
+19. “As for Saul, he made___of the church, entering every house, and ____off men and women, committing them to prison.” (8:3)
+(A) Mockery, stripping
+(B) Havoc, dragging
+(C) Blasphemy, killing
 
-44. Which also our Fathers that came after brought in with Jesus into the
-possession of whom? (7:45)
-(A) Priesthood
-(B) Generation
-(C) The Gentiles
+20. The people of Samaria gave heed unto those things which Philip spake, hearing and
+seeing what? (8:6)
+(A) The miracles which he did
+(B) People been baptized with the Holy Spirit
+(C) Revival which happened through him
 
-45. Who found favour before God, and desired to find a tabernacle for the God of Jacob? (7:45&46)
-(A) Moses
-(B) David
-(C) Solomon
+21. Unclean spirits did what?
+(A) Made way for the Lord
+(B) Confessed that Christ is Lord
+(C) Cried with a loud voice, came out of many who were possessed
 
-46.  God said he would carry them away beyond where? (7:43)
-(A) Jerusalem
-(B) The borders of the earth
-(C) Babylon
+22. There was great what in that city Samaria? (8:8)
+(A) Revival
+(B) Joy
+(C) None of the options above
+
+23. Who used socery to bewitch the people of Samaria, giving out that himself
+was some great one? (8:9)
+(A) Alexander
+(B) Bar-Jesus
+(C) Simon
+
+24. “You have neither __ nor __ in this matter, for your heart is not right in the sight of God" (8:21)
+(A) Good, bad
+(B) Part, portion
+(C) Work, ministry
+
+25. The people gave heed to Simon from the least to the greatest, saying what? (8:10)
+(A) This is a powerful man
+(B) This man is the great power of God
+(C) None of the options above
+
+26. To Simon they had heeded because why? (8:11)
+(A) They had not seen the miracles of the Apostles
+(B) Because he was a powerful man
+(C)  Because he had astonished them with his sorceries for a long time.”
+
+27.  But the people believed who - when he preached Jesus Christ to them? (8:12)
+(A) Jesus
+(B) The Apostles
+(C) Philip
+  
+28. What did Simon do when he heard Philip preach Jesus Christ? (8:13)
+(A) He also believed
+(B) He wanted to pay money for his power
+(C) He stood with awe
+
+29. "The Holy Spirit had not fallen upon them(Samaria people). They had only been baptized in what?
+(A) In the name of the Lord Jesus
+(B) In water
+(C) In faith
+
+30. “Then Philip opened his mouth, and beginning at this Scripture, preached ___to him.” (8:35).
+(A) Jesus
+(B) The scriptures
+(C) Baptism
+
+31. “Now as they went down the road, they came to what? (8:36)
+(A) Agreement
+(B) Some water
+(C) Departure
+
+32. Why had this Eunuch come to Jerusalem?(8:27)
+(A) For commercial works
+(B) To worship
+(C) For get understanding of scriptures
+
+33.  This Eunich had great authority under Queen who of the Ethiopians? (8:27)
+(A) Queen Sheba
+(B) Queen Candace
+(C) None of the options above
+
+34 How many verses has Acts Chapter 8?
+(A) 42
+(B) 40
+(C) 44
+
+35. What is the first word of this chapter? (8:1)
+(A) And
+(B) Now
+(C) But
+
+36. The last word of this chapter is a name of a__?
+(A) An Apostle
+(B) A city
+(C) A verb
 
  -->
