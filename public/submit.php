@@ -2,7 +2,7 @@
 session_start();
 include_once('db.php');
 
-$no_of_questions = 36;
+$no_of_questions = 33;
 
 // checking if quiz is submitted
 if (!isset($_POST['submit'])) {
@@ -69,6 +69,11 @@ $end = date_create($end_time);
 $minute = date_diff($start, $end);
 $duration = $minute->format("%i");
 
+$duration1 = $minute->format("%s");
+
+$range = $duration . "." . idate('s', $duration1);
+
+
 // echo "<br />";
 // echo $duration;
 
@@ -77,7 +82,7 @@ $is_nubs = (int)$_SESSION['is_nubs'];
 $phone_number = $_SESSION['phone_number'];
 
 // insert name and score into users table
-$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time, duration, is_nubs, phone_number) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time', $duration, $is_nubs, '$phone_number')";
+$sql = "INSERT INTO users(full_name, raw_score, percentage, start_time, end_time, duration, is_nubs, phone_number) VALUES('$full_name', '$score', $percentage, '$start_time', '$end_time', '$range', $is_nubs, '$phone_number')";
 $result = mysqli_query($connection, $sql);
 
 

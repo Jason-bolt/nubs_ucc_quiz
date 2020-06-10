@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,189 +150,173 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 8
+ACTS CHAPTER 9
 
-1. Who in particular put men and women in prison? (8:1,3)
+1. “Then Saul, still breathing __ and ___ against the disciples of the Lord, went to the high priest” (9:1)
+(A) Threats, murder
+(B) Anger, shame
+(C) War, terror
+
+2. What did Saul desire from the High Priest?
+(A) Letters from him(high priest) to the Synagogues of Damascus.
+(B) An advice from him( High Priest) to the Synagogues of Damascus
+(C) A Sword from him(High Priest) to the Synagogues of Damascus
+
+3. Where was Saul going when he was smitten down? (9:1-3)
+(A) Azotus
+(B) Damascus
+(C) Gaza
+
+4. By what means did the Lord tell Ananias to go to Saul? (9:10)
+(A) Dream
+(B) Vision
+(C) Instructed by the apostles
+
+5. What did the Lord show Ananias about Saul? (9:11)
+(A) He was at the street called Straight
+(B) He was at the house of Judas 
+(C) Both of the options above
+
+6. Why was Ananias reluctant to go to Saul? (9:13-14)
+(A) He was warned by God in a dream
+(B) His wife said for him to have nothing to do with this man
+(C) He had heard from many how much harm Saul had done to the saints in Jerusalem
+
+7. How did Saul escape from the Jews? (9:23-25)
+(A) In a large basket
+(B) By hiding on a roof top
+(C) With the help of a garrison of Roman soldiers
+
+8. Who declared unto the apostles that Saul had seen the Lord and preached boldly in the name of Jesus? (9:26-27)
+(A) Barnabas
+(B) Peter
+(C) John
+
+9. Where did the brethren send Saul to spare his life? (9:30)
+(A) Azotus
+(B) Caesarea
+(C) Tarsus
+
+10. God through Peter healed this person from paralysis? (9:33)
+(A) Aeneas
+(B) Dorcas
+(C) James
+
+11. For how many years has this person been paralyzed? (9:33)
+(A) Three Years
+(B) Eight Years
+(C) Thirty eight Years
+
+
+12. Who was raised from the dead at Joppa? (9:36-42)
 (A) Aeneas
 (B) Ananias
-(C) Saul
+(C) Dorcas
 
-2. Where did Philip go as a result of persecution against the church? (8:5)
-(A) Samaria
-(B) Caesarea
-(C) Damascus
+13. At whose house did Peter stay many days? (9:43)
+(A) Dorcas
+(B) John
+(C) Simon the tanner
 
-3. Who offered money in order to purchase the ability to give people the Holy Ghost? (8:18-19)
-(A) Aeneas
-(B) Simon
+14. Where did Saul take the men and women bound who were of the Way?(9:2)
+(A) Jerusalem
+(B) Damascus
+(C) Caeserea
+
+15. Whose house was Ananias told to go to? (9:11)
+(A) Jude
+(B) James
 (C) Judas
 
-4. Who was sent to investigate the revival at Samaria? (8:14)
-(A) Peter and James
-(B ) James and John
-(C) Peter and John
+16. Where did they lay Dorcas after she had been washed? (9:37)
+(A) In a tomb
+(B) Upper room
+(C) In the temple
 
-5. What did the Samaritans do after Peter and John arrived in Samaria? (8:17)
-(A)	They repented
-Correct answer	
-(B) They were baptized in Jesus' Name
-(C)	They received the Holy Ghost
+17. What did Saul eat while he was without sight? (9:9)
+(A) Bread & water
+(B) Very little
+(C) He neither ate nor drank
 
-6. Toward where did the angel of the Lord tell Philip to go? (8:26)
-(A) Samaria
-(B) Ethiopia
-(C) Gaza
+18.  As soon as Saul received his sight, he arose and ___(9:18)
+(A) Sang praises
+(B) Preached
+(C) Was baptized
 
-7. From what portion of the Bible was the Ethiopian reading? (8:28)
-(A) Isaiah
-(B) Jeremiah
-(C) Daniel
+19. At Joppa there was a certain disciple named Tabitha which is translated ___(9:36)
+(A) Mary 
+(B) Dorcas
+(C) Martha
 
-8. Which of the following is NOT a questions the Ethiopian asked Philip? (8:31, 34,)
-A 	How can I, unless someone guides me?
-B 	Of whom does the prophet say this, of himself or of some other man?
-(C) Are You here to explain this to me?
+20. Peter stayed many days in __(9:43)
+(A) Tarsus
+(B) Joppa
+(C) Antioch
 
-9. One of the following is one of the questions the Ethiopian asked Philip? (8:36)
-(A) Where do You come from?
-(B) What hinders me from being baptized
-(C) Are You one of the Apostles?
+21. Saul spoke boldly in the name of the Lord Jesus and disputed against the
+(A) Pharisees
+(B) Hellenists
+(C) Priests
 
-10. What phrases indicates that the baptism of the Ethiopian was performed by immersion? (8:38-39)
-(A) Went down into the water
-(B) The Spirit descended like a dove
-(C) Buried with him in baptism
+22. After Saul received his sight, he spent some days with the disciples at __ (9:19)
+(A) Damascus
+(B) Jerusalem
+(C) Antioch
 
-11.Where was Philip found after the Spirit of the Lord caught him away? (8:40)
-(A) Azotus
-(B) Caesarea
-(C) Gaza
+23. Saul was struck with what physical problem after hearing Jesus on the road to Damascus? (9:8)
+(A) Deafness
+(B) Blindness
+(C) Became mute
 
-12. Where did Philip end up? (8:40)
-(A) Azotus
-(B) Caesarea
-(C) Gaza
+24. What was the name of the street on which the Lord told Ananias to go to find Saul? (9:11)
+(A) Straight
+(B) Broad
+(C) Narrow
 
-13. The great persecution against the church began after whose violent death? (8:1)
-(A) Stephen
-(B) Jesus
-(C) John the Baptist
+25. The Lord tells Ananias that Saul is____(9:15)
+(A) A good and just man
+(B) A chosen vessel
+(C) A devout vessel
 
-14. What did the believers do after being scattered? (8:4)
-(A) Preached the Word
-(B) Went into hiding
-(C) Both of the options above
+26. At what city did Peter find Aeneas?(9:32)
+(A) Joppa
+(B) Jerusalem
+(C) Lydda
 
-15.  Who did Philip witness to in the wilderness? (8:27-39)
-(A) The people of Samaria
-(B) An Ethiopian Eunuch
-(C) The people of Gaza
+27. How many verses are in Acts Chapter 9?
+(A) 40
+(B) 42
+(C) 43
 
-16.  What did the Eunuch do after being baptized? (8:39)
-(A) Returned to Samaria
-(B) Went on his way rejoicing
-(C) Took Philip to his home for a meal
+28. Now after many days were past, the Jews ___. (9:23)
+(A) Planned a celebration in honor of Saul's dedication to Christ
+(B) Plotted to kill him
+(C) Demanded that Saul perform some miracles
 
-17. Who wasn't scattered throughout the region at during the time of great persecution? (8:1)
-(A) The people in Jerusalem
-(B) The Apostles
-(C) Both of the options above
+29. After Paul was sent to Tarsus, the churches had peace and were edified throughout what 3
+regions? (9:31)
+(A) Samaria, Judea, Jerusalem
+(B) Judea, Galilee, Samaria
+(C) Antioch, Judea, Samaria
 
-18. What kind of men carried Stephen to his burial? (8:2)
-(A) Young men
-(B) Devout men
-(C) Men of valour
+30. What was the occupation of Simon? (9:40)
+(A) A Tanner
+(B) Carpenter
+(C) Fisherman
 
-19. “As for Saul, he made___of the church, entering every house, and ____off men and women, committing them to prison.” (8:3)
-(A) Mockery, stripping
-(B) Havoc, dragging
-(C) Blasphemy, killing
+31. The people of Joppa sent two men unto Lydda to get who to come to them? (9:38)
+(A) Peter
+(B) Saul
+(C) John
 
-20. The people of Samaria gave heed unto those things which Philip spake, hearing and
-seeing what? (8:6)
-(A) The miracles which he did
-(B) People been baptized with the Holy Spirit
-(C) Revival which happened through him
+32. What are the first two words of Acts chapter 9?(9:1)
+(A) Now Saul
+(B) Then Saul
+(C) There was
 
-21. Unclean spirits did what?
-(A) Made way for the Lord
-(B) Confessed that Christ is Lord
-(C) Cried with a loud voice, came out of many who were possessed
-
-22. There was great what in that city Samaria? (8:8)
-(A) Revival
-(B) Joy
-(C) None of the options above
-
-23. Who used socery to bewitch the people of Samaria, giving out that himself
-was some great one? (8:9)
-(A) Alexander
-(B) Bar-Jesus
-(C) Simon
-
-24. “You have neither __ nor __ in this matter, for your heart is not right in the sight of God" (8:21)
-(A) Good, bad
-(B) Part, portion
-(C) Work, ministry
-
-25. The people gave heed to Simon from the least to the greatest, saying what? (8:10)
-(A) This is a powerful man
-(B) This man is the great power of God
-(C) None of the options above
-
-26. To Simon they had heeded because why? (8:11)
-(A) They had not seen the miracles of the Apostles
-(B) Because he was a powerful man
-(C)  Because he had astonished them with his sorceries for a long time.”
-
-27.  But the people believed who - when he preached Jesus Christ to them? (8:12)
-(A) Jesus
-(B) The Apostles
-(C) Philip
-  
-28. What did Simon do when he heard Philip preach Jesus Christ? (8:13)
-(A) He also believed
-(B) He wanted to pay money for his power
-(C) He stood with awe
-
-29. "The Holy Spirit had not fallen upon them(Samaria people). They had only been baptized in what?
-(A) In the name of the Lord Jesus
-(B) In water
-(C) In faith
-
-30. “Then Philip opened his mouth, and beginning at this Scripture, preached ___to him.” (8:35).
-(A) Jesus
-(B) The scriptures
-(C) Baptism
-
-31. “Now as they went down the road, they came to what? (8:36)
-(A) Agreement
-(B) Some water
-(C) Departure
-
-32. Why had this Eunuch come to Jerusalem?(8:27)
-(A) For commercial works
-(B) To worship
-(C) For get understanding of scriptures
-
-33.  This Eunich had great authority under Queen who of the Ethiopians? (8:27)
-(A) Queen Sheba
-(B) Queen Candace
-(C) None of the options above
-
-34 How many verses has Acts Chapter 8?
-(A) 42
-(B) 40
-(C) 44
-
-35. What is the first word of this chapter? (8:1)
-(A) And
-(B) Now
-(C) But
-
-36. The last word of this chapter is a name of a__?
-(A) An Apostle
-(B) A city
-(C) A verb
+33. The last word of Acts Chapter 9 is a name of a
+(A) Man
+(B) Profession
+(C) A City
 
  -->
