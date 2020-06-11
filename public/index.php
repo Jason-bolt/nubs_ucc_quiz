@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,173 +150,166 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 9
+ACTS CHAPTER 10
 
-1. “Then Saul, still breathing __ and ___ against the disciples of the Lord, went to the high priest” (9:1)
-(A) Threats, murder
-(B) Anger, shame
-(C) War, terror
+1. What was Cornelius’ occupation? (10:1)
+(A) Carpenter
+(B) Centurion
+(C) Governor
 
-2. What did Saul desire from the High Priest?
-(A) Letters from him(high priest) to the Synagogues of Damascus.
-(B) An advice from him( High Priest) to the Synagogues of Damascus
-(C) A Sword from him(High Priest) to the Synagogues of Damascus
+2. Which of the following was NOT mentioned as a good quality of Cornelius? (10:2, 22, 24, 30)
+(A) Devout and Feared God
+(B) Fasted and Gave alms
+(C)	None of the options above
 
-3. Where was Saul going when he was smitten down? (9:1-3)
-(A) Azotus
-(B) Damascus
-(C) Gaza
+3. By what means did Cornelius know to send for Peter? (10:3-6)
+(A) An angel appeared to him
+(B) Peter’s reputation had spread to Caesarea
+(C) His servants told him to
 
-4. By what means did the Lord tell Ananias to go to Saul? (9:10)
-(A) Dream
-(B) Vision
-(C) Instructed by the apostles
+4. What vision did Peter see? (10:11-17)
+(A) A great sheet
+(B) Cornelius praying
+(C) Gentiles receiving the Holy Ghost
 
-5. What did the Lord show Ananias about Saul? (9:11)
-(A) He was at the street called Straight
-(B) He was at the house of Judas 
+(5) Who went with Peter to Caesarea? 10:23, 11:12)
+(A) John Mark
+(B) Philip and Saul
+(C) Six Jewish brethrens
+
+6. What did Peter say to refuse worship from Cornelius? (10:25-26)
+(A) Man looks on the outward appearance but God looks on the heart
+(B) Stand up; I myself am also a man
+(C) We also are men of like passions with you
+
+7. How did Peter know that the household of Cornelius received the Holy Ghost? (10:44-46)
+(A) They believed on the Lord Jesus with all their hearts
+(B) They repented of their sins
+(C) None of the options above
+
+(8) How did Peter know that the household of Cornelius received the Holy Ghost? (10:44-46)
+(A) They heard them speak with tongues and magnify God
+(B) They sold their goods and gave half to the poor
+(C) None of the options above
+
+9. What did Peter command them to do after they received the Holy Ghost? (10:48)
+(A) Be baptized in the name of the Lord
+(B) Continue in the apostle’s doctrine
+(C) Go into all the world and preach the gospel to every creature
+
+10. According to Acts 10: 1, where did Cornelius live?
+(A) Antioch
+(B) Caesarea
+(C) Capernaum
+
+11. After having his vision, Cornelius sent two of his servants and a soldier to what town?
+(A) Crete
+(B)Joppa
+ (C) Antioch
+
+12. Acts 10: 25 tells of the disciple Peter entering Cornelius' house. How did Cornelius greet him?
+(A) Wanted to know where the disciple Andrew was.
+(B) Kissed Peter on both cheeks.
+(C) Fell at Peter's feet in reverence.
+
+13. According to Acts 10: 27, how many people were at Cornelius' house to meet Peter?
+(A) A large gathering of people
+(B) There was no one apart from Cornelius
+(C) About three or four people
+
+14. What did Peter say to the people at Cornelius' house, as per Acts 10: 34?
+(A) "I have never been so disillusioned in all my life as these people are not worthy of eternal life."
+(B) "I now realize how true it is that God shows favoritism and will only accept certain non-Jewish believers."
+(C) "I now realize how true it is that God does not show favoritism but accepts men from every nation who fear him and do what is right."
+
+15. How does chapter 10 of Acts conclude?
+(A) The people demanded that Peter depart immediately.
+(B) The people said Peter should invite the other disciples to visit them.
+(C) None of the options above
+
+16. How does chapter 10 of Acts conclude?
+(A) The people said Peter reminded them of another person in their town.
+(B) The people asked Peter to stay a few days.
+(C) None of the options above
+
+17. What was the name of Cornelius' army group? (10:1)
+(A) Roman Regiment
+(B) Italian Regiment
+(C) Caesarea Regiment
+
+18. At what hour of the day did Cornelius see a vision in which an angel of God spoke to him? (10:3)
+(A) About the Ninth Hour
+(B) About the Third Hour
+(C) About the Fourth Hour
+
+19. Fill in the blank in this passage: Your prayers and your alms have come up for ___ (10:4)
+(A) A reward from God
+(B) A memorial before God
+(C) A visit from a servant from God (Peter)
+
+20. A Christian named Simon had what surname? (10:5)
+(A) The Tanner
+(B) Peter
 (C) Both of the options above
 
-6. Why was Ananias reluctant to go to Saul? (9:13-14)
-(A) He was warned by God in a dream
-(B) His wife said for him to have nothing to do with this man
-(C) He had heard from many how much harm Saul had done to the saints in Jerusalem
+21. With whom was Peter staying when Cornelius sent Messengers to call for him? (10:6)
+(A) Simon the tanner
+(B) Aquila the tent maker
+(C) Josephus the porter
 
-7. How did Saul escape from the Jews? (9:23-25)
-(A) In a large basket
-(B) By hiding on a roof top
-(C) With the help of a garrison of Roman soldiers
+22. Who did Cornelius sent to call for Peter? (10:7)
+(A) Three devout soldiers
+(B) Three devout household servants
+(C) Two household servants and a devout soldier
 
-8. Who declared unto the apostles that Saul had seen the Lord and preached boldly in the name of Jesus? (9:26-27)
-(A) Barnabas
-(B) Peter
-(C) John
+23. Where was Simon the tanner’s house located?(10:6)
+(A) By the sea
+(B) Straight Street
+(C)On the mountain
 
-9. Where did the brethren send Saul to spare his life? (9:30)
-(A) Azotus
-(B) Caesarea
-(C) Tarsus
+24. What was Peter doing on the housetop in Acts 10?(10:9)
+(A) Praying
+(B) Reading
+(C) Preaching
 
-10. God through Peter healed this person from paralysis? (9:33)
-(A) Aeneas
-(B) Dorcas
-(C) James
+25. Who are the selected persons who Jesus appeared to after His resurrection, according to Peter? (10:41)
+(A) The Apostles
+(B) spies
+(C) The chosen ones
 
-11. For how many years has this person been paralyzed? (9:33)
-(A) Three Years
-(B) Eight Years
-(C) Thirty eight Years
+26. While Peter was on the housetop in Acts 10, who came to the door of the house?(10:19)
+(A) The men from Cornelius
+(B) The men from Paul
+(C) The men from Barnabas
 
+27. What was in the great sheet that Peter saw in his vision in Acts 10?(10:12)
+(A) All kinds of four footed animals, crawling creatures, and birds
+(B) All kinds of people from all over the world
+(C) All kinds of gods made from various materials
 
-12. Who was raised from the dead at Joppa? (9:36-42)
-(A) Aeneas
-(B) Ananias
-(C) Dorcas
+28. God is not one to show what in? (10:34)
+(A) Partiality
+(B) Hatred
+(C) Anger
 
-13. At whose house did Peter stay many days? (9:43)
-(A) Dorcas
-(B) John
-(C) Simon the tanner
+29. . In Acts 10:35, Peter said God welcomes those who ___ Him and do what?
+(A) Fear, what's right
+(B) Love, what feels good
+(C) Respect, talk to him
 
-14. Where did Saul take the men and women bound who were of the Way?(9:2)
-(A) Jerusalem
-(B) Damascus
-(C) Caeserea
+30. According to Acts 10:47, what is necessary in order for someone to be baptized?
+(A) Water
+(B) Blood
+(C) Ashes
 
-15. Whose house was Ananias told to go to? (9:11)
-(A) Jude
-(B) James
-(C) Judas
+31. “And we are witnesses of all things which He did both in the land of the ___ and in _____, whom they killed by hanging on a tree.” 10:39
+(A) Jews, gentiles
+(B) Jews, Jerusalem
+(C) Jews, Samaria
 
-16. Where did they lay Dorcas after she had been washed? (9:37)
-(A) In a tomb
-(B) Upper room
-(C) In the temple
-
-17. What did Saul eat while he was without sight? (9:9)
-(A) Bread & water
-(B) Very little
-(C) He neither ate nor drank
-
-18.  As soon as Saul received his sight, he arose and ___(9:18)
-(A) Sang praises
-(B) Preached
-(C) Was baptized
-
-19. At Joppa there was a certain disciple named Tabitha which is translated ___(9:36)
-(A) Mary 
-(B) Dorcas
-(C) Martha
-
-20. Peter stayed many days in __(9:43)
-(A) Tarsus
-(B) Joppa
-(C) Antioch
-
-21. Saul spoke boldly in the name of the Lord Jesus and disputed against the
-(A) Pharisees
-(B) Hellenists
-(C) Priests
-
-22. After Saul received his sight, he spent some days with the disciples at __ (9:19)
-(A) Damascus
-(B) Jerusalem
-(C) Antioch
-
-23. Saul was struck with what physical problem after hearing Jesus on the road to Damascus? (9:8)
-(A) Deafness
-(B) Blindness
-(C) Became mute
-
-24. What was the name of the street on which the Lord told Ananias to go to find Saul? (9:11)
-(A) Straight
-(B) Broad
-(C) Narrow
-
-25. The Lord tells Ananias that Saul is____(9:15)
-(A) A good and just man
-(B) A chosen vessel
-(C) A devout vessel
-
-26. At what city did Peter find Aeneas?(9:32)
-(A) Joppa
-(B) Jerusalem
-(C) Lydda
-
-27. How many verses are in Acts Chapter 9?
-(A) 40
-(B) 42
-(C) 43
-
-28. Now after many days were past, the Jews ___. (9:23)
-(A) Planned a celebration in honor of Saul's dedication to Christ
-(B) Plotted to kill him
-(C) Demanded that Saul perform some miracles
-
-29. After Paul was sent to Tarsus, the churches had peace and were edified throughout what 3
-regions? (9:31)
-(A) Samaria, Judea, Jerusalem
-(B) Judea, Galilee, Samaria
-(C) Antioch, Judea, Samaria
-
-30. What was the occupation of Simon? (9:40)
-(A) A Tanner
-(B) Carpenter
-(C) Fisherman
-
-31. The people of Joppa sent two men unto Lydda to get who to come to them? (9:38)
-(A) Peter
-(B) Saul
-(C) John
-
-32. What are the first two words of Acts chapter 9?(9:1)
-(A) Now Saul
-(B) Then Saul
-(C) There was
-
-33. The last word of Acts Chapter 9 is a name of a
-(A) Man
-(B) Profession
-(C) A City
+32. “The word which God sent to the children of Israel, preaching peace through Jesus Christ--He is what?–” Acts 10:36 
+(A) The reigning king
+(B) Seated at the right hand of God
+(C) He is Lord of all
 
  -->
