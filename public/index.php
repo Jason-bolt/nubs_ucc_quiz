@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,166 +150,174 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 10
+ACTS CHAPTER 11
 
-1. What was Cornelius’ occupation? (10:1)
-(A) Carpenter
-(B) Centurion
-(C) Governor
-
-2. Which of the following was NOT mentioned as a good quality of Cornelius? (10:2, 22, 24, 30)
-(A) Devout and Feared God
-(B) Fasted and Gave alms
-(C)	None of the options above
-
-3. By what means did Cornelius know to send for Peter? (10:3-6)
-(A) An angel appeared to him
-(B) Peter’s reputation had spread to Caesarea
-(C) His servants told him to
-
-4. What vision did Peter see? (10:11-17)
-(A) A great sheet
-(B) Cornelius praying
-(C) Gentiles receiving the Holy Ghost
-
-(5) Who went with Peter to Caesarea? 10:23, 11:12)
-(A) John Mark
-(B) Philip and Saul
-(C) Six Jewish brethrens
-
-6. What did Peter say to refuse worship from Cornelius? (10:25-26)
-(A) Man looks on the outward appearance but God looks on the heart
-(B) Stand up; I myself am also a man
-(C) We also are men of like passions with you
-
-7. How did Peter know that the household of Cornelius received the Holy Ghost? (10:44-46)
-(A) They believed on the Lord Jesus with all their hearts
-(B) They repented of their sins
-(C) None of the options above
-
-(8) How did Peter know that the household of Cornelius received the Holy Ghost? (10:44-46)
-(A) They heard them speak with tongues and magnify God
-(B) They sold their goods and gave half to the poor
-(C) None of the options above
-
-9. What did Peter command them to do after they received the Holy Ghost? (10:48)
-(A) Be baptized in the name of the Lord
-(B) Continue in the apostle’s doctrine
-(C) Go into all the world and preach the gospel to every creature
-
-10. According to Acts 10: 1, where did Cornelius live?
-(A) Antioch
-(B) Caesarea
-(C) Capernaum
-
-11. After having his vision, Cornelius sent two of his servants and a soldier to what town?
-(A) Crete
-(B)Joppa
- (C) Antioch
-
-12. Acts 10: 25 tells of the disciple Peter entering Cornelius' house. How did Cornelius greet him?
-(A) Wanted to know where the disciple Andrew was.
-(B) Kissed Peter on both cheeks.
-(C) Fell at Peter's feet in reverence.
-
-13. According to Acts 10: 27, how many people were at Cornelius' house to meet Peter?
-(A) A large gathering of people
-(B) There was no one apart from Cornelius
-(C) About three or four people
-
-14. What did Peter say to the people at Cornelius' house, as per Acts 10: 34?
-(A) "I have never been so disillusioned in all my life as these people are not worthy of eternal life."
-(B) "I now realize how true it is that God shows favoritism and will only accept certain non-Jewish believers."
-(C) "I now realize how true it is that God does not show favoritism but accepts men from every nation who fear him and do what is right."
-
-15. How does chapter 10 of Acts conclude?
-(A) The people demanded that Peter depart immediately.
-(B) The people said Peter should invite the other disciples to visit them.
-(C) None of the options above
-
-16. How does chapter 10 of Acts conclude?
-(A) The people said Peter reminded them of another person in their town.
-(B) The people asked Peter to stay a few days.
-(C) None of the options above
-
-17. What was the name of Cornelius' army group? (10:1)
-(A) Roman Regiment
-(B) Italian Regiment
-(C) Caesarea Regiment
-
-18. At what hour of the day did Cornelius see a vision in which an angel of God spoke to him? (10:3)
-(A) About the Ninth Hour
-(B) About the Third Hour
-(C) About the Fourth Hour
-
-19. Fill in the blank in this passage: Your prayers and your alms have come up for ___ (10:4)
-(A) A reward from God
-(B) A memorial before God
-(C) A visit from a servant from God (Peter)
-
-20. A Christian named Simon had what surname? (10:5)
-(A) The Tanner
-(B) Peter
+1. What words show that the Gentiles received the same experience as those on the day of Pentecost? (11:15-17)
+(A) The Holy Spirit fell upon them, as upon us at the beginning
+(B) God also granted to the Gentiles repentance to life
 (C) Both of the options above
 
-21. With whom was Peter staying when Cornelius sent Messengers to call for him? (10:6)
-(A) Simon the tanner
-(B) Aquila the tent maker
-(C) Josephus the porter
+2. Who did Barnabas seek for and bring to Antioch to help him? (11:25)
+(A) John Mark
+(B) Philip
+(C) Saul
 
-22. Who did Cornelius sent to call for Peter? (10:7)
-(A) Three devout soldiers
-(B) Three devout household servants
-(C) Two household servants and a devout soldier
+3. What was the primary ministry of Barnabas and his partner in Antioch for a whole year? (11:26)
+(A) Evangelizing
+(B) Teaching
+(C) Prophecy
 
-23. Where was Simon the tanner’s house located?(10:6)
-(A) By the sea
-(B) Straight Street
-(C)On the mountain
+4. What were the disciples called first at Antioch? (11:26)
+(A) Christians
+(B) Believers
+(C) Nazarenes
 
-24. What was Peter doing on the housetop in Acts 10?(10:9)
-(A) Praying
-(B) Reading
-(C) Preaching
+5. What did Agabus prophesy? (11:27-28)
+(A) Famine
+(B) Miracles
+(C) Persecution
 
-25. Who are the selected persons who Jesus appeared to after His resurrection, according to Peter? (10:41)
-(A) The Apostles
-(B) spies
-(C) The chosen ones
+6. According to Acts chapter 11 verse 2, where did Peter go?
+(A) Up to Jerusalem
+(B) The promise Land
+(C) Samaria
 
-26. While Peter was on the housetop in Acts 10, who came to the door of the house?(10:19)
-(A) The men from Cornelius
-(B) The men from Paul
-(C) The men from Barnabas
+7. What has nothing impure or unclean ever entered? (11:8)
+(A) Peter's mouth
+(B) Heaven
+(C) Jerusalem
 
-27. What was in the great sheet that Peter saw in his vision in Acts 10?(10:12)
-(A) All kinds of four footed animals, crawling creatures, and birds
-(B) All kinds of people from all over the world
-(C) All kinds of gods made from various materials
+8. From where had three men been sent to Peter? (11:11)
+(A) Caesarea
+(B) Antioch
+(C) Joppa
 
-28. God is not one to show what in? (10:34)
-(A) Partiality
-(B) Hatred
-(C) Anger
+9. By whom did the disciples send their gift to the elders? (11:30)
+(A) Peter
+(B) Barnabas and Saul
+(C) Simon and James
 
-29. . In Acts 10:35, Peter said God welcomes those who ___ Him and do what?
-(A) Fear, what's right
-(B) Love, what feels good
-(C) Respect, talk to him
+10. For what did Barnabas and Saul meet with the church and teach great numbers of people? (11:26)
+(A) A week
+(B) Three months
+(C) For a whole year
 
-30. According to Acts 10:47, what is necessary in order for someone to be baptized?
-(A) Water
-(B) Blood
-(C) Ashes
+11. Where were the disciples first called Christians? (11:26)
+(A) Joppa
+(B) Antioch
+(C) Jerusalem
 
-31. “And we are witnesses of all things which He did both in the land of the ___ and in _____, whom they killed by hanging on a tree.” 10:39
-(A) Jews, gentiles
-(B) Jews, Jerusalem
-(C) Jews, Samaria
+12. Who told Peter to have no doubt about going with the three men sent by Cornelius? (11:12)
+(A) The Spirit
+(B) Simon the tanner
+(C) One of the apostles
 
-32. “The word which God sent to the children of Israel, preaching peace through Jesus Christ--He is what?–” Acts 10:36 
-(A) The reigning king
-(B) Seated at the right hand of God
-(C) He is Lord of all
+13. Which prophet name was mentioned in Acts Chapter 11?
+(A) Saul
+(B) Peter
+(C) Agabus
+
+14. Where did he come from and where did he go to? (11:27)
+(A) From Judea to Antioch
+(B) From Jerusalem to Antioch
+(C) From Antioch to Judea
+
+15.  Peter said that he was in a trance and saw a vision, of a great sheet let
+down from heaven by what? (11:5)
+(A) By wind
+(B) By four corners
+(C) By Force
+
+16. Peter said that he heard a voice saying unto him, What? (11:7)
+(A) Rise and eat for the Lord has sanctify them
+(B) Arise and eat for the journey is too great for You
+(C) Rise, Peter; kill and eat.
+
+17. Now some were scattered, abroad from the persecution that arose about who? (11:19)
+(A) Saul
+(B) The Apostles
+(C) Stephen
+
+18. These that were scattered, traveled as far as what 3 places? (11:19)
+(A) Joppa, Antioch and Crete 
+(B) Jerusalem, Judea and Samaria
+(C) Phenice, Cyprus, and Antioch
+
+19. Why did they travel unto these 3 places? (11:19)
+(A) To preach the Word
+(B) To protect their lives
+(C) To spread around the world
+
+20. Who did they preach to? (11:19)
+(A) The Jews and gentiles
+(B) To no one but the Jews only
+(C) To no one but the gentiles only
+
+21. “And in these days prophets came from __ to ___.” (11:27)? 
+(A) Judea, Antioch
+(B) Jerusalem, Antioch
+(C) Antioch, Judea
+
+22. Who stood up and signified by the spirit that there should be great famine
+throughout all the world? (11:28)
+(A) Agabus
+(B) Peter
+(C) Barnabas
+
+23. This famine came to pass in the days of who? (11:28)
+(A) Claudius Caesar
+(B) Pontius Pilate
+(C) Alexander
+
+24. “Then the disciples, each according to his __, determined to send ___ to the brethren dwelling in ____.” (11:29)
+(A) Faith, relief, Antioch
+(B) Ability, relief, Judea
+(B) Heart, relief, Antioch
+
+25. When Peter was come up to Jerusalem, who contended with him? (11:2)
+(A) The Greek speaking Jews
+(B) Those of the circumcision
+(C) The Apostles
+
+26. When they contended with Peter, what did they say? (11:3)
+(A) What fellowship does the circumcised have with the uncircumcised!
+(B) Jews are not meant to be seen with Gentiles!
+(C) You went in to uncircumcised men and ate with them!
+
+27. Peter told them he had been praying in what city? (11:5)
+(A) Antioch
+(B) Joppa
+(C) Judea
+
+28. But the voice answered Peter again from heaven, saying what?(11:9)
+(A) Do you think I am foolish to tell you to eat?
+(B) What God has cleansed you must not call common.
+  (C) I am the voice of The Lord
+
+29. This was done how many times and what happened to the sheet? (11:10)
+(A) Now this was done three times, and all were drawn up again into heaven.
+(B) Now this was done twice, and all were vanished out of sight.
+(C) Now this was done three times, and all went into the secret place.
+  
+30. Peter said, Behold -Immediately there were three men already come unto the
+house where I was, sent unto him from where?
+(A) Antioch
+(B) Caesarea
+(C) Judea
+
+31. And the spirit made Peter go with them ___ ___? (11:12)
+(A) Knowing them
+(B) Six men
+(C) Doubting nothing
+ 
+(32) How many verses have Acts Chapter 11?
+(A) 33
+(B) 30
+(C) 32
+
+33. What are the last three words of Acts Chapter 11?
+(A) There went Saul
+(B) Dwelling in Judea
+(C) Barnabas and Saul
 
  -->
