@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,174 +150,133 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACTS CHAPTER 11
+ACT CHAPTER 12
 
-1. What words show that the Gentiles received the same experience as those on the day of Pentecost? (11:15-17)
-(A) The Holy Spirit fell upon them, as upon us at the beginning
-(B) God also granted to the Gentiles repentance to life
+1. Who did kill James with the sword? (12:2)
+(A) Herodias
+(B) Herod
+(C) Jephuneh
+
+2. When Herod saw it pleased the Jews when he killed James, who did he proceed
+further to take? (12:3)
+(A) Peter
+(B) John
+(C) Paul
+
+3. How was Peter guarded in prison? (12:4,6)
+(A) Four squads of soldiers kept him
+(B) Without food
 (C) Both of the options above
 
-2. Who did Barnabas seek for and bring to Antioch to help him? (11:25)
-(A) John Mark
-(B) Philip
-(C) Saul
+4. How was Peter guarded in prison? (12:4,6)
+(A) Bound with two chains between two soldiers
+(B) Guards were before the door keeping the prison
+(C) Both of the options above
 
-3. What was the primary ministry of Barnabas and his partner in Antioch for a whole year? (11:26)
-(A) Evangelizing
-(B) Teaching
-(C) Prophecy
+5. What was NOT mentioned as a miracle that occurred in when Peter was released from prison? (12:6-10)
+(A) An earthquake shook the prison
+(B) An angel came
+(C) None of the options above
 
-4. What were the disciples called first at Antioch? (11:26)
-(A) Christians
-(B) Believers
-(C) Nazarenes
+6. What was NOT mentioned as a miracle that occurred in when Peter was released from prison? (12:6-10)
+(A) A light shone
+(B) His chains fell off
+(C) None of the options above
 
-5. What did Agabus prophesy? (11:27-28)
-(A) Famine
-(B) Miracles
-(C) Persecution
+7. To whose house did Peter go after his release from prison? (12:12)
+(A) His mother-in-law
+(B) Lydia
+(C) Mary, the mother of John Mark
 
-6. According to Acts chapter 11 verse 2, where did Peter go?
-(A) Up to Jerusalem
-(B) The promise Land
-(C) Samaria
+8. Who failed to open the gate where the prayer meeting was held? (12:13-14)
+(A) Rhoda
+(B) Lydia
+(C) Mary, the mother of John Mark
 
-7. What has nothing impure or unclean ever entered? (11:8)
-(A) Peter's mouth
-(B) Heaven
-(C) Jerusalem
+9. What did Herod do to the guards of the prison? (12:18-19)
+(A) Banished them to the Isle of Patmos
+(B) Fired them
+(C) Put them to death
 
-8. From where had three men been sent to Peter? (11:11)
-(A) Caesarea
-(B) Antioch
-(C) Joppa
+10. What happened to Herod? (12:23)
+(A) Eaten by worms and died
+(B) Turned into a pillar of salt
+(C) Smitten with blindness and leprosy
 
-9. By whom did the disciples send their gift to the elders? (11:30)
-(A) Peter
+11. Herod was intending to bring Peter before the people, When?
+(A) After the passover
+(B) Before the passover
+(C) In the cause of the passover
+
+12. Who came upon Peter while a light shined in the prison? (12:7)
+(A) The Apostles
+(B) The soldiers
+(C) The Angel Of The Lord
+
+13. Peter did as the angel of the Lord said, but thought all that was
+happening-was what? (12:10)
+(A) Not true
+(B) A mirage
+(C) A vision
+
+14. What did people in the house say to Rhoda? (12:15)
+(A) You are beside Yourself! ( You are mad!)
+(B) Are You sure Peter is alive?
+(C) Be truthful to us
+
+15. But Rhoda constantly affirmed that it was Peter, but the people in the house said it was what? (12:15)
+(A) It is Peter's angel
+(B) Never again say that
+(C) The Lord knows the truth 
+
+16. Peter continued knocking and when they opened the door and saw him, what was their reaction? (12:16)
+(A) There wept
+(B) They were astonished
+(C) They hugged him and kissed him
+
+17. Peter motioning unto them with his hand for them to do what? (12:17)
+(A) Sit down
+(B) Not be afraid
+(C) Keep silent
+
+18. “Then, as soon as it was __, there was no __ stir among the soldiers about what had become of Peter.” (12:18)
+(A) Time, great
+(B) Day, small
+(C) True, Peter
+
+19. Herod went from Judaea to where and stayed there? (12:19)
+(A) Jerusalem
+(B) Galilee
+(C) Caesarea
+
+20. Now Herod had been very angry with the people of what two places? (12:20)
+(A) Tyre and Judea
+(B) Judea and Sidon
+(C) Tyre and Sidon
+
+21. What two men returned from Jerusalem? (12:25)
+(A) Paul and Silas
 (B) Barnabas and Saul
-(C) Simon and James
+(C) Peter and John
 
-10. For what did Barnabas and Saul meet with the church and teach great numbers of people? (11:26)
-(A) A week
-(B) Three months
-(C) For a whole year
+22. What made these two men return from Jerusalem?
+(A) They lived in Antioch
+(B) They had fulfilled their ministry
+(C) They had to go to Peter.
 
-11. Where were the disciples first called Christians? (11:26)
-(A) Joppa
-(B) Antioch
-(C) Jerusalem
+23. Whose surname was Mark?
+(A) Simon
+(B) John
+(C) James
 
-12. Who told Peter to have no doubt about going with the three men sent by Cornelius? (11:12)
-(A) The Spirit
-(B) Simon the tanner
-(C) One of the apostles
+24. “But the word of God __ and ____.” (12:24) 
+(A) Grew and multiplied
+(B) Sowed and reaped
+(C) Rised and soar
 
-13. Which prophet name was mentioned in Acts Chapter 11?
-(A) Saul
-(B) Peter
-(C) Agabus
-
-14. Where did he come from and where did he go to? (11:27)
-(A) From Judea to Antioch
-(B) From Jerusalem to Antioch
-(C) From Antioch to Judea
-
-15.  Peter said that he was in a trance and saw a vision, of a great sheet let
-down from heaven by what? (11:5)
-(A) By wind
-(B) By four corners
-(C) By Force
-
-16. Peter said that he heard a voice saying unto him, What? (11:7)
-(A) Rise and eat for the Lord has sanctify them
-(B) Arise and eat for the journey is too great for You
-(C) Rise, Peter; kill and eat.
-
-17. Now some were scattered, abroad from the persecution that arose about who? (11:19)
-(A) Saul
-(B) The Apostles
-(C) Stephen
-
-18. These that were scattered, traveled as far as what 3 places? (11:19)
-(A) Joppa, Antioch and Crete 
-(B) Jerusalem, Judea and Samaria
-(C) Phenice, Cyprus, and Antioch
-
-19. Why did they travel unto these 3 places? (11:19)
-(A) To preach the Word
-(B) To protect their lives
-(C) To spread around the world
-
-20. Who did they preach to? (11:19)
-(A) The Jews and gentiles
-(B) To no one but the Jews only
-(C) To no one but the gentiles only
-
-21. “And in these days prophets came from __ to ___.” (11:27)? 
-(A) Judea, Antioch
-(B) Jerusalem, Antioch
-(C) Antioch, Judea
-
-22. Who stood up and signified by the spirit that there should be great famine
-throughout all the world? (11:28)
-(A) Agabus
-(B) Peter
-(C) Barnabas
-
-23. This famine came to pass in the days of who? (11:28)
-(A) Claudius Caesar
-(B) Pontius Pilate
-(C) Alexander
-
-24. “Then the disciples, each according to his __, determined to send ___ to the brethren dwelling in ____.” (11:29)
-(A) Faith, relief, Antioch
-(B) Ability, relief, Judea
-(B) Heart, relief, Antioch
-
-25. When Peter was come up to Jerusalem, who contended with him? (11:2)
-(A) The Greek speaking Jews
-(B) Those of the circumcision
-(C) The Apostles
-
-26. When they contended with Peter, what did they say? (11:3)
-(A) What fellowship does the circumcised have with the uncircumcised!
-(B) Jews are not meant to be seen with Gentiles!
-(C) You went in to uncircumcised men and ate with them!
-
-27. Peter told them he had been praying in what city? (11:5)
-(A) Antioch
-(B) Joppa
-(C) Judea
-
-28. But the voice answered Peter again from heaven, saying what?(11:9)
-(A) Do you think I am foolish to tell you to eat?
-(B) What God has cleansed you must not call common.
-  (C) I am the voice of The Lord
-
-29. This was done how many times and what happened to the sheet? (11:10)
-(A) Now this was done three times, and all were drawn up again into heaven.
-(B) Now this was done twice, and all were vanished out of sight.
-(C) Now this was done three times, and all went into the secret place.
-  
-30. Peter said, Behold -Immediately there were three men already come unto the
-house where I was, sent unto him from where?
-(A) Antioch
-(B) Caesarea
-(C) Judea
-
-31. And the spirit made Peter go with them ___ ___? (11:12)
-(A) Knowing them
-(B) Six men
-(C) Doubting nothing
- 
-(32) How many verses have Acts Chapter 11?
-(A) 33
-(B) 30
-(C) 32
-
-33. What are the last three words of Acts Chapter 11?
-(A) There went Saul
-(B) Dwelling in Judea
-(C) Barnabas and Saul
+25 The last word of Acts Chapter 12 is
+(A) Luke
+(B) Simon
+(C) Mark
 
  -->
