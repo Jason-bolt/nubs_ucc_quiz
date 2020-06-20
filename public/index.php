@@ -1,5 +1,5 @@
 <?php session_start();
-	header("Location: soon.php");
+	// header("Location: soon.php");
 include('header.php');
 include_once('db.php'); 
 ?>
@@ -150,133 +150,156 @@ Array.from(radios).forEach(function(r){
 
 <!-- 
 
-ACT CHAPTER 12
+ACTS CHAPTER 19
 
-1. Who did kill James with the sword? (12:2)
-(A) Herodias
-(B) Herod
-(C) Jephuneh
+1. Person who had a school where Paul disputed daily for two years. (19:9-10)
+(A) Alexander
+(B) Tyrannus
+(C) Gaius
 
-2. When Herod saw it pleased the Jews when he killed James, who did he proceed
-further to take? (12:3)
-(A) Peter
-(B) John
-(C) Paul
+2. Person who had seven sons who were exorcists. (19:13-16)
+(A) Demetrius
+(B) Gaius
+(C) Sceva
 
-3. How was Peter guarded in prison? (12:4,6)
-(A) Four squads of soldiers kept him
-(B) Without food
-(C) Both of the options above
+3. A silversmith. (19:24)
+(A) Alexander
+(B) Aristarchus
+(C) Demetrius
 
-4. How was Peter guarded in prison? (12:4,6)
-(A) Bound with two chains between two soldiers
-(B) Guards were before the door keeping the prison
-(C) Both of the options above
+4. Goddess of the Ephesians. (19:27)
+(A) Damaris
+(B) Diana
+(C) Phebe
 
-5. What was NOT mentioned as a miracle that occurred in when Peter was released from prison? (12:6-10)
-(A) An earthquake shook the prison
-(B) An angel came
-(C) None of the options above
+5. What question did Paul ask the twelve disciples of John the Baptist at Ephesus? (19:2)
+(A) Can I explain to you the way of God more accurately?
+(B) Did you receive the Holy Spirit when you believed?
+(C) Do you understand what you are reading?
 
-6. What was NOT mentioned as a miracle that occurred in when Peter was released from prison? (12:6-10)
-(A) A light shone
-(B) His chains fell off
-(C) None of the options above
+6. All who dwelt in Asia heard the word of the Lord Jesus both Jews and Greeks. (19:10)
+(A) True
+(B) False
+(C) Neither true nor false
 
-7. To whose house did Peter go after his release from prison? (12:12)
-(A) His mother-in-law
-(B) Lydia
-(C) Mary, the mother of John Mark
+7. Who rescued Paul from being killed? (19:35-41)
+(A) Alexander
+(B) Chief captain
+(C) Jailer
 
-8. Who failed to open the gate where the prayer meeting was held? (12:13-14)
-(A) Rhoda
-(B) Lydia
-(C) Mary, the mother of John Mark
+8. What special miracles did God work through Paul? (19:11-12)
+(A)	Handkerchiefs or aprons were brought from his body to the sick, and the diseases left them and the evil spirits went out of them
+(B) People were healed by his shadow
+(C) People touched the hem of his garment and were healed
 
-9. What did Herod do to the guards of the prison? (12:18-19)
-(A) Banished them to the Isle of Patmos
-(B) Fired them
-(C) Put them to death
+9. What did those who used curious arts do with their books? (19:19)
+(A) Burned them
+(B) Gave them away
+(C) Read them
 
-10. What happened to Herod? (12:23)
-(A) Eaten by worms and died
-(B) Turned into a pillar of salt
-(C) Smitten with blindness and leprosy
+10. Where did Paul go on his third missionary journey while Apollos was at Corinth (Acts 19:1)?
+(A) Troas
+(B) Philipi
+(C) Ephesus
 
-11. Herod was intending to bring Peter before the people, When?
-(A) After the passover
-(B) Before the passover
-(C) In the cause of the passover
+11. What baptism had the Ephesian disciples had (Acts 19:3)?
+(A) The baptism of water
+(B) The baptism of the Holy Spirit
+(C) The baptism of John the Baptist
 
-12. Who came upon Peter while a light shined in the prison? (12:7)
-(A) The Apostles
-(B) The soldiers
-(C) The Angel Of The Lord
+12. How were the Ephesian believers baptized a second time (Acts 19:5)?
+(A) In the Holy Spirit
+(B) Into the water and the blood of Jesus
+(C) In the name of the Lord Jesus
 
-13. Peter did as the angel of the Lord said, but thought all that was
-happening-was what? (12:10)
-(A) Not true
-(B) A mirage
-(C) A vision
+13. When did the Holy Spirit come on the Ephesian disciples (Acts 19:6)?
+(A) When they were baptized
+(B) When Paul laid his hands on them
+(C) When they confessed Jesus as Lord
 
-14. What did people in the house say to Rhoda? (12:15)
-(A) You are beside Yourself! ( You are mad!)
-(B) Are You sure Peter is alive?
-(C) Be truthful to us
+14. How did some Jews try to cast demons out of people (Acts 19:13)?
+(A) By the Jesus whom Paul preaches
+(B) By commanding them to come out by the Holy Spirit
+(C) By anointing them with oil in Jesus name
 
-15. But Rhoda constantly affirmed that it was Peter, but the people in the house said it was what? (12:15)
-(A) It is Peter's angel
-(B) Never again say that
-(C) The Lord knows the truth 
+15. What happened when someone tried to cast out a demon in Jesus' name illegitimately (Acts 19:16)?
+(A) The demoniac ran away
+(B) The demoniac broke his chains and left
+(C) The demoniac leaped (jumped) on them and beat them
 
-16. Peter continued knocking and when they opened the door and saw him, what was their reaction? (12:16)
-(A) There wept
-(B) They were astonished
-(C) They hugged him and kissed him
+16. It says that in Ephesus there arose a great commotion about _____. What term was used to describe the early Christians there (Acts 19:23)?
+(A) The Nazarenes
+(B) The Christians
+(C) The Way
 
-17. Peter motioning unto them with his hand for them to do what? (12:17)
-(A) Sit down
-(B) Not be afraid
-(C) Keep silent
+17. For what god did the silversmith of Ephesus make shrines (Acts 19:24)?
+(A) Diana
+(B) Zeus
+(C) Hermes
 
-18. “Then, as soon as it was __, there was no __ stir among the soldiers about what had become of Peter.” (12:18)
-(A) Time, great
-(B) Day, small
-(C) True, Peter
+18. Where did the disciples not let Paul venture after the riot in Ephesus got started (Acts 19:31)?
+(A) Into the theater
+(B) Into the streets
+(C) Into the city square
 
-19. Herod went from Judaea to where and stayed there? (12:19)
-(A) Jerusalem
-(B) Galilee
-(C) Caesarea
+19. Which people shouted, "Great is Diana of the Ephesians!" ( Acts 19: 24-28)
+(A) The craft men
+(B) The chief servants
+(C) The priests
 
-20. Now Herod had been very angry with the people of what two places? (12:20)
-(A) Tyre and Judea
-(B) Judea and Sidon
-(C) Tyre and Sidon
+20. Why did they shout? (Acts 19:28)
+(A) They loved Demitrus' speech
+(B) They were full of wrath
+(C) They were motivated
 
-21. What two men returned from Jerusalem? (12:25)
-(A) Paul and Silas
-(B) Barnabas and Saul
-(C) Peter and John
+21. When the Holy Spirit came on the Ephesian disciples, what did they do (Acts 19:6)?
+A. They were baptized in the name of Jesus
+B. They were able to heal the sick among them
+C. They spoke in tongues and prophesied
 
-22. What made these two men return from Jerusalem?
-(A) They lived in Antioch
-(B) They had fulfilled their ministry
-(C) They had to go to Peter.
+22. What did those who had practiced sorcery do at Ephesus (Acts 19:19)?
+A. They attacked Paul seeking to drive him out of the city
+B. They cut and burned themselves
+C. They burned their books publicaly
 
-23. Whose surname was Mark?
-(A) Simon
-(B) John
-(C) James
+23. How long did Paul teach in Ephesus synagogue? (Acts 19:8)
+(A) 6 months
+(B) 3 months
+(C) 3 Years
 
-24. “But the word of God __ and ____.” (12:24) 
-(A) Grew and multiplied
-(B) Sowed and reaped
-(C) Rised and soar
+24. How long did Paul preached in Asia? (Acts 19:10)
+(A) 2 years
+(B) 3 years
+(C) 3 months
 
-25 The last word of Acts Chapter 12 is
-(A) Luke
-(B) Simon
-(C) Mark
+25. Who was Sceva? (Acts 19:14)
+(A) Craft man
+(B) A Jewish Chief Priest
+(C) Blacksmith
+
+26. How much was the total wealth of the books of the magicians?
+(A) 5,000 pieces of silver
+(B) 500 pieces of silver
+(C) 50,000 pieces of silver
+
+27. Paul sent these two men to Macedonia? (Acts 19:22)
+(A) Silas and Timothy
+(B) Timothy and Erastus
+(C) Silas and Apollos
+
+28. This man was not allowed to speak to the assembly when they knew he was a Jew? (Act 19:33)
+(A) Paul
+(B) Alexander
+(C) Timothy
+
+29. “But when they found out that he was a Jew, all with one voice cried out for about two hours, _____ "(Acts 19:34)
+(A) Crucify him!
+(B) Great is Diana of the Ephesians!
+(C) You shall not speak!
+
+30. How many verses are in this chapter?
+(A) 40
+(B) 41
+(C) 42
 
  -->
