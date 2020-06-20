@@ -21,6 +21,10 @@
 <section class="container py-1 text-center">
 	<h4><img src="nubs_logo.png" width="60">NUBS UCC - <span style="font-size: 20px;">BIBLE QUIZ</span></h4>
 	<h6><u>ACTS CHAPTER 19</u></h6>
+
+	<br />
+	<p style="color: red;">Please I am having problems with my phone and can't come online so in case of anything please call my vodafone number. Thank you.</p>
+	<p style="color: red;">And also my internet source will end on Sunday evening and my phone's problems does not allow me to use my hotspot so I won't be able to continue the quiz after Sunday. Sorry for any inconveniences caused.</p>
 </section>
 
 <section class="container text-center">
