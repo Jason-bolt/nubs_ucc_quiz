@@ -24,7 +24,7 @@
 
 <section class="container py-5 text-center">
 	<div class="card py-4">
-		<h5>The quiz will resume on Thursday with chapter 17</h5>
+		<h5>The quiz has ended for the time being</h5>
 		<!-- <h5>The quiz is temporarily halted and will resume on Friday</h5> -->
 	</div>
 </section>
