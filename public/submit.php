@@ -13,7 +13,7 @@ $user_answers = []; // to hold correct answers
 // score counter
 $score = 0;
 
-// // fetcing results of user
+// // fetching results of user
 for ($i=1; $i <= $no_of_questions; $i++) { 
 	$index = "question" . $i;
 	${"question" . $i} = $_POST[$index];
@@ -35,7 +35,7 @@ for ($i=1; $i <= $no_of_questions; $i++) {
 
 
 
-// putting the valuse in the session
+// putting the values in the session
 $_SESSION['user_answers'] = $user_answers;
 
 $_SESSION['score'] = $score;
