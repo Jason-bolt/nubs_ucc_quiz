@@ -29,7 +29,7 @@
 </section>
 
 <?php
-	if (isset($_POST['submit']) && $_POST['password'] === "empowered1234") {
+	if (isset($_POST['submit']) && $_POST['password'] === "@empowered1432") {
 		// password correct, admin logged in so display users and scores
 
 		$query = "SELECT * FROM users WHERE is_nubs = 1 ORDER BY percentage DESC, duration ASC, start_time ASC";
