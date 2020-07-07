@@ -2,7 +2,7 @@
 session_start();
 include_once('db.php');
 
-$no_of_questions = 30;
+$no_of_questions = 25;
 
 // checking if quiz is submitted
 if (!isset($_POST['submit'])) {
